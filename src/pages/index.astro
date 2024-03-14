@@ -1,0 +1,33 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const URL_SENATORS_LIST =
+	"https://www.senado.gob.ar/senadores/listados/listaSenadoRes";
+const SENATORS_LIST_TABLE_ID = "senadoresTabla";
+
+const page = fetch(URL_SENATORS_LIST, {
+	keepalive: true,
+	headers: {
+		"Access-Control-Allow-Origin": "*",
+	},
+	method: "GET",
+})
+	.then((r) => r.text())
+	.catch(console.error);
+---
+
+<Layout
+	title="¿Cuánto Cuesta Un Senador Argentino? | Cálculo del costo real por cada senador argentino"
+	description="Una simple página web para mostrar el costo real de cada senador argentino, contando no solo su sueldo, sino el de cada uno de sus asesores por categoría."
+>
+	<main class="my-12">
+		<h1 class="text-center font-mono w-full text-4xl">
+			¿Cuanto Cuesta DE VERDAD Un Senador Argentino?
+		</h1>
+		<section>
+			{page}
+		</section>
+	</main>
+</Layout>
+
+<script></script>
