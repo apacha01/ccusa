@@ -1,19 +1,21 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import senators from "../senadores.json";
+import { getSenatorAssistantsList } from "../utils";
 
-const URL_SENATORS_LIST =
-	"https://www.senado.gob.ar/senadores/listados/listaSenadoRes";
-const SENATORS_LIST_TABLE_ID = "senadoresTabla";
+const URL_SENATOR_BY_ID = (id: string) =>
+	`https://www.senado.gob.ar/senadores/senador/${id}`;
 
-const page = fetch(URL_SENATORS_LIST, {
-	keepalive: true,
-	headers: {
-		"Access-Control-Allow-Origin": "*",
-	},
-	method: "GET",
-})
-	.then((r) => r.text())
-	.catch(console.error);
+const getSenatorCost = async (senatorId: string) => {
+	const senatorAssistants = await fetch(URL_SENATOR_BY_ID(senatorId))
+		.then((r) => r.text())
+		.then((html) => getSenatorAssistantsList(html))
+		.catch(console.error);
+
+	return senatorAssistants;
+};
+
+getSenatorCost("572").then(console.log);
 ---
 
 <Layout
@@ -24,10 +26,12 @@ const page = fetch(URL_SENATORS_LIST, {
 		<h1 class="text-center font-mono w-full text-4xl">
 			¿Cuanto Cuesta DE VERDAD Un Senador Argentino?
 		</h1>
-		<section>
-			{page}
+		<section class="text-2xl">
+			{
+				senators.map((s) => {
+					return <p>{`${s.NOMBRE}, ${s.APELLIDO}`}</p>;
+				})
+			}
 		</section>
 	</main>
 </Layout>
-
-<script></script>
