@@ -18,6 +18,15 @@ const { title, description } = Astro.props;
 	</head>
 	<body>
 		<slot />
+		<div
+			class="fixed w-screen h-screen top-0 left-0 -z-10 flex justify-center items-center bg-blue-50"
+		>
+			<img
+				src="/ccusa/logo_senado.svg"
+				alt="Logo del Senado Argentino"
+				class="w-72 opacity-15"
+			/>
+		</div>
 	</body>
 </html>
 
