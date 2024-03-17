@@ -1,5 +1,6 @@
 ---
 import type { Senator } from "../types";
+import { toNormalText, formatCost } from "../utils";
 
 interface Props {
 	senator: Senator;
@@ -8,4 +9,25 @@ interface Props {
 const { senator } = Astro.props;
 ---
 
-<article id={senator.id}></article>
+<article
+	id={senator.id}
+	class="w-80 sm:w-96 h-48 flex items-center border-2 gap-4 border-blue-400 rounded-xl px-4 relative"
+>
+	<img
+		class="w-18 aspect-square rounded-full"
+		src={senator.img}
+		alt=`Imagen de ${senator.fullName}`
+	/>
+	<div class="flex flex-col w-fit">
+		<h2 class="text-lg font-bold w-fit">{senator.fullName}</h2>
+		<span class="text-sm w-fit">{toNormalText(senator.party)}</span>
+		<span class="text-sm w-fit">{toNormalText(senator.province)}</span>
+		<h3 class="text-xl font-bold w-fit">ARS$ {formatCost(senator.cost)}</h3>
+		<div
+			class="flex flex-col text-xs justify-center items-center absolute bottom-1 right-1"
+		>
+			<span>Personal</span>
+			<span class="font-bold">{senator.assistants.length}</span>
+		</div>
+	</div>
+</article>

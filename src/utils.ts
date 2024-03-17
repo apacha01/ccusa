@@ -13,7 +13,7 @@ const getSenatorCost = async (senatorId: string, senatorAssistants?: SenatorAssi
 	}
 
 	senatorAssistantsFetched?.forEach((sa) => {
-		cost += SALARY_SCALE_BY_CATEGORY[sa.category];
+		cost += SALARY_SCALE_BY_CATEGORY[sa.category] ?? 0;
 	});
 
 	return cost;
@@ -64,3 +64,14 @@ export const getSenatorFullInfo = async (
 		img: senator.FOTO
 	};
 };
+
+export const toNormalText = (text: string) => {
+	return text.replace(/\b[A-ZÁÉÍÓÚÑ]+\b/g, (match) => match.charAt(0) + match.slice(1).toLowerCase());
+}
+
+export const formatCost = (cost: string) => {
+	return Number(cost).toLocaleString('en-US', {
+		minimumFractionDigits: 2,
+		maximumFractionDigits: 2
+	});
+}

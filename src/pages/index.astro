@@ -15,11 +15,40 @@ import SenatorCard from "../components/SenatorCard.astro";
 	title="¿Cuánto Cuesta Un Senador Argentino? | Cálculo del costo real por cada senador argentino"
 	description="Una simple página web para mostrar el costo real de cada senador argentino, contando no solo su sueldo, sino el de cada uno de sus asesores por categoría."
 >
-	<main class="my-12">
-		<h1 class="text-center font-mono w-full text-4xl">
+	<main class="my-12 px-1 md:px-12">
+		<h1 class="text-center font-mono w-full text-4xl mb-6">
 			¿Cuanto Cuesta DE VERDAD Un Senador Argentino?
 		</h1>
-		<section class="text-2xl">
+		<div
+			class="flex flex-col md:flex-row lg:flex-col gap-4 pl-2 justify-center items-center mb-12 text-pretty"
+		>
+			<p class="max-w-prose lg:max-w-[85ch]">
+				Esta página trae los datos oficiales de los senadores de la
+				<a
+					class="text-blue-700 hover:underline"
+					href="https://www.senado.gob.ar/senadores/listados/listaSenadoRes"
+				>
+					página del Honorable Senado de La Nación Argentina</a
+				>. Extrae el personal que tiene cada uno, junto con su categoría
+				y calcula el costo MÍNIMO de un senador.
+			</p>
+			<p class="max-w-prose lg:max-w-[85ch]">
+				¿Por qué mínimo? Porque cada asistente/asesor puede recibir
+				aumentos porcentuales de acuerdo a su educación. Si tienen un
+				título es un 20% más, con algunas formaciones también se
+				obtienen más beneficios. La tabla completa esta
+				<a
+					class="text-blue-700 hover:underline"
+					href="https://www.senado.gob.ar/prensa/adjunto/descargarArchivo/tipo/EscalaSalarial"
+				>
+					acá
+				</a>
+				para verla.
+			</p>
+		</div>
+		<section
+			class="text-2xl grid [grid-template-columns:repeat(auto-fit,minmax(300px,1fr))] sm:[grid-template-columns:repeat(auto-fit,minmax(388px,1fr))] justify-items-center gap-4"
+		>
 			{
 				senatorsFullInfo.map((s) => {
 					return <SenatorCard senator={s} />;
