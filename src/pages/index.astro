@@ -20,7 +20,7 @@ import SenatorCard from "../components/SenatorCard.astro";
 			¿Cuanto Cuesta DE VERDAD Un Senador Argentino?
 		</h1>
 		<div
-			class="flex flex-col md:flex-row lg:flex-col gap-4 pl-2 justify-center items-center mb-12 text-pretty"
+			class="flex flex-col md:flex-row lg:flex-col gap-4 pl-2 justify-center items-center mb-4 text-pretty"
 		>
 			<p class="max-w-prose lg:max-w-[85ch]">
 				Esta página trae los datos oficiales de los senadores de la
@@ -46,6 +46,27 @@ import SenatorCard from "../components/SenatorCard.astro";
 				para verla.
 			</p>
 		</div>
+		<p class="flex justify-center items-center gap-2 text-center mb-12">
+			Actualizada por última vez el 17/03/2024
+			<i
+				class="inline-block aspect-square w-6"
+				title="La página del senado es muy lenta, por lo que estoy obteniendo la información al momento de hacer la página en lugar de que la página obtenga al momento los datos."
+			>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					viewBox="0 0 24 24"
+					fill="none"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				>
+					<path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+					<path d="M12 9v4"></path>
+					<path d="M12 16v.01"></path></svg
+				>
+			</i>
+		</p>
 		<section
 			class="text-2xl grid [grid-template-columns:repeat(auto-fit,minmax(300px,1fr))] sm:[grid-template-columns:repeat(auto-fit,minmax(388px,1fr))] justify-items-center gap-4"
 		>

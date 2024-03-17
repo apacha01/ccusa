@@ -21,10 +21,10 @@ const { senator } = Astro.props;
 	<div class="flex flex-col w-fit">
 		<h2 class="text-lg font-bold w-fit">{senator.fullName}</h2>
 		<span class="text-sm w-fit">{toNormalText(senator.party)}</span>
-		<span class="text-sm w-fit">{toNormalText(senator.province)}</span>
+		<span class="text-xs w-fit">{toNormalText(senator.province)}</span>
 		<h3 class="text-xl font-bold w-fit">ARS$ {formatCost(senator.cost)}</h3>
 		<div
-			class="flex flex-col text-xs justify-center items-center absolute bottom-1 right-1"
+			class="flex flex-col text-xs justify-center items-center absolute bottom-1 right-2"
 		>
 			<span>Personal</span>
 			<span class="font-bold">{senator.assistants.length}</span>
