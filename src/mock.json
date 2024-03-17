@@ -1,0 +1,6206 @@
+[
+	{
+		"fullName": "ABAD, MAXIMILIANO",
+		"img": "image",
+		"cost": "21839850.90",
+		"id": "546",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "MARIA ANDREA NIEVA",
+				"category": "A-5"
+			},
+			{
+				"name": "DIEGO GASTON SALVO",
+				"category": "A-4"
+			},
+			{
+				"name": "MANUEL IGNACIO TERRADEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "AUGUSTO BIANCOTTO",
+				"category": "A-2"
+			},
+			{
+				"name": "ADRIANO BIANCOTTO",
+				"category": "A-3"
+			},
+			{
+				"name": "ZULMA BEATRIZ ANGIOLINI",
+				"category": "A-3"
+			},
+			{
+				"name": "NATALIA TOURN",
+				"category": "A-3"
+			},
+			{
+				"name": "ROBERTO CARLOS ABRAHAM",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEJANDRINA NAHIR SAT",
+				"category": "A-2"
+			},
+			{
+				"name": "WALTER LEANDRO IANNI LOPEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "WALTER ARIEL GALVE",
+				"category": "A-3"
+			},
+			{
+				"name": "IGNACIO ANDRES BORDOLI",
+				"category": "A-5"
+			},
+			{
+				"name": "CECILIA CAPURRO",
+				"category": "A-5"
+			},
+			{
+				"name": "PEDRO ESTEBAN WOUTERLOOD SAPAG",
+				"category": "A-4"
+			},
+			{
+				"name": "NICOLAS FABIAN DANESE",
+				"category": "A-4"
+			},
+			{
+				"name": "DAVID MAXIMILIANO BALACCO",
+				"category": "A-9"
+			},
+			{
+				"name": "FLAVIA DE LOS ANGELES ANTUNEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "DANIEL IGNACIO MONDOTTE",
+				"category": "A-6"
+			},
+			{
+				"name": "NICOLAS MAIORANO",
+				"category": "A-1"
+			},
+			{
+				"name": "DAMIAN PABLO FIO",
+				"category": "A-3"
+			},
+			{
+				"name": "MAURO EMILIANO ACEVEDO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA FLORENCIA HUBER",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA SUSANA ALLO",
+				"category": "A-1"
+			},
+			{
+				"name": "GONZALO INCHAUSPE",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "ABDALA, BARTOLOMÉ ESTEBAN",
+		"img": "image",
+		"cost": "13787132.63",
+		"id": "564",
+		"party": "ALIANZA LA LIBERTAD AVANZA",
+		"province": "SAN LUIS",
+		"assistants": [
+			{
+				"name": "MARÍA LUJAN CASTRO",
+				"category": "A-5"
+			},
+			{
+				"name": "GERMAN EZEQUIEL PAVONE",
+				"category": "A-4"
+			},
+			{
+				"name": "ISABEL DELIA ALEGRANZA",
+				"category": "A-2"
+			},
+			{
+				"name": "PAULA EUGENIA GALARRETA GUERRERO",
+				"category": "A-3"
+			},
+			{
+				"name": "ANA CRISTINA PEROSSA",
+				"category": "A-6"
+			},
+			{
+				"name": "JUAN PABLO OSTANELLI",
+				"category": "A-1"
+			},
+			{
+				"name": "ALFREDO FRANCISCO BARZOLA",
+				"category": "A-1"
+			},
+			{
+				"name": "MIGUEL ANGEL MEDINA",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA GABRIELA CICCARONE",
+				"category": "A-6"
+			},
+			{
+				"name": "VICTORIA ROSSO",
+				"category": "A-2"
+			},
+			{
+				"name": "ANTONIO VICTOR SALVADOR SETTE",
+				"category": "A-8"
+			},
+			{
+				"name": "ANDRES ALBERTO VALLONE",
+				"category": "A-1"
+			},
+			{
+				"name": "ANDREA FREGUIA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIANA RODRIGUEZ SAA",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "ÁLVAREZ RIVERO, CARMEN",
+		"img": "image",
+		"cost": "8443055.97",
+		"id": "522",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CÓRDOBA",
+		"assistants": [
+			{
+				"name": "BEATRIZ DORA NOFAL",
+				"category": "A-1"
+			},
+			{
+				"name": "DANIELA ALEJANDRA NOGUERA",
+				"category": "A-10"
+			},
+			{
+				"name": "MARTIN ARIEL GARCIA LOPEZ",
+				"category": "A-11"
+			},
+			{
+				"name": "IÑAKI DE FREIJO",
+				"category": "A-13"
+			},
+			{
+				"name": "JOSE RAMON GOMEZ PEREYRA",
+				"category": "A-14"
+			},
+			{
+				"name": "NATALIA SILVIA GONZALEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "PABLO ENRIQUE KRATINA",
+				"category": "A-12"
+			},
+			{
+				"name": "ENRIQUE JORGE LEHNER ROSALES",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIANO DAMIAN PUGLIE",
+				"category": "A-2"
+			},
+			{
+				"name": "FRANCISCO SIMON ERRECART",
+				"category": "A-13"
+			},
+			{
+				"name": "GLORIA KETELHOHN",
+				"category": "A-12"
+			}
+		]
+	},
+	{
+		"fullName": "ANDRADA, GUILLERMO EDUARDO",
+		"img": "image",
+		"cost": "16828414.42",
+		"id": "519",
+		"party": "FRENTE DE TODOS",
+		"province": "CATAMARCA",
+		"assistants": [
+			{
+				"name": "DANIEL ARTURO HERRERA",
+				"category": "A-3"
+			},
+			{
+				"name": "ALFREDO LUIS DE JESUS GUTIERREZ",
+				"category": "A-2"
+			},
+			{
+				"name": "RAFAEL AGUSTIN GROPPO",
+				"category": "A-7"
+			},
+			{
+				"name": "SILVINA FIGUEROA",
+				"category": "A-2"
+			},
+			{
+				"name": "SOFIA INES LOPEZ ABEL",
+				"category": "A-11"
+			},
+			{
+				"name": "DANIELA ROSALES",
+				"category": "A-7"
+			},
+			{
+				"name": "ANA JULIETA COLAZO",
+				"category": "A-1"
+			},
+			{
+				"name": "OCTAVIO OLAETA",
+				"category": "A-14"
+			},
+			{
+				"name": "MARIANO KYRIACOS KONTOS",
+				"category": "A-5"
+			},
+			{
+				"name": "NINA NOELIA SOLOHAGA",
+				"category": "A-14"
+			},
+			{
+				"name": "ROCIO MELINA ROMERO",
+				"category": "A-3"
+			},
+			{
+				"name": "TOMAS ROBERTO SALAS",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN MARTIN REYNOSO",
+				"category": "A-14"
+			},
+			{
+				"name": "SILVIA MONICA BARRIONUEVO",
+				"category": "A-3"
+			},
+			{
+				"name": "ZULEMA VALERIA BARATTA",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN MANUEL YADON",
+				"category": "A-3"
+			},
+			{
+				"name": "RICARDO RUBEN BARROS",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA ALEJANDRA SECO",
+				"category": "A-1"
+			},
+			{
+				"name": "ALVARO V. USANDIVARE",
+				"category": "A-1"
+			},
+			{
+				"name": "MARCELO SANTILLAN AREVALO",
+				"category": "A-12"
+			}
+		]
+	},
+	{
+		"fullName": "ARCE, CARLOS OMAR",
+		"img": "image",
+		"cost": "12012195.38",
+		"id": "558",
+		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
+		"province": "MISIONES",
+		"assistants": [
+			{
+				"name": "FACUNDO ANDRES CENTURION",
+				"category": "A-3"
+			},
+			{
+				"name": "NOEMI RAQUEL SALVA",
+				"category": "A-4"
+			},
+			{
+				"name": "SERGIO RAMIRO SANDOVAL-REBAK",
+				"category": "A-2"
+			},
+			{
+				"name": "GUSTAVO MARCELO GIORGI",
+				"category": "A-1"
+			},
+			{
+				"name": "GALA AYELEN NAVARRO",
+				"category": "A-3"
+			},
+			{
+				"name": "MIGUEL ANDRES CHUN",
+				"category": "A-3"
+			},
+			{
+				"name": "SHIRLEY CYNTIA ORTEGA",
+				"category": "A-3"
+			},
+			{
+				"name": "NATALIA ECHEVERRIA",
+				"category": "A-1"
+			},
+			{
+				"name": "ROMINA ARCUCCI",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA CECILIA MIR",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "ARRASCAETA, IVANNA MARCELA",
+		"img": "image",
+		"cost": "22673377.86",
+		"id": "565",
+		"party": "ALIANZA LA LIBERTAD AVANZA",
+		"province": "SAN LUIS",
+		"assistants": [
+			{
+				"name": "FEDERICO AUGUSTO DANIEL ABADIE",
+				"category": "A-4"
+			},
+			{
+				"name": "DIEGO DANIEL FERNANDEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "ANGEL FABIAN GELABERT",
+				"category": "A-1"
+			},
+			{
+				"name": "SONIA ALICIA MAMANI",
+				"category": "A-4"
+			},
+			{
+				"name": "MIRIAM ELIZABETH ACOSTA",
+				"category": "A-3"
+			},
+			{
+				"name": "ESTELA LAURA SCERVINO",
+				"category": "A-1"
+			},
+			{
+				"name": "HECTOR DAVID OCAÑA",
+				"category": "A-1"
+			},
+			{
+				"name": "JONATHAN EZEQUIEL FUNES",
+				"category": "A-1"
+			},
+			{
+				"name": "VANESA SABRINA GOLOVCA",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCAS DOLDAN",
+				"category": "A-1"
+			},
+			{
+				"name": "LORENA GABRIELA MARE",
+				"category": "A-3"
+			},
+			{
+				"name": "NORBERTO OSCAR SPAGNOLO",
+				"category": "A-2"
+			},
+			{
+				"name": "EVELINA CAROLINA DORSCH",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA ALEJANDRA BREGGIA",
+				"category": "A-2"
+			},
+			{
+				"name": "HUGO DARIO TAVELLA",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA SOLEDAD DIEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "GABRIEL CHRISTIAN SNYRYNSKYJ",
+				"category": "A-3"
+			},
+			{
+				"name": "ENRIQUE ALFREDO BENITEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "LARA MELINA DEL VALLE OCAÑA SPAGNUOLO",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO JOAQUIN MAMANI",
+				"category": "A-1"
+			},
+			{
+				"name": "AMERICO ORLANDO SPAGNUOLO",
+				"category": "A-8"
+			},
+			{
+				"name": "FRANCISCO RAUL PRADO",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "ATAUCHE, EZEQUIEL",
+		"img": "image",
+		"cost": "16116898.33",
+		"id": "552",
+		"party": "PARTIDO RENOVADOR FEDERAL",
+		"province": "JUJUY",
+		"assistants": [
+			{
+				"name": "MARIA MERCEDES MAZZA",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO DAVID GARCIA",
+				"category": "A-5"
+			},
+			{
+				"name": "NATALIA ALTIERI",
+				"category": "A-2"
+			},
+			{
+				"name": "MARCELO JOAQUIN ELIAS",
+				"category": "A-3"
+			},
+			{
+				"name": "JULIETA MALLAVIABARRENA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA PAULA COSTANTINI",
+				"category": "A-1"
+			},
+			{
+				"name": "LEONARDO SALVADOR GODOY",
+				"category": "A-2"
+			},
+			{
+				"name": "MARTIN MARIANO LOPEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "ANA JELOVCAN",
+				"category": "A-5"
+			},
+			{
+				"name": "NICOLAS REYES",
+				"category": "A-2"
+			},
+			{
+				"name": "CARLA LORENA ALONGI",
+				"category": "A-5"
+			},
+			{
+				"name": "MARTIN NICOLAS RAVENTOS",
+				"category": "A-5"
+			},
+			{
+				"name": "PATRICIA CLAUDIA GUERRERO",
+				"category": "A-4"
+			},
+			{
+				"name": "LUCAS SEBASTIAN RAFFO",
+				"category": "A-2"
+			},
+			{
+				"name": "PEDRO PATRICIO ATAUCHE",
+				"category": "A-1"
+			},
+			{
+				"name": "LUIS PABLO PATERNO",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "ÁVILA, BEATRIZ LUISA",
+		"img": "image",
+		"cost": "18185946.05",
+		"id": "541",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "TUCUMÁN",
+		"assistants": [
+			{
+				"name": "CLAUDIO A. FINOCHIETTO",
+				"category": "A-2"
+			},
+			{
+				"name": "JACQUELINE TUFRO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA FABIANA NEGRO",
+				"category": "A-6"
+			},
+			{
+				"name": "FEDERICO HERNAN MARTINEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "ALEJANDRA LEKIS",
+				"category": "A-7"
+			},
+			{
+				"name": "IGNACIO RODOLFO SBOLCI",
+				"category": "A-7"
+			},
+			{
+				"name": "MAURO SCIUTTO",
+				"category": "A-13"
+			},
+			{
+				"name": "CLAUDIO JOSE MIRANDA",
+				"category": "A-2"
+			},
+			{
+				"name": "EDUARDO RAFAEL ROBINSON",
+				"category": "A-6"
+			},
+			{
+				"name": "ALDANA STEPHANIE DEL PEZZO",
+				"category": "A-7"
+			},
+			{
+				"name": "RAMIRO GARROCHO",
+				"category": "A-3"
+			},
+			{
+				"name": "FERNANDO JAVIER CARRIZO",
+				"category": "A-2"
+			},
+			{
+				"name": "EDUARDO MAXIMO ZERDA",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIA JOSE LECICH BASUALDO",
+				"category": "A-1"
+			},
+			{
+				"name": "JULIAN LUNA PASTORE",
+				"category": "A-6"
+			},
+			{
+				"name": "ERIKA ROMINA TABASSO",
+				"category": "A-1"
+			},
+			{
+				"name": "ENRIQUE LUIS PEDICONE",
+				"category": "A-7"
+			},
+			{
+				"name": "JULIO GUSTAVO NEME",
+				"category": "A-5"
+			},
+			{
+				"name": "RICARDO ISMAEL FINOCHIETTO",
+				"category": "A-9"
+			},
+			{
+				"name": "AGUSTINA BELEN FERNANDEZ CUENCA",
+				"category": "A-7"
+			},
+			{
+				"name": "ANNA VICTORIA CAPURRO",
+				"category": "A-13"
+			},
+			{
+				"name": "ESTEBAN RICARDO AVILA",
+				"category": "A-2"
+			},
+			{
+				"name": "DARIO VICTOR HUESEN",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES LOPEZ",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "BEDIA, VILMA FACUNDA",
+		"img": "image",
+		"cost": "NaN",
+		"id": "553",
+		"party": "PARTIDO RENOVADOR FEDERAL",
+		"province": "JUJUY",
+		"assistants": [
+			{
+				"name": "MAURO DAMIAN BLANCO",
+				"category": "A-5"
+			},
+			{
+				"name": "JUAN CARLOS SALAZAR",
+				"category": "A-12"
+			},
+			{
+				"name": "DAIANA ESTER LLANES",
+				"category": "A-3"
+			},
+			{
+				"name": "AYELEN SAMPIETRO",
+				"category": "A-7"
+			},
+			{
+				"name": "JOSE ABNER JAIR MAMANI",
+				"category": "A-1"
+			},
+			{
+				"name": "JOEL BENJAMIN MAMANI",
+				"category": "A-3"
+			},
+			{
+				"name": "DAMIAN RODRIGUEZ",
+				"category": "M-5"
+			},
+			{
+				"name": "ROBERTO CARLOS LUQUEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "ELIANA DANIELA SCIALABBA",
+				"category": "A-4"
+			},
+			{
+				"name": "MIRIAM FERNANDA ROMERO",
+				"category": "A-12"
+			},
+			{
+				"name": "SILVIA BEATRIZ SANDA",
+				"category": "A-2"
+			},
+			{
+				"name": "GERMAN ANDRES D&#039;AMICO",
+				"category": "A-5"
+			},
+			{
+				"name": "JONATHAN ALEJANDRO GOMEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "PATRICIA NOEMI GOROSITO",
+				"category": "A-12"
+			},
+			{
+				"name": "MIRTA ARACELI SILISQUE",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "BENSUSÁN, DANIEL PABLO",
+		"img": "image",
+		"cost": "21936175.27",
+		"id": "532",
+		"party": "FRENTE DE TODOS",
+		"province": "LA PAMPA",
+		"assistants": [
+			{
+				"name": "CARLOS ALBERTO GUISADO",
+				"category": "A-1"
+			},
+			{
+				"name": "WALTER MARIO MARTINEZ ALMUDEVAR",
+				"category": "A-4"
+			},
+			{
+				"name": "MAURICIO AGUSTIN PEREZ",
+				"category": "A-8"
+			},
+			{
+				"name": "PAULA BENSUSAN COSCI",
+				"category": "A-7"
+			},
+			{
+				"name": "FLORENCIA CAMBRIGLIA",
+				"category": "A-7"
+			},
+			{
+				"name": "SOFIA INES MEDIZA ROMERO",
+				"category": "A-5"
+			},
+			{
+				"name": "ROMINA VERNA",
+				"category": "A-2"
+			},
+			{
+				"name": "DIEGO MARTIN IERACE",
+				"category": "A-4"
+			},
+			{
+				"name": "GUILLERMO JESUS PEREZ",
+				"category": "A-7"
+			},
+			{
+				"name": "DAMIAN GARAY",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIA BEATRIZ ARIAS",
+				"category": "A-7"
+			},
+			{
+				"name": "MARCELO ENRIQUE LUCERO",
+				"category": "A-5"
+			},
+			{
+				"name": "CESAR JUAN AUGUSTO MAITIA",
+				"category": "A-3"
+			},
+			{
+				"name": "LUIS MARIA DELLA ROSA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES GINARD",
+				"category": "A-4"
+			},
+			{
+				"name": "MAURICIO ALBERTO GLASMAN",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIA GUADALUPE MEDINA",
+				"category": "A-1"
+			},
+			{
+				"name": "AGUSTINA GABRIELA HERNANDEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "MAURICIO JULIAN BERTORELLO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA CAROLINA SOTOMAYOR",
+				"category": "A-3"
+			},
+			{
+				"name": "SILVIA MONICA ROJAS",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANELA ETCHALUS",
+				"category": "A-6"
+			},
+			{
+				"name": "ALEJANDRO JOSE SCHANTON",
+				"category": "A-6"
+			},
+			{
+				"name": "JOAQUIN IGNACIO GARCIA",
+				"category": "A-10"
+			},
+			{
+				"name": "MARIANA SANTAROSSA",
+				"category": "A-5"
+			},
+			{
+				"name": "JULIETA GLASMAN",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA TERESA MAYA",
+				"category": "A-7"
+			}
+		]
+	},
+	{
+		"fullName": "BLANCO, PABLO DANIEL",
+		"img": "image",
+		"cost": "24919662.43",
+		"id": "511",
+		"party": "JUNTOS POR EL CAMBIO TIERRA DEL FUEGO",
+		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+		"assistants": [
+			{
+				"name": "DAVID VALLE",
+				"category": "A-13"
+			},
+			{
+				"name": "IGNACIO EZEQUIEL BRUERA",
+				"category": "A-4"
+			},
+			{
+				"name": "SILVIA MABEL RUIZ",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIELA BEATRIZ BUDIÑO",
+				"category": "A-1"
+			},
+			{
+				"name": "MATÍAS SEBASTIÁN ALVEZ",
+				"category": "A-13"
+			},
+			{
+				"name": "VICTOR HUGO DIAZ",
+				"category": "A-2"
+			},
+			{
+				"name": "PABLO JOSE CZELADA",
+				"category": "A-4"
+			},
+			{
+				"name": "JORGE ALBERTO GARRAMUÑO",
+				"category": "A-2"
+			},
+			{
+				"name": "ARIEL TOMAS BERTOTTO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA ALEJANDRA GATTO",
+				"category": "A-7"
+			},
+			{
+				"name": "CLAUDIA FERRI",
+				"category": "A-1"
+			},
+			{
+				"name": "MICAELA SARMIENTO REEBERG",
+				"category": "A-5"
+			},
+			{
+				"name": "LISANDRO JULIAN BAUTISTA RONCO",
+				"category": "A-5"
+			},
+			{
+				"name": "MONICA ALICIA ARREGUI",
+				"category": "A-1"
+			},
+			{
+				"name": "LUZ CLARITA MANGINO",
+				"category": "A-1"
+			},
+			{
+				"name": "ENRIQUE MARCELO PRADO",
+				"category": "A-3"
+			},
+			{
+				"name": "EMILENE ECHEZARRAGA",
+				"category": "A-4"
+			},
+			{
+				"name": "RODOLFO HORACIO GONZALEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "PATRICIO SILA",
+				"category": "A-1"
+			},
+			{
+				"name": "DIEGO RAMON DOS SANTOS",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIA VIRGINIA BARBONA",
+				"category": "A-9"
+			},
+			{
+				"name": "CARLA DENISE ZIMMERMANN",
+				"category": "A-2"
+			},
+			{
+				"name": "RODRIGO MARTIN ALUSTIZA",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO FERNANDO FILIPPO",
+				"category": "A-4"
+			},
+			{
+				"name": "MAURO ABEL MAXIMILIANO ZURITA",
+				"category": "A-6"
+			},
+			{
+				"name": "CESAR HORACIO COLMAN",
+				"category": "A-5"
+			},
+			{
+				"name": "RUBEN HORACIO AUSTIN",
+				"category": "A-1"
+			},
+			{
+				"name": "NATALIA ESTEFANIA REGGIANI",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "CARAMBIA, JOSÉ MARÍA",
+		"img": "image",
+		"cost": "19530634.41",
+		"id": "567",
+		"party": "ALIANZA POR SANTA CRUZ",
+		"province": "SANTA CRUZ",
+		"assistants": [
+			{
+				"name": "MARCELO MARTIN SAA",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEXIS THIAN PERRONI",
+				"category": "A-7"
+			},
+			{
+				"name": "MORA ARQUETA",
+				"category": "A-2"
+			},
+			{
+				"name": "ILEANA MARCELA TARQUEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "DAMIAN EDUARDO FERNANDEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "ISABEL SANDRA APARICIO CARRASCO",
+				"category": "A-3"
+			},
+			{
+				"name": "ROBERTO MARTIN MERCADO OLIVERA",
+				"category": "A-3"
+			},
+			{
+				"name": "PAULA ANDREA ALFARO",
+				"category": "A-3"
+			},
+			{
+				"name": "HILARIA YANINA FIGUEREDO",
+				"category": "A-4"
+			},
+			{
+				"name": "ANTONIA GABRIELA BRITEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "SUSANA ELIZABETH BIANCO",
+				"category": "A-3"
+			},
+			{
+				"name": "RAUL AMADEO ANTUNEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIELA ALEJANDRA BRITOS",
+				"category": "A-5"
+			},
+			{
+				"name": "JUAN I. GARCIA ALBERTELLA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA GABRIELA RAVERA",
+				"category": "A-7"
+			},
+			{
+				"name": "NATALIA DEL ROSARIO RU ORDOÑEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARTIN GREGORIO HERMAN",
+				"category": "A-1"
+			},
+			{
+				"name": "CONSTANTINO RIZZO",
+				"category": "A-4"
+			},
+			{
+				"name": "RAMIRO GONZALEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "CECILIA LAURA RITTATORE",
+				"category": "A-4"
+			},
+			{
+				"name": "ROBERTINA GONZALEZ ESPECHE",
+				"category": "A-7"
+			}
+		]
+	},
+	{
+		"fullName": "CORPACCI, LUCIA BENIGNA",
+		"img": "image",
+		"cost": "16016720.96",
+		"id": "398",
+		"party": "FRENTE DE TODOS",
+		"province": "CATAMARCA",
+		"assistants": [
+			{
+				"name": "GERMAN ALVAREZ SCOLAMIERI",
+				"category": "A-8"
+			},
+			{
+				"name": "GABRIELA BEATRIZ MONLLAU GRIMA",
+				"category": "A-1"
+			},
+			{
+				"name": "GABRIELA CIGANOTTO",
+				"category": "A-1"
+			},
+			{
+				"name": "ALDANA  AILIN NAZAR",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES HERR",
+				"category": "A-3"
+			},
+			{
+				"name": "LUIS MARCELO SOSA",
+				"category": "A-6"
+			},
+			{
+				"name": "GILDA MONICA SARACHO",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS MARIA JIMENEZ PEREZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA VICTORIA SARACHO",
+				"category": "A-8"
+			},
+			{
+				"name": "FAVIOLA NATHALIE FRIAS",
+				"category": "A-1"
+			},
+			{
+				"name": "AGUSTIN LUIS ALBORS ESPERON",
+				"category": "A-3"
+			},
+			{
+				"name": "CYNTHIA PAOLA MERCADO",
+				"category": "A-14"
+			},
+			{
+				"name": "JOSE FRANCISCO SORIA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIANA AGUSTINA GRAS BUSCETTO",
+				"category": "A-3"
+			},
+			{
+				"name": "EDUARDO AUGUSTO FAUBRE",
+				"category": "A-11"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES MERINO",
+				"category": "A-2"
+			},
+			{
+				"name": "INES IMELDA BLAS",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "CREXELL, CARMEN LUCILA",
+		"img": "image",
+		"cost": "15059898.80",
+		"id": "440",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "NEUQUÉN",
+		"assistants": [
+			{
+				"name": "MARIA ANDREA LIBAAK",
+				"category": "A-1"
+			},
+			{
+				"name": "DIEGO ARGIBAY TOME",
+				"category": "A-3"
+			},
+			{
+				"name": "AGUSTIN HOYA",
+				"category": "A-4"
+			},
+			{
+				"name": "LUCIANO ALEJANDRO PENDINO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARGARITA INES FERNANDEZ",
+				"category": "A-13"
+			},
+			{
+				"name": "ALEJANDRO TULLIO",
+				"category": "A-3"
+			},
+			{
+				"name": "VALERIA JANINA CAVALIERI",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIANO GALMARINI",
+				"category": "A-5"
+			},
+			{
+				"name": "DEBORA SAPAG",
+				"category": "A-3"
+			},
+			{
+				"name": "JULIAN GADANO",
+				"category": "A-2"
+			},
+			{
+				"name": "LUCAS NICOLAS PICCOLOMINI",
+				"category": "A-2"
+			},
+			{
+				"name": "GABRIEL GUSTAVO IGLESIAS",
+				"category": "A-1"
+			},
+			{
+				"name": "ALEJANDRO RAUL DURAN LOBATO",
+				"category": "A-3"
+			},
+			{
+				"name": "CARMELA JUANA CONEJERO",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA INES MATKOVICH",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "CRISTINA, ANDREA MARCELA",
+		"img": "image",
+		"cost": "7653196.05",
+		"id": "570",
+		"party": "JUNTOS POR EL CAMBIO CHUBUT",
+		"province": "CHUBUT",
+		"assistants": [
+			{
+				"name": "VIVIANA ANDREA RATMAN",
+				"category": "A-8"
+			},
+			{
+				"name": "ALEJANDRA DORY GOICOECHEA",
+				"category": "A-3"
+			},
+			{
+				"name": "VALERIA LOURDES METHOL",
+				"category": "A-10"
+			},
+			{
+				"name": "MARIA FLORENCIA ANDRADE",
+				"category": "A-5"
+			},
+			{
+				"name": "FACUNDO NICOLAS ARAOZ",
+				"category": "A-6"
+			},
+			{
+				"name": "KARINA MARIANA SANTANGELO",
+				"category": "A-3"
+			},
+			{
+				"name": "LUCAS MARTIN PACHECO",
+				"category": "A-13"
+			},
+			{
+				"name": "LUCIANA ANDREA OBREQUE",
+				"category": "A-8"
+			},
+			{
+				"name": "BELÉN DE LOS ANGELES LATORRE",
+				"category": "A-7"
+			}
+		]
+	},
+	{
+		"fullName": "DE ANGELI, ALFREDO LUIS",
+		"img": "image",
+		"cost": "15224292.39",
+		"id": "438",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "ENTRE RÍOS",
+		"assistants": [
+			{
+				"name": "MATIAS IVAN MARTIARENA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA ESPERANZA GALLI",
+				"category": "A-1"
+			},
+			{
+				"name": "KAREN CASANDRA SAYES PIMIENTA",
+				"category": "A-4"
+			},
+			{
+				"name": "CRISTIAN CARLOS ABALOS",
+				"category": "A-1"
+			},
+			{
+				"name": "ALEJO LIZZI",
+				"category": "A-4"
+			},
+			{
+				"name": "MARCELA MABEL BARRIONUEVO",
+				"category": "A-9"
+			},
+			{
+				"name": "CAROLINA HELYN GIMENEZ JAIME",
+				"category": "A-1"
+			},
+			{
+				"name": "ALEJANDRO LOBO POBLET",
+				"category": "A-1"
+			},
+			{
+				"name": "NICOLAS IGNACIO FRANCESCUTTI",
+				"category": "A-6"
+			},
+			{
+				"name": "JORGE RAUL MARCHETTI",
+				"category": "A-1"
+			},
+			{
+				"name": "ANGEL MATIAS SURT",
+				"category": "A-5"
+			},
+			{
+				"name": "JORGE OMAR FRITZLER",
+				"category": "A-3"
+			},
+			{
+				"name": "NICOLAS ALEJANDRO MATTIAUDA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA FLORENCIA SALATINO",
+				"category": "A-4"
+			},
+			{
+				"name": "PATRICIA BELEN AQUINO",
+				"category": "A-6"
+			}
+		]
+	},
+	{
+		"fullName": "DE PEDRO, EDUARDO ENRIQUE",
+		"img": "image",
+		"cost": "10716311.38",
+		"id": "545",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "PEDRO JULIAN CARESSI",
+				"category": "A-3"
+			},
+			{
+				"name": "AGUSTIN GABRIEL CASTAÑEDA",
+				"category": "A-1"
+			},
+			{
+				"name": "CECILIA LANFRANCO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA TRINIDAD MONTEROS",
+				"category": "A-4"
+			},
+			{
+				"name": "SONIA ELIZABETH IRALA",
+				"category": "A-3"
+			},
+			{
+				"name": "DIEGO FERNANDO FELGUEROSO",
+				"category": "A-2"
+			},
+			{
+				"name": "SEBASTIAN RAUL MARIO ALONSO LAFONTAINE",
+				"category": "A-5"
+			},
+			{
+				"name": "LUCIANO MAURICIO MOLLUSO",
+				"category": "A-2"
+			},
+			{
+				"name": "PABLO EXEQUIEL BERMUDEZ",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "DI TULLIO, JULIANA",
+		"img": "image",
+		"cost": "12189432.22",
+		"id": "517",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "GIMENA VICTORIA ALVAREZ",
+				"category": "A-3"
+			},
+			{
+				"name": "IGNACIO AGUSTIN RIVAS",
+				"category": "A-1"
+			},
+			{
+				"name": "EUGENIO CESAR ALCALDE",
+				"category": "A-5"
+			},
+			{
+				"name": "JULIO CESAR VERGARA",
+				"category": "A-1"
+			},
+			{
+				"name": "AMANDA SUSANA GENEM",
+				"category": "A-1"
+			},
+			{
+				"name": "JESICA BETSABE TRITTEN",
+				"category": "A-1"
+			},
+			{
+				"name": "MARTIN BARBAS",
+				"category": "A-7"
+			},
+			{
+				"name": "SANDRA MONICA BARRIENTOS",
+				"category": "A-1"
+			},
+			{
+				"name": "BIANCA CHARRA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA LAURA TESTA",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "DOÑATE, CLAUDIO MARTÍN",
+		"img": "image",
+		"cost": "19932628.12",
+		"id": "505",
+		"party": "FRENTE DE TODOS",
+		"province": "RÍO NEGRO",
+		"assistants": [
+			{
+				"name": "MARIANA ROMAN",
+				"category": "A-1"
+			},
+			{
+				"name": "CAROLINA LANDE",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN MARTIN OHARRIZ",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVANA INES FESTINESE",
+				"category": "A-6"
+			},
+			{
+				"name": "VICTORIA LOPATA",
+				"category": "A-1"
+			},
+			{
+				"name": "GISELA MARNE UICICH",
+				"category": "A-6"
+			},
+			{
+				"name": "SARA MONICA WILLIAMS",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA SOL GILES",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS HECTOR CARAMELLO",
+				"category": "A-1"
+			},
+			{
+				"name": "PLACIDO RAMIRO GOMEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "HECTOR HERNAN CASTRO BALBI",
+				"category": "A-1"
+			},
+			{
+				"name": "ELVIO SERGIO ROMAN",
+				"category": "A-1"
+			},
+			{
+				"name": "JULIETA BLANCO",
+				"category": "A-1"
+			},
+			{
+				"name": "EDGARDO ALBERTO CAMARGO",
+				"category": "A-1"
+			},
+			{
+				"name": "RUBEN ALEJANDRO GOYA VILLAGRAN",
+				"category": "A-11"
+			},
+			{
+				"name": "YAMILA DENISE VIOLA",
+				"category": "A-4"
+			},
+			{
+				"name": "SOFIA TEZZA",
+				"category": "A-5"
+			},
+			{
+				"name": "HECTOR HORACIO GIL",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA SOLEDAD LALLI",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "DURÉ, MARÍA EUGENIA",
+		"img": "image",
+		"cost": "15767561.91",
+		"id": "512",
+		"party": "FRENTE DE TODOS",
+		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+		"assistants": [
+			{
+				"name": "SOFIA NATALIA PONCE DE LEON",
+				"category": "A-2"
+			},
+			{
+				"name": "PAULA ANDREA AGUILAR",
+				"category": "A-1"
+			},
+			{
+				"name": "JULIETA NABILA FLORES FERREYRA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANO FACUNDO SALVINI",
+				"category": "A-2"
+			},
+			{
+				"name": "LEON LEODAN JUARES",
+				"category": "A-7"
+			},
+			{
+				"name": "CARINA SOLEDAD NUÑO",
+				"category": "A-2"
+			},
+			{
+				"name": "GASTON EDUARDO MARANESI",
+				"category": "A-1"
+			},
+			{
+				"name": "ELI EMMANUEL GOMEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "FRANCO ALEJANDRO ETCHEBER",
+				"category": "A-4"
+			},
+			{
+				"name": "CARLOS GABRIEL MUCCI",
+				"category": "A-8"
+			},
+			{
+				"name": "EMILIANO ALBERTO RIAL",
+				"category": "A-6"
+			},
+			{
+				"name": "ROSA ISABEL RODRIGUEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANA ANTONELLA PAGOTO",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIA ANTONIETA BORGNA",
+				"category": "A-4"
+			},
+			{
+				"name": "OSCAR RAFAEL RAMON VUOTO",
+				"category": "A-5"
+			},
+			{
+				"name": "PATRICIO JOSE IGLESIAS MURPHY",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA SOLEDAD VILLA",
+				"category": "A-6"
+			},
+			{
+				"name": "NICOLAS MARTIN GIGENA",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "ESPÍNOLA, CARLOS MAURICIO",
+		"img": "image",
+		"cost": "26175732.38",
+		"id": "461",
+		"party": "FRENTE TODOS",
+		"province": "CORRIENTES",
+		"assistants": [
+			{
+				"name": "ROQUE EUGENIO PINZETTA",
+				"category": "A-1"
+			},
+			{
+				"name": "JACQUELINE YOUNG",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIA NAZARENA SAUCEDO",
+				"category": "A-14"
+			},
+			{
+				"name": "DAVID HECTOR RENOVALES",
+				"category": "A-4"
+			},
+			{
+				"name": "CARLOS MATIAS PELOZO",
+				"category": "A-8"
+			},
+			{
+				"name": "MARTIN HECTOR MARECOS",
+				"category": "A-2"
+			},
+			{
+				"name": "LORENA ITATI ZANDONA",
+				"category": "A-2"
+			},
+			{
+				"name": "FERNANDO ARIEL MAZZOLENI",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO SEBASTIAN GARCIA PEDANO",
+				"category": "A-3"
+			},
+			{
+				"name": "HORACIO ALEJANDRO MIGUEL",
+				"category": "A-2"
+			},
+			{
+				"name": "EDUARDO IGNACIO DEMATEO",
+				"category": "A-4"
+			},
+			{
+				"name": "VALERIA SOLEDAD GANE",
+				"category": "A-3"
+			},
+			{
+				"name": "HORACIO LEONARDO GARCIA VARA",
+				"category": "A-2"
+			},
+			{
+				"name": "NIOBE ADELA ALBERIO",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA EUGENIA GARCIA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA GUILLERMINA FLAGEAT",
+				"category": "A-6"
+			},
+			{
+				"name": "LUIS SERVANDO DIAZ",
+				"category": "A-3"
+			},
+			{
+				"name": "SUSANA RAQUEL IBARRA",
+				"category": "A-1"
+			},
+			{
+				"name": "FEDERICO TORRANDELL",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCAS EMANUEL GAUTO ALTAMIRANO",
+				"category": "A-11"
+			},
+			{
+				"name": "WALTER ADRIAN RODRIGUEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "JOSE IGNACIO DIAZ NARGANES",
+				"category": "A-3"
+			},
+			{
+				"name": "DANIEL ROBERTO GAUNA",
+				"category": "A-1"
+			},
+			{
+				"name": "BARBARA EMILIA DUARTE",
+				"category": "A-8"
+			},
+			{
+				"name": "PABLO EMANUEL ARCE CORTELL",
+				"category": "A-3"
+			},
+			{
+				"name": "CLAUDIA ROXANA MORA",
+				"category": "A-3"
+			},
+			{
+				"name": "NARCISO NICOLAS TAJAN IPRIDIMO",
+				"category": "A-10"
+			},
+			{
+				"name": "FERNANDO SEBASTIAN SAADE",
+				"category": "A-3"
+			},
+			{
+				"name": "TITO ANTONIO CHEME",
+				"category": "A-3"
+			},
+			{
+				"name": "CECILIA ELVIRA SOLIS",
+				"category": "A-3"
+			},
+			{
+				"name": "LUCIA SANSO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA MERCEDES HUBER",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "FAMA, FLAVIO SERGIO",
+		"img": "image",
+		"cost": "18576380.86",
+		"id": "520",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CATAMARCA",
+		"assistants": [
+			{
+				"name": "BRUNO ELIO LATRONICO",
+				"category": "A-2"
+			},
+			{
+				"name": "GUIDO WALTER MORALES",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA PAULA BIAGI",
+				"category": "A-1"
+			},
+			{
+				"name": "HECTOR DANIEL BAJIK",
+				"category": "A-4"
+			},
+			{
+				"name": "ROXANA BEATRIZ MOYA",
+				"category": "A-8"
+			},
+			{
+				"name": "HERNAN ALEJANDRO PALMEIRO MARIANO",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA CECILIA ALVAREZ RASO",
+				"category": "A-2"
+			},
+			{
+				"name": "SANTIAGO FERNANDEZ GAMIETEA",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO MARIANO PINTOS",
+				"category": "A-2"
+			},
+			{
+				"name": "MATIAS EMIR MONTENEGRO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARICEL FABIANA OBON",
+				"category": "A-1"
+			},
+			{
+				"name": "ALBA VIVIANA PORATTI",
+				"category": "A-1"
+			},
+			{
+				"name": "SABRINA PAULA RODRIGUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "CONSTANZA PICCIONE",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIO RAUL DODARO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA VICTORIA RAPETTI",
+				"category": "A-3"
+			},
+			{
+				"name": "LAUTARO AGUSTIN CIPRIANO CASTRO",
+				"category": "A-10"
+			},
+			{
+				"name": "SILVIA MABEL MON",
+				"category": "A-2"
+			},
+			{
+				"name": "JORGE JOAQUIN CALVETTI CORTE",
+				"category": "A-6"
+			}
+		]
+	},
+	{
+		"fullName": "FERNÁNDEZ SAGASTI, ANABEL",
+		"img": "image",
+		"cost": "17771109.02",
+		"id": "468",
+		"party": "FRENTE DE TODOS",
+		"province": "MENDOZA",
+		"assistants": [
+			{
+				"name": "MARIA JOSE GONZALEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "VERONICA FLORENCIA GALEANO",
+				"category": "A-1"
+			},
+			{
+				"name": "ANDREA VERONICA FONTANA",
+				"category": "A-7"
+			},
+			{
+				"name": "RUBEN DARIO SANDOVAL",
+				"category": "A-1"
+			},
+			{
+				"name": "LEANDRO AUGUSTO ABRAHAM",
+				"category": "A-7"
+			},
+			{
+				"name": "NAHUEL YAMIL AISE",
+				"category": "A-2"
+			},
+			{
+				"name": "PAMELA VISCIARELLI",
+				"category": "A-3"
+			},
+			{
+				"name": "VALERIA ALEJANDRA MAZZETTI",
+				"category": "A-8"
+			},
+			{
+				"name": "MARIA GABRIELA MALINAR",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO ANIBAL QUINTANA",
+				"category": "A-8"
+			},
+			{
+				"name": "LEILA GUADALUPE PAZOS",
+				"category": "A-3"
+			},
+			{
+				"name": "MARISA PATRICIA GARNICA",
+				"category": "A-5"
+			},
+			{
+				"name": "LAURA BEATRIZ SOTO",
+				"category": "A-1"
+			},
+			{
+				"name": "FACUNDO IVAN GAMBOA",
+				"category": "A-8"
+			},
+			{
+				"name": "MARIANO MARTIN LAZZAROTTI",
+				"category": "A-1"
+			},
+			{
+				"name": "FEDERICO MIGUEL ACCARDI",
+				"category": "A-7"
+			},
+			{
+				"name": "MAXIMILIANO MARTIN RENNA CABRERA",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA EMILIA AMARILLA",
+				"category": "A-7"
+			},
+			{
+				"name": "AYELEN VERA",
+				"category": "A-8"
+			},
+			{
+				"name": "OSCAR ALFREDO BARRAZA",
+				"category": "A-5"
+			},
+			{
+				"name": "CAMILA MARIEL ROMA",
+				"category": "A-7"
+			}
+		]
+	},
+	{
+		"fullName": "GADANO, NATALIA ELENA",
+		"img": "image",
+		"cost": "16845110.65",
+		"id": "568",
+		"party": "ALIANZA POR SANTA CRUZ",
+		"province": "SANTA CRUZ",
+		"assistants": [
+			{
+				"name": "ROSALINO FLORES",
+				"category": "A-3"
+			},
+			{
+				"name": "LEANDRO DE LA TORRE",
+				"category": "A-4"
+			},
+			{
+				"name": "AGUSTIN SANCHEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "ESTEBAN MARIA CRAVERO",
+				"category": "A-3"
+			},
+			{
+				"name": "NATALIA SOLEDAD SIERRA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA CELESTE GERMOGLIO",
+				"category": "A-2"
+			},
+			{
+				"name": "NICOLAS AGUSTIN RONDINI",
+				"category": "A-1"
+			},
+			{
+				"name": "JOSÉ FRANCISCO ETCHART MANDON",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN IGNACIO GARCIA MAIZTEGUI",
+				"category": "A-1"
+			},
+			{
+				"name": "KARINA ISABEL GUEVARA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA LAURA NINKOVIC DEL VALLE",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO HERNAN ZAVIDOWSKI",
+				"category": "A-1"
+			},
+			{
+				"name": "VALENTIN ALEJANDRO RAMOS GADANO",
+				"category": "A-1"
+			},
+			{
+				"name": "SONIA EMILSE JEPIK",
+				"category": "A-1"
+			},
+			{
+				"name": "MANUELA MARÍA ROCA",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "GALARETTO, EDUARDO HORACIO",
+		"img": "image",
+		"cost": "NaN",
+		"id": "573",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "SANTA FE",
+		"assistants": [
+			{
+				"name": "EMILIANO FEDERICO BOURNISSENT",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA DEL PILAR VALSECCHI",
+				"category": "A-4"
+			},
+			{
+				"name": "SUSANA BEATRIZ MENENDEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "HUGO JOSE FONTANARROSA",
+				"category": "A-4"
+			},
+			{
+				"name": "DIEGO FERNANDO ROSUA",
+				"category": "A-2"
+			},
+			{
+				"name": "ELVA NOEMI BRIZUELA",
+				"category": "A-4"
+			},
+			{
+				"name": "ORLANDO GUSTAVO MEDINA",
+				"category": "M-3"
+			},
+			{
+				"name": "PABLO FEDERICO GIAMMONA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA ALEJANDRA SVETAZ",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIA LILIANA GARCIA",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN MANUEL FASCIA",
+				"category": "A-4"
+			},
+			{
+				"name": "SANTIAGO TOROSSI",
+				"category": "A-4"
+			},
+			{
+				"name": "RICARDO ADRIAN SPINOZZI",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO JAVIER COZZA",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS MANUEL SIUFI",
+				"category": "A-6"
+			}
+		]
+	},
+	{
+		"fullName": "GARCÍA LARRABURU, SILVINA MARCELA",
+		"img": "image",
+		"cost": "13234872.86",
+		"id": "441",
+		"party": "FRENTE DE TODOS",
+		"province": "RÍO NEGRO",
+		"assistants": [
+			{
+				"name": "BRENDA ANTONELLA DE LAS NIEVES BEVACQUA",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEXA BENITA VEGA PINO",
+				"category": "A-2"
+			},
+			{
+				"name": "VERONICA  ANDREA NUÑEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "OSCAR EDUARDO CASSIBBA",
+				"category": "A-4"
+			},
+			{
+				"name": "JULIO JAVIER PAINEMIL",
+				"category": "A-7"
+			},
+			{
+				"name": "DANIELA ELIZABETH NUÑEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "DEBORA FLORENCIA ESTRENG",
+				"category": "A-6"
+			},
+			{
+				"name": "DANIELA IVANA CORNEJO",
+				"category": "A-4"
+			},
+			{
+				"name": "CAMILA MATRERO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA LAURA MAJADAS",
+				"category": "A-3"
+			},
+			{
+				"name": "ZULMA LUCRECIA SAN MARTIN",
+				"category": "A-8"
+			},
+			{
+				"name": "SEBASTIAN LEONARDO ESCOBAR",
+				"category": "A-3"
+			},
+			{
+				"name": "OSCAR OSVALDO CIANCI",
+				"category": "A-1"
+			},
+			{
+				"name": "PATRICIA ALBERTA BUSTOS",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "GIMÉNEZ, NORA DEL VALLE",
+		"img": "image",
+		"cost": "11823399.60",
+		"id": "507",
+		"party": "FRENTE DE TODOS",
+		"province": "SALTA",
+		"assistants": [
+			{
+				"name": "ALICIA DELIA ALCARAZ",
+				"category": "A-2"
+			},
+			{
+				"name": "TOMAS ELSINGER",
+				"category": "A-5"
+			},
+			{
+				"name": "LAURA MARCELA HEIT",
+				"category": "A-4"
+			},
+			{
+				"name": "EMILIANO PANIZZI",
+				"category": "A-3"
+			},
+			{
+				"name": "HERNAN FEDERICO OLMEDO",
+				"category": "A-4"
+			},
+			{
+				"name": "CAMILA LEMOS",
+				"category": "A-6"
+			},
+			{
+				"name": "ELENA CORNEJO SARAVIA",
+				"category": "A-2"
+			},
+			{
+				"name": "HERNAN JOAQUIN ZICCARDI",
+				"category": "A-7"
+			},
+			{
+				"name": "MATIAS REVORA",
+				"category": "A-5"
+			},
+			{
+				"name": "VALERIA ISABEL FERNANDEZ SOLER",
+				"category": "A-5"
+			},
+			{
+				"name": "ROSA BEATRIZ TORRES",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA VICTORIA RICHTER",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+		"img": "image",
+		"cost": "19167170.41",
+		"id": "562",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "SAN JUAN",
+		"assistants": [
+			{
+				"name": "PABLO NAHUEL RUIZ MORENO",
+				"category": "A-3"
+			},
+			{
+				"name": "RAFAEL HORACIO CORREA SILVA",
+				"category": "A-6"
+			},
+			{
+				"name": "NESTOR GABRIEL MOCCIA",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA CAROLINA MANRIQUE",
+				"category": "A-3"
+			},
+			{
+				"name": "DANIELA VAN DE CASTEELE",
+				"category": "A-8"
+			},
+			{
+				"name": "JUAN SEBASTIAN ALONSO CAMOS",
+				"category": "A-4"
+			},
+			{
+				"name": "JENNIFER NATALIA BOWDEN SMITH",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN CRUZ DAVILA SIRERA",
+				"category": "A-4"
+			},
+			{
+				"name": "NELSON ALBERTO PERIOTTI",
+				"category": "A-1"
+			},
+			{
+				"name": "AGUSTINA BELEN DIAZ",
+				"category": "A-5"
+			},
+			{
+				"name": "LEONEL PAZ",
+				"category": "A-7"
+			},
+			{
+				"name": "PABLO DANIEL GILES",
+				"category": "A-2"
+			},
+			{
+				"name": "FRANCO MAXIMILIANO METAZA",
+				"category": "A-3"
+			},
+			{
+				"name": "MELISA YAMILA NAVEDA MARUN",
+				"category": "A-7"
+			},
+			{
+				"name": "JUAN PABLO GOMEZ GOMEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "LORENA VERONICA BARRESE",
+				"category": "A-2"
+			},
+			{
+				"name": "JULIA PEYRANI DI CASTELNUOVO",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIA SILVA BEVERAGGI",
+				"category": "A-4"
+			},
+			{
+				"name": "SOFIA DANIELA GARCIA HERRMANN",
+				"category": "A-3"
+			},
+			{
+				"name": "ARNALDO ABEL CAMPORA GUTIERREZ",
+				"category": "A-7"
+			},
+			{
+				"name": "EMILIANO YAMIL CHAFINO GOLDFARB",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA CAROLINA AMSTUTZ",
+				"category": "A-6"
+			}
+		]
+	},
+	{
+		"fullName": "GOERLING LARA, ENRIQUE MARTIN",
+		"img": "image",
+		"cost": "11105461.87",
+		"id": "560",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "MISIONES",
+		"assistants": [
+			{
+				"name": "ALEJANDRO ESTEBAN SAN JOSE",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA JOSE CASTILLO GOYTIA",
+				"category": "A-5"
+			},
+			{
+				"name": "JENNIFFER MADELAIRE",
+				"category": "A-3"
+			},
+			{
+				"name": "MARTIN ALEJANDRO MALDONADO",
+				"category": "A-6"
+			},
+			{
+				"name": "CARLOS ALBERTO PESSINI MIEREZ",
+				"category": "A-5"
+			},
+			{
+				"name": "LUIS ORLANDO STECIUK",
+				"category": "A-4"
+			},
+			{
+				"name": "EMILIANO NICOLAS VIANA",
+				"category": "A-4"
+			},
+			{
+				"name": "EDUARDO LEANDRO DE SIMONE",
+				"category": "A-1"
+			},
+			{
+				"name": "DIEGO RODRIGUEZ USUNA",
+				"category": "A-4"
+			},
+			{
+				"name": "JUAN ANDRES LAGEZE",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO JOSE DOUBÑA",
+				"category": "A-7"
+			},
+			{
+				"name": "CAROLINA SOLEDAD GROSS",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+		"img": "image",
+		"cost": "13689523.92",
+		"id": "477",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "FORMOSA",
+		"assistants": [
+			{
+				"name": "CAMILA MILENA LUCENA",
+				"category": "A-7"
+			},
+			{
+				"name": "MATIAS DAVID GALARZA",
+				"category": "A-9"
+			},
+			{
+				"name": "FEDERICO SAMANIEGO",
+				"category": "A-6"
+			},
+			{
+				"name": "SEBASTIAN EMILIO NIELSEN",
+				"category": "A-8"
+			},
+			{
+				"name": "LEANDRO LANDUCCI",
+				"category": "A-5"
+			},
+			{
+				"name": "ANABELLA YESICA ASCONA",
+				"category": "A-6"
+			},
+			{
+				"name": "CAROLINA INES BURMAN",
+				"category": "A-3"
+			},
+			{
+				"name": "CINTHYA NOEMI CASCO",
+				"category": "A-4"
+			},
+			{
+				"name": "ALBERTINA RAMAT",
+				"category": "A-10"
+			},
+			{
+				"name": "SILVIA ALEJANDRA VIELMA",
+				"category": "A-5"
+			},
+			{
+				"name": "IVON SOLANGE CONCEPCION ARCE",
+				"category": "A-10"
+			},
+			{
+				"name": "RICARDO DANIEL ROJAS",
+				"category": "A-14"
+			},
+			{
+				"name": "GABRIEL SERGIO VODOVOTZ",
+				"category": "A-14"
+			},
+			{
+				"name": "VALERIA ERIKA ALFONSO",
+				"category": "A-8"
+			},
+			{
+				"name": "MERCEDES LEGUIZAMON",
+				"category": "A-11"
+			},
+			{
+				"name": "RAQUEL VIRGINIA YAHARI",
+				"category": "A-11"
+			},
+			{
+				"name": "JUAN PABLO TIERNO DE LA ROSA",
+				"category": "A-5"
+			},
+			{
+				"name": "SANDRA MABEL COLMAN",
+				"category": "A-7"
+			},
+			{
+				"name": "ORLANDO GABRIEL ESPINOLA",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCAS MAURICIO PRANTTE",
+				"category": "A-7"
+			},
+			{
+				"name": "MARINA LOPEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "ROCIO NATALIA VALDEZ",
+				"category": "A-14"
+			},
+			{
+				"name": "LAURA CECILIA PAREDES",
+				"category": "A-11"
+			},
+			{
+				"name": "MARIA TERESA GISELLE SILGUERO",
+				"category": "A-10"
+			}
+		]
+	},
+	{
+		"fullName": "HUALA, MARÍA VICTORIA",
+		"img": "image",
+		"cost": "12308874.47",
+		"id": "531",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "LA PAMPA",
+		"assistants": [
+			{
+				"name": "JUAN CRUZ RAMIREZ",
+				"category": "A-1"
+			},
+			{
+				"name": "MELINA CRISTIANO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA VICTORIA QUEVEDO",
+				"category": "A-7"
+			},
+			{
+				"name": "JOAQUIN FREYLE",
+				"category": "A-1"
+			},
+			{
+				"name": "RAQUEL CLAUDIA CHEMEN",
+				"category": "A-2"
+			},
+			{
+				"name": "YANINA ANDREA WALTER",
+				"category": "A-1"
+			},
+			{
+				"name": "ESPARTACO MASSUCCO GUARROCHENA",
+				"category": "A-3"
+			},
+			{
+				"name": "ESTEFANIA DE ANGELI",
+				"category": "A-4"
+			},
+			{
+				"name": "LORENA AURORA ESCURRA ROSALES",
+				"category": "A-6"
+			},
+			{
+				"name": "FABIO E. BENEITEZ CORSO",
+				"category": "A-1"
+			},
+			{
+				"name": "PEDRO ALEJANDRO SOMS",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "JUEZ, LUIS ALFREDO",
+		"img": "image",
+		"cost": "18076778.38",
+		"id": "400",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CÓRDOBA",
+		"assistants": [
+			{
+				"name": "MARCELO SAT",
+				"category": "A-2"
+			},
+			{
+				"name": "PAMELA HUMILDAD D&#039;FELICE",
+				"category": "A-1"
+			},
+			{
+				"name": "SANTIAGO EMILIO VIGIL SISTERNA",
+				"category": "A-2"
+			},
+			{
+				"name": "EUGENIO YAMIL FORNARI",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIANO DANILO RONCO",
+				"category": "A-1"
+			},
+			{
+				"name": "PEDRO DANIEL ALCARAZ",
+				"category": "A-5"
+			},
+			{
+				"name": "MARCELO CLAUDIO LEMOS",
+				"category": "A-14"
+			},
+			{
+				"name": "RICARDO HECTOR AIZPEOLEA",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN ANDRES TESTA",
+				"category": "A-1"
+			},
+			{
+				"name": "FABIAN EDUARDO FALCON",
+				"category": "A-14"
+			},
+			{
+				"name": "MATIAS PABLO DIAZ",
+				"category": "A-14"
+			},
+			{
+				"name": "NICOLAS REYNERIO GOITEA",
+				"category": "A-14"
+			},
+			{
+				"name": "MARIA EUGENIA PUJADAS BUSTOS",
+				"category": "A-14"
+			},
+			{
+				"name": "MARIANA OTERO",
+				"category": "A-14"
+			},
+			{
+				"name": "MARIANA FABBRIZZI",
+				"category": "A-3"
+			},
+			{
+				"name": "ARIEL LEANDRO FRASSETTI",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA AGUSTINA AHUMADA",
+				"category": "A-14"
+			},
+			{
+				"name": "SERGIO EDUARDO LUDUEÑA",
+				"category": "A-1"
+			},
+			{
+				"name": "RICARDO ARIEL PALAVECINO",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIO EMILIO GALANTI",
+				"category": "A-14"
+			},
+			{
+				"name": "GUSTAVO MARCELO GUERRERO",
+				"category": "A-14"
+			},
+			{
+				"name": "PATRICIA NOEMI GONZALEZ",
+				"category": "A-14"
+			},
+			{
+				"name": "LEONEL NORBERTO PERTICA",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN PABLO STACIUK",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "JURI, MARIANA",
+		"img": "image",
+		"cost": "16797590.62",
+		"id": "534",
+		"party": "FRENTE CAMBIA MENDOZA",
+		"province": "MENDOZA",
+		"assistants": [
+			{
+				"name": "PABLO RAFAEL GOMEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "NELSON WILLIAM REYNOSO",
+				"category": "A-1"
+			},
+			{
+				"name": "ENRIQUE ANDRES VAQUIE",
+				"category": "A-2"
+			},
+			{
+				"name": "LEANDRO ROBERT",
+				"category": "A-3"
+			},
+			{
+				"name": "GUSTAVO DAVID SILNIK",
+				"category": "A-14"
+			},
+			{
+				"name": "ROBERTO EDUARDO VIDELA",
+				"category": "A-6"
+			},
+			{
+				"name": "MATIAS JOSE ARZALLUZ",
+				"category": "A-4"
+			},
+			{
+				"name": "MIGUEL ANGEL LUCERO",
+				"category": "A-9"
+			},
+			{
+				"name": "NICAEL SEBASTIAN NASIFF",
+				"category": "A-1"
+			},
+			{
+				"name": "ALBERTO ANTONIO VICTOR LUIS SPOTA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANELA LIDIA LISBOA",
+				"category": "A-1"
+			},
+			{
+				"name": "FERNANDO DIEGO ROMANO",
+				"category": "A-2"
+			},
+			{
+				"name": "CARLA BRIGNARDELLO",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIA ANDREA CARUSO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIANO DOMINGUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA CECILIA LENTINI",
+				"category": "A-4"
+			},
+			{
+				"name": "VICTOR ENRIQUE IBAÑEZ ROSAZ",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+		"img": "image",
+		"cost": "14858259.76",
+		"id": "366",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "SANTA CRUZ",
+		"assistants": [
+			{
+				"name": "MARIA CANDELARIA RODRIGUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "MARGARITA DEL VALLE ZELAYA",
+				"category": "A-2"
+			},
+			{
+				"name": "MARCELA PAOLA VESSVESSIAN",
+				"category": "A-1"
+			},
+			{
+				"name": "IGNACIO PERINCIOLI",
+				"category": "A-1"
+			},
+			{
+				"name": "VANINA GISEL USQUEDA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA INES GARAY",
+				"category": "A-1"
+			},
+			{
+				"name": "GABRIELA MENGARELLI",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCAS MATIAS SABADO",
+				"category": "A-4"
+			},
+			{
+				"name": "ROMINA PAOLA CARAVELLO",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEJANDRA ANDREA RIFON",
+				"category": "A-4"
+			},
+			{
+				"name": "JAVIER FARIAS BRITO",
+				"category": "A-1"
+			},
+			{
+				"name": "VERONICA ALEJANDRA SHANAHAN",
+				"category": "A-7"
+			},
+			{
+				"name": "SEBASTIAN CARLOS ENRIQUE RUIZ",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "KRONEBERGER, DANIEL RICARDO",
+		"img": "image",
+		"cost": "18251446.62",
+		"id": "530",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "LA PAMPA",
+		"assistants": [
+			{
+				"name": "AMADEO MONAISER",
+				"category": "A-14"
+			},
+			{
+				"name": "ALEXIS MAXIMILIANO EZEQUIEL TUFONI",
+				"category": "A-6"
+			},
+			{
+				"name": "JULIANA TUÑON",
+				"category": "A-4"
+			},
+			{
+				"name": "LUCIANA MARIA VIOZZI",
+				"category": "A-4"
+			},
+			{
+				"name": "C ARLOS DANIEL LAYOY",
+				"category": "A-13"
+			},
+			{
+				"name": "CARLOS DIEGO MAYER",
+				"category": "A-8"
+			},
+			{
+				"name": "ROSA ANGELICA FLORES",
+				"category": "A-10"
+			},
+			{
+				"name": "LAURA NOELIA DELGADO",
+				"category": "A-1"
+			},
+			{
+				"name": "GUILLERMINA KENNY",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEJANDRA MARIEL WIGGENHAUSER",
+				"category": "A-2"
+			},
+			{
+				"name": "GUILLERMO ANGEL ETCHEVERRY",
+				"category": "A-2"
+			},
+			{
+				"name": "OMAR VERGARA",
+				"category": "A-13"
+			},
+			{
+				"name": "ANA LUCIA LEVINTAN",
+				"category": "A-9"
+			},
+			{
+				"name": "MATIAS ANDRES MERLO",
+				"category": "A-14"
+			},
+			{
+				"name": "YANELA DAIANA RECARTE",
+				"category": "A-2"
+			},
+			{
+				"name": "DARIO DANIEL BRUNO",
+				"category": "A-7"
+			},
+			{
+				"name": "ALAN RODRIGO RAUL FERNANDEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "RODOLFO FERNANDO REVOLLO",
+				"category": "A-7"
+			},
+			{
+				"name": "MATIAS JESUS EMMANUEL CARRIZO",
+				"category": "A-8"
+			},
+			{
+				"name": "CAYETANO ROBERTO CAMPISI",
+				"category": "A-14"
+			},
+			{
+				"name": "ANTONELLA FIORAVANTTI",
+				"category": "A-5"
+			},
+			{
+				"name": "LEANDRO SALLABERRY MARTINEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "RUBEN DARIO PRIETO",
+				"category": "A-6"
+			},
+			{
+				"name": "DORA BEATRIZ BERNIS",
+				"category": "A-13"
+			},
+			{
+				"name": "YANINA E. BROLLO",
+				"category": "A-13"
+			},
+			{
+				"name": "MIGUEL ANGEL BAYARSKY",
+				"category": "A-13"
+			},
+			{
+				"name": "MARTIN SEBASTIAN CALETTI",
+				"category": "A-8"
+			},
+			{
+				"name": "WILLIANS HERNANDEZ AYALA",
+				"category": "A-8"
+			},
+			{
+				"name": "ESTEFANIA PISTARINI",
+				"category": "A-4"
+			},
+			{
+				"name": "AMARO RAMON DUMO FUENTES",
+				"category": "A-9"
+			},
+			{
+				"name": "FACUNDO ANTONIO SPINELLI GALICHO",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "KUEIDER, EDGARDO DARÍO",
+		"img": "image",
+		"cost": "22118549.45",
+		"id": "502",
+		"party": "FRENTE TODOS",
+		"province": "ENTRE RÍOS",
+		"assistants": [
+			{
+				"name": "MAGDALENA MENDEZ CASARIEGO",
+				"category": "A-4"
+			},
+			{
+				"name": "NORA GLORIA VILADESAU",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN JOSE CERNUSCO CORNEJO",
+				"category": "A-7"
+			},
+			{
+				"name": "MARTIN ERNESTO REYNOSO",
+				"category": "A-5"
+			},
+			{
+				"name": "SANDRA MARISA SCHMITZ",
+				"category": "A-1"
+			},
+			{
+				"name": "IRENEO GUASTAVINO",
+				"category": "A-3"
+			},
+			{
+				"name": "FERNANDO ENRIQUE BOGADO",
+				"category": "A-7"
+			},
+			{
+				"name": "JOSE FELIPE JAIMES",
+				"category": "A-1"
+			},
+			{
+				"name": "GISELA SOSA",
+				"category": "A-2"
+			},
+			{
+				"name": "SILVINA EUGENIA DIAZ",
+				"category": "A-3"
+			},
+			{
+				"name": "EVA LUCIANA MOSA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA DE LOS MILAGROS MARTINEZ GARBINO",
+				"category": "A-1"
+			},
+			{
+				"name": "SOLANGE AILEN SUAREZ",
+				"category": "A-14"
+			},
+			{
+				"name": "MARIANA SOMASCHINI",
+				"category": "A-4"
+			},
+			{
+				"name": "MELINA BELÉN MANSILLAS",
+				"category": "A-10"
+			},
+			{
+				"name": "ELBIO GERMAN PETROSELLI",
+				"category": "A-1"
+			},
+			{
+				"name": "ARGENTINA PATRICIA GONZALEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "ELIANA GABRIELA LOBO",
+				"category": "A-3"
+			},
+			{
+				"name": "LUCIANO FERREIRA",
+				"category": "A-5"
+			},
+			{
+				"name": "ANA LAURA ALVARGONZALEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "FELIPE MENDEZ CASARIEGO",
+				"category": "A-3"
+			},
+			{
+				"name": "JAVIER URTUBEY",
+				"category": "A-2"
+			},
+			{
+				"name": "PABLO GIOVANARDI",
+				"category": "A-1"
+			},
+			{
+				"name": "EUGENIA ORMACHE",
+				"category": "A-4"
+			},
+			{
+				"name": "MAURICIO EZEQUIEL VILLALBA",
+				"category": "A-7"
+			}
+		]
+	},
+	{
+		"fullName": "LEAVY, SERGIO NAPOLEÓN",
+		"img": "image",
+		"cost": "17543783.50",
+		"id": "508",
+		"party": "FRENTE DE TODOS",
+		"province": "SALTA",
+		"assistants": [
+			{
+				"name": "JUAN MARTIN CASTRO",
+				"category": "A-7"
+			},
+			{
+				"name": "PAOLA ALEJANDRA TENUTTA",
+				"category": "A-1"
+			},
+			{
+				"name": "BRISA FLORES OVIEDO",
+				"category": "A-8"
+			},
+			{
+				"name": "TOMAS ALBARRACIN",
+				"category": "A-14"
+			},
+			{
+				"name": "ALEJANDRO NESTOR SANSONE",
+				"category": "A-2"
+			},
+			{
+				"name": "DANIELA KARINA BACHI",
+				"category": "A-4"
+			},
+			{
+				"name": "CLAUDIO JOSE NORBERTO BOROBIO",
+				"category": "A-2"
+			},
+			{
+				"name": "MONICA LILIANA QUINTAS",
+				"category": "A-2"
+			},
+			{
+				"name": "GUILLERMO MANUEL FERNANDEZ PEGO",
+				"category": "A-1"
+			},
+			{
+				"name": "MAURO CAPELLO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIANO HERNAN RUSSO",
+				"category": "A-2"
+			},
+			{
+				"name": "JOSE AUGUSTO ALZOGARAY",
+				"category": "A-2"
+			},
+			{
+				"name": "JESICA GISELLE JIMENEZ BAZAN",
+				"category": "A-3"
+			},
+			{
+				"name": "RUBEN ORLANDO GORBAL MITANOS",
+				"category": "A-8"
+			},
+			{
+				"name": "ANDREA LAURA GALLARDO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARISOL GUTIERREZ",
+				"category": "A-8"
+			},
+			{
+				"name": "JORGELINA SILVANA JUAREZ",
+				"category": "A-10"
+			},
+			{
+				"name": "MABEL ISABEL PEREZ",
+				"category": "A-3"
+			},
+			{
+				"name": "GUSTAVO ADOLFO CLERICO",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEJANDRO GABRIEL NANTERNE",
+				"category": "A-11"
+			}
+		]
+	},
+	{
+		"fullName": "LEDESMA ABDALA DE ZAMORA, CLAUDIA",
+		"img": "image",
+		"cost": "6322635.28",
+		"id": "509",
+		"party": "FRENTE CÍVICO POR SANTIAGO",
+		"province": "SANTIAGO DEL ESTERO",
+		"assistants": [
+			{
+				"name": "MANUELA SALVATIERRA PEREZ",
+				"category": "A-4"
+			},
+			{
+				"name": "ANALÍA ESTHER TABOADA",
+				"category": "A-2"
+			},
+			{
+				"name": "CARLOS ALBERTO FIORENZA",
+				"category": "A-3"
+			},
+			{
+				"name": "SANTIAGO MANUEL VIAÑA",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "LEWANDOWSKI, MARCELO NESTOR",
+		"img": "image",
+		"cost": "19601272.28",
+		"id": "538",
+		"party": "FRENTE DE TODOS",
+		"province": "SANTA FE",
+		"assistants": [
+			{
+				"name": "JOSE ALBERTO MORO",
+				"category": "A-2"
+			},
+			{
+				"name": "DIEGO MAXIMILIANO LEON",
+				"category": "A-2"
+			},
+			{
+				"name": "MARCELO FABIAN MULLER",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA EUGENIA BOZZO",
+				"category": "A-4"
+			},
+			{
+				"name": "JOSE MARIA VERNET",
+				"category": "A-8"
+			},
+			{
+				"name": "VERONICA ROMINA CARABAJAL",
+				"category": "A-3"
+			},
+			{
+				"name": "ERICA SANDRA FIORANTE",
+				"category": "A-2"
+			},
+			{
+				"name": "BELKIS ELINA PIETRANI",
+				"category": "A-2"
+			},
+			{
+				"name": "RAMON EMILIANO MONTES ONGANIA",
+				"category": "A-2"
+			},
+			{
+				"name": "SILVIO ALBERTO COSTANTINO",
+				"category": "A-11"
+			},
+			{
+				"name": "VALERIA YOVOVICH",
+				"category": "A-4"
+			},
+			{
+				"name": "PABLO DANIEL BERTONA",
+				"category": "A-5"
+			},
+			{
+				"name": "ALIDA SONIA PALANDRI",
+				"category": "A-3"
+			},
+			{
+				"name": "ESTANISLAO GOMEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANO ALBERTO RON",
+				"category": "A-1"
+			},
+			{
+				"name": "ALEJANDRO N. ARNOLETTI",
+				"category": "A-8"
+			},
+			{
+				"name": "JUAN CARLOS ADOLFO VENESIA",
+				"category": "A-3"
+			},
+			{
+				"name": "PABLO ALDO CERIOLI",
+				"category": "A-3"
+			},
+			{
+				"name": "RUBEN ALFREDO OLIVERA",
+				"category": "A-8"
+			},
+			{
+				"name": "FERNANDO LUIS A. SUAREZ",
+				"category": "A-1"
+			},
+			{
+				"name": "MATIAS BECCACECE",
+				"category": "A-2"
+			},
+			{
+				"name": "DANIEL ALEJANDRO GONZALEZ",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "LINARES, CARLOS ALBERTO",
+		"img": "image",
+		"cost": "16042407.48",
+		"id": "529",
+		"party": "FRENTE DE TODOS",
+		"province": "CHUBUT",
+		"assistants": [
+			{
+				"name": "SONIA ISABEL GONZALEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "GONZALO MARTIN PERTIERRA",
+				"category": "A-8"
+			},
+			{
+				"name": "NICOLAS MANUEL LINARES",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS ARIEL MARINARO",
+				"category": "A-3"
+			},
+			{
+				"name": "MANUEL ENRIQUE QUINTEROS",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA FERNANDA GONZALEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "GISELA MARTINEZ STIMPFL",
+				"category": "A-4"
+			},
+			{
+				"name": "ANTONELA MAGALI VARONE",
+				"category": "A-1"
+			},
+			{
+				"name": "MATIAS DAVID NIBORSKI",
+				"category": "A-5"
+			},
+			{
+				"name": "MARCIAL ALEJANDRO PAZ",
+				"category": "A-3"
+			},
+			{
+				"name": "FLORENCIA ORIBONES",
+				"category": "A-5"
+			},
+			{
+				"name": "GUSTAVO FERNANDO HOYO MASELLA",
+				"category": "A-2"
+			},
+			{
+				"name": "ROMINA ALEJANDRA CZWAN",
+				"category": "A-3"
+			},
+			{
+				"name": "OSCAR ALFREDO CRETINI",
+				"category": "A-2"
+			},
+			{
+				"name": "RAMIRO DE ANCHORENA",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO DANIEL APPHESBERHO",
+				"category": "A-6"
+			},
+			{
+				"name": "SANTIAGO JAVIER CEFERINO PASTORINO",
+				"category": "A-2"
+			},
+			{
+				"name": "AYELEN CECILIA PREVIGLIANO",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "LÓPEZ, CÁNDIDA CRISTINA",
+		"img": "image",
+		"cost": "20041795.76",
+		"id": "574",
+		"party": "ALIANZA FRENTE DE TODOS",
+		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+		"assistants": [
+			{
+				"name": "FLORENCIA MAGALI DOMINGUEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARCELO RUBEN FINIELLO",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIA ANDREA GOMEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "MELISA AYELEN QUINTANA",
+				"category": "A-7"
+			},
+			{
+				"name": "JORGE GUSTAVO MOGLIA",
+				"category": "A-1"
+			},
+			{
+				"name": "PABLO JUAN CHIESA",
+				"category": "A-3"
+			},
+			{
+				"name": "ALDANA AGUSTINA ARRENDAL",
+				"category": "A-1"
+			},
+			{
+				"name": "FRANCISCO MATIAS RUSSO COROMAN",
+				"category": "A-4"
+			},
+			{
+				"name": "FABIAN OMAR ARRENDAL",
+				"category": "A-1"
+			},
+			{
+				"name": "PEDRO SCHVARTZMAN GIORDANO",
+				"category": "A-9"
+			},
+			{
+				"name": "YESICA  ELISABET FERNANDEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIO DOMINGO DANIELE",
+				"category": "A-1"
+			},
+			{
+				"name": "ALEJANDRA DAROUICHE",
+				"category": "A-1"
+			},
+			{
+				"name": "FRANCISCO MANUEL MARTIN",
+				"category": "A-8"
+			},
+			{
+				"name": "ALEJANDRO DAROUICHE",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA JOSE NIBORSKI",
+				"category": "A-2"
+			},
+			{
+				"name": "GERARDO LUIS PALACIOS",
+				"category": "A-1"
+			},
+			{
+				"name": "EDUARDO RAMON OJEDA",
+				"category": "A-1"
+			},
+			{
+				"name": "GERARD ANDRE VILLALBA",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "LÓPEZ, MARÍA FLORENCIA",
+		"img": "image",
+		"cost": "11154266.21",
+		"id": "555",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "LA RIOJA",
+		"assistants": [
+			{
+				"name": "FLAVIO NICOLAS BUSTOS",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVANA RITA PALETTA",
+				"category": "A-6"
+			},
+			{
+				"name": "CARLA MARIA ALESSANDRINI",
+				"category": "A-1"
+			},
+			{
+				"name": "IRMA YANET BONAUDI",
+				"category": "A-10"
+			},
+			{
+				"name": "JORGE MARTIN CABO GUZMAN",
+				"category": "A-14"
+			},
+			{
+				"name": "CECILIA ROMINA BECERRA",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS FERNANDO DE ANGELIS",
+				"category": "A-6"
+			},
+			{
+				"name": "JULIO LUCIANO TORRES",
+				"category": "A-1"
+			},
+			{
+				"name": "RITA MARCELA CHAPERON",
+				"category": "A-5"
+			},
+			{
+				"name": "PABLO HERNAN LEGNA",
+				"category": "A-4"
+			},
+			{
+				"name": "FABIO HORACIO RODRIGUEZ",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "LOSADA, CAROLINA",
+		"img": "image",
+		"cost": "10453024.73",
+		"id": "536",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "SANTA FE",
+		"assistants": [
+			{
+				"name": "MARCOS ADRIAN MARTINEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA FABIANA ROSA LEON",
+				"category": "A-3"
+			},
+			{
+				"name": "FEDERICO EDUARDO MUR",
+				"category": "A-2"
+			},
+			{
+				"name": "FRANCISCO CASTAGNINO",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVIA MONICA SUDOL",
+				"category": "A-1"
+			},
+			{
+				"name": "SOLANGE MICAELA GONZALEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "LEANDRO M. BERARDOZZI",
+				"category": "A-2"
+			},
+			{
+				"name": "HORACIO GABRIEL MOYANO",
+				"category": "A-7"
+			},
+			{
+				"name": "FELIX VICENTE LONIGRO",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "LOUSTEAU, MARTÍN",
+		"img": "image",
+		"cost": "12289609.59",
+		"id": "497",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "SILVIA BEATRIZ NEGRO",
+				"category": "A-2"
+			},
+			{
+				"name": "SEBASTIAN ANDRES GUIDI",
+				"category": "A-5"
+			},
+			{
+				"name": "CECILIA VELEDA",
+				"category": "A-8"
+			},
+			{
+				"name": "MATIAS MANUEL CIMADEVILLA",
+				"category": "A-6"
+			},
+			{
+				"name": "MATIAS ALEJANDRO MENDEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "SANTIAGO AFONSO",
+				"category": "A-10"
+			},
+			{
+				"name": "BASTIANA TERESA LOCURSCIO",
+				"category": "A-2"
+			},
+			{
+				"name": "FLORENCIA PRIMAVERA",
+				"category": "A-3"
+			},
+			{
+				"name": "SERGIO EMILIO GARCIA CASARROTA",
+				"category": "A-6"
+			},
+			{
+				"name": "GERMAN GABRIEL ROJO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA PAZ BORRESCIO",
+				"category": "A-3"
+			},
+			{
+				"name": "ARIANA MARLENE MADELAIRE",
+				"category": "A-6"
+			},
+			{
+				"name": "LARA MARIA DUBOSCQ",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIA FLORENCIA SAULINO",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "MANZUR, JUAN LUIS",
+		"img": "image",
+		"cost": "8806519.98",
+		"id": "576",
+		"party": "ALIANZA FRENTE DE TODOS",
+		"province": "TUCUMÁN",
+		"assistants": [
+			{
+				"name": "CECILIA LORENA FIORINO",
+				"category": "A-2"
+			},
+			{
+				"name": "HERNAN DI BELLO",
+				"category": "A-2"
+			},
+			{
+				"name": "MICAELA RODRIGUEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "JUAN PABLO LICHTMAJER",
+				"category": "A-1"
+			},
+			{
+				"name": "JOSEMARIA COMBES",
+				"category": "A-5"
+			},
+			{
+				"name": "VICTORIA DEL VALLE COMBES",
+				"category": "A-3"
+			},
+			{
+				"name": "LUIS MIGUEL HERRAEZ PRIETO",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+		"img": "image",
+		"cost": "20897156.27",
+		"id": "294",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "FORMOSA",
+		"assistants": [
+			{
+				"name": "CELINA YAEL MAYANS",
+				"category": "A-8"
+			},
+			{
+				"name": "ARMANDO RODOLFO NUÑEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "ILLIA KUTSENKO",
+				"category": "A-7"
+			},
+			{
+				"name": "SONIA RENE BOGARIN",
+				"category": "A-1"
+			},
+			{
+				"name": "NESTOR FABIAN RIOS",
+				"category": "A-8"
+			},
+			{
+				"name": "RICARDO ANIBAL NEGRETTI",
+				"category": "A-7"
+			},
+			{
+				"name": "JUAN CARLOS AREVALO",
+				"category": "A-7"
+			},
+			{
+				"name": "JORGE EUSEBIO VILLALBA",
+				"category": "A-10"
+			},
+			{
+				"name": "HUGO IMANOL VEGA",
+				"category": "A-7"
+			},
+			{
+				"name": "JOAQUIN CESAR ALCIDES CESPEDES",
+				"category": "A-6"
+			},
+			{
+				"name": "ANDREA SOLEDAD MARINCOVICH",
+				"category": "A-6"
+			},
+			{
+				"name": "SILVIO LEONARDO DLUGOSZEWSKI",
+				"category": "A-3"
+			},
+			{
+				"name": "JORGE ANIBAL AGUIRRE",
+				"category": "A-1"
+			},
+			{
+				"name": "NATALIA BELEN LEON",
+				"category": "A-5"
+			},
+			{
+				"name": "SONIA ARGENTINA SOLEDAD BAEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "EDUARDO ANTONIO FLEITAS",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRA MARIA AZUCENA MARTINEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "REINALDO FABIAN VILLALBA",
+				"category": "A-3"
+			},
+			{
+				"name": "NOELIA MIRIAM ARANDA",
+				"category": "A-5"
+			},
+			{
+				"name": "SANTIAGO MIGUEL VILLALBA",
+				"category": "A-1"
+			},
+			{
+				"name": "ROSSANA NORMA MAGDALENA GOMEZ PIRAGINE",
+				"category": "A-10"
+			},
+			{
+				"name": "CRISTIAN ARIEL GONZALEZ",
+				"category": "A-10"
+			},
+			{
+				"name": "CARLOS RUBEN MORANTE",
+				"category": "A-10"
+			},
+			{
+				"name": "LEILA DORA BENITEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "MARCELO LUIS DELGADO",
+				"category": "A-11"
+			},
+			{
+				"name": "SERGIO GUSTAVO LOPEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "AUGUSTO GUILLERMO WAIZER",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA FLORENCIA DAMNOTTI",
+				"category": "A-5"
+			},
+			{
+				"name": "OSCAR RUBEN GAETE",
+				"category": "A-6"
+			},
+			{
+				"name": "PEDRO ROMAN",
+				"category": "A-3"
+			},
+			{
+				"name": "HUGO ARMANDO VEGA",
+				"category": "A-4"
+			},
+			{
+				"name": "RAMON BENITEZ",
+				"category": "A-6"
+			}
+		]
+	},
+	{
+		"fullName": "MENDOZA, SANDRA MARIELA",
+		"img": "image",
+		"cost": "21449416.07",
+		"id": "540",
+		"party": "FRENTE DE TODOS",
+		"province": "TUCUMÁN",
+		"assistants": [
+			{
+				"name": "PEDRO SEGUNDO CRUZ",
+				"category": "A-2"
+			},
+			{
+				"name": "SILVIA DEL CARMEN QUINTEROS",
+				"category": "A-2"
+			},
+			{
+				"name": "ROMINA DENISE IBARRA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIANA ISABEL BAUDINO",
+				"category": "A-1"
+			},
+			{
+				"name": "CARLOS DANTE FEREZ",
+				"category": "A-1"
+			},
+			{
+				"name": "ELEANA PAOLA MARTINEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "VICTOR EDUARDO ZURITA",
+				"category": "A-5"
+			},
+			{
+				"name": "SANDRA ANGELICA MERLO",
+				"category": "A-3"
+			},
+			{
+				"name": "LILIANA RUTH LIBERCZUK",
+				"category": "A-10"
+			},
+			{
+				"name": "SYLVANA BEATRIZ DELLAROSSA",
+				"category": "A-1"
+			},
+			{
+				"name": "RAFAEL BERNABE ALONSO",
+				"category": "A-9"
+			},
+			{
+				"name": "ADRIANA INES DOMINGUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "JORGE GUSTAVO PEREZ",
+				"category": "A-7"
+			},
+			{
+				"name": "SALOME EMILSE ROMERA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARTINA ELIZABETH GIMENEZ SEGOVIA",
+				"category": "A-7"
+			},
+			{
+				"name": "KAREN YANINA ZURITA",
+				"category": "A-3"
+			},
+			{
+				"name": "MONICA ALEJANDRA ZURITA",
+				"category": "A-6"
+			},
+			{
+				"name": "MIGUEL ANGEL SORIA",
+				"category": "A-6"
+			},
+			{
+				"name": "DIANA LUCIA PASCUAL",
+				"category": "A-9"
+			},
+			{
+				"name": "VIVIANA ELIZABET AREVALO",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCIA TEMKIN",
+				"category": "A-4"
+			},
+			{
+				"name": "MONICA TRINIDAD RODRIGUEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "MARINA MABEL GUTIERREZ",
+				"category": "A-3"
+			},
+			{
+				"name": "ROGELIO NAVARRO VITAR",
+				"category": "A-4"
+			},
+			{
+				"name": "ARNALDO ABEL MACHADO",
+				"category": "A-4"
+			},
+			{
+				"name": "MONICA PATRICIA DAHER",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "MOISES, MARÍA CAROLINA",
+		"img": "image",
+		"cost": "21633074.56",
+		"id": "554",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "JUJUY",
+		"assistants": [
+			{
+				"name": "FEDERICO MATIAS BLESA",
+				"category": "A-13"
+			},
+			{
+				"name": "ARNALDO LUCIO PLAZA",
+				"category": "A-14"
+			},
+			{
+				"name": "FEDERICO TOMAS BRIGANTE",
+				"category": "A-3"
+			},
+			{
+				"name": "ANA MARCELA DEL PILAR BARRO",
+				"category": "A-14"
+			},
+			{
+				"name": "SERGIO EDGARDO MAMANI",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIANA RUSSAK BALIÑA",
+				"category": "A-6"
+			},
+			{
+				"name": "ANTONELA GURRIERI PORTAL",
+				"category": "A-10"
+			},
+			{
+				"name": "JUAN MANUEL SOLER",
+				"category": "A-6"
+			},
+			{
+				"name": "PAOLA ROMINA SANCHEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "WALTER NICOLAS HERRERA",
+				"category": "A-10"
+			},
+			{
+				"name": "NATALIA TURBINER",
+				"category": "A-6"
+			},
+			{
+				"name": "HECTOR ESTEBAN GARCIA",
+				"category": "A-2"
+			},
+			{
+				"name": "FRANCISCO JAVIER RODRIGUEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "VERONICA INES ALONSO",
+				"category": "A-2"
+			},
+			{
+				"name": "ARNALDO ERIC PERALTA",
+				"category": "A-14"
+			},
+			{
+				"name": "ANABELLA CINTIA NEGRI",
+				"category": "A-6"
+			},
+			{
+				"name": "YOLANDA BEATRIZ AGUIRRE",
+				"category": "A-12"
+			},
+			{
+				"name": "FABIOLA ROXANA ORTIZ",
+				"category": "A-14"
+			},
+			{
+				"name": "ALEJANDRA BEATRIZ JUAREZ",
+				"category": "A-1"
+			},
+			{
+				"name": "CARLOS ALBERTO RUIZ",
+				"category": "A-5"
+			},
+			{
+				"name": "JUAN IGNACIO ARAMAYO",
+				"category": "A-14"
+			},
+			{
+				"name": "RICARDO RODOLFO BURGOS",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS MANUEL DE APARICI",
+				"category": "A-3"
+			},
+			{
+				"name": "OCTAVIO CARLOS MOSCATELLI",
+				"category": "A-2"
+			},
+			{
+				"name": "ERIKA FERNANDA GAISER",
+				"category": "A-3"
+			},
+			{
+				"name": "NANCI ADRIANA FRUYANO",
+				"category": "A-10"
+			},
+			{
+				"name": "VALENTINA RUIVAL",
+				"category": "A-10"
+			},
+			{
+				"name": "CARLA YAMILA NIETO",
+				"category": "A-14"
+			},
+			{
+				"name": "SOL MARIA RODRIGUEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "CRISTIAN RODRIGO GONZALEZ",
+				"category": "A-14"
+			},
+			{
+				"name": "CARLOS IGNACIO HAQUIM",
+				"category": "A-3"
+			},
+			{
+				"name": "SERGIO GUSTAVO BAUTISTA",
+				"category": "A-6"
+			},
+			{
+				"name": "SANTOS RUETE",
+				"category": "A-4"
+			},
+			{
+				"name": "GUSTAVO ADOLFO RUIZ MORENO",
+				"category": "A-3"
+			},
+			{
+				"name": "MARCOS GABRIEL BLESA",
+				"category": "A-13"
+			},
+			{
+				"name": "SERGIO DOMINGO GUTIERREZ",
+				"category": "A-14"
+			},
+			{
+				"name": "ROCIO GRACIELA GUZMAN OLMOS",
+				"category": "A-7"
+			},
+			{
+				"name": "MAYRA TERESA NELLY JUAREZ",
+				"category": "A-10"
+			}
+		]
+	},
+	{
+		"fullName": "MONTENEGRO, GERARDO ANTENOR",
+		"img": "image",
+		"cost": "24971035.37",
+		"id": "446",
+		"party": "FRENTE DE TODOS",
+		"province": "SANTIAGO DEL ESTERO",
+		"assistants": [
+			{
+				"name": "ISOLDA CAPPELLINI",
+				"category": "A-2"
+			},
+			{
+				"name": "ADELA INES OTERO",
+				"category": "A-2"
+			},
+			{
+				"name": "GABRIELA FABIANA PUGLIESE",
+				"category": "A-7"
+			},
+			{
+				"name": "GABRIELA CARMEN DIAZ",
+				"category": "A-12"
+			},
+			{
+				"name": "CARLOS ALBERTO VIZCAY",
+				"category": "A-4"
+			},
+			{
+				"name": "SANDRA ELIZABETH SALTAMARTINI",
+				"category": "A-1"
+			},
+			{
+				"name": "CARLA BELEN IBARRA",
+				"category": "A-9"
+			},
+			{
+				"name": "PATRICIA ANGELICA URQUIZA",
+				"category": "A-10"
+			},
+			{
+				"name": "CARLOS OSVALDO IBARRA",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIANA HID",
+				"category": "A-12"
+			},
+			{
+				"name": "KAREN NOELIA MALDONADO",
+				"category": "A-12"
+			},
+			{
+				"name": "DANIEL EDUARDO CHEQUER CHARAN",
+				"category": "A-1"
+			},
+			{
+				"name": "RAMON ARIEL ALEJANDRO CORONEL",
+				"category": "A-12"
+			},
+			{
+				"name": "EVA CAROLINA GOMEZ",
+				"category": "A-12"
+			},
+			{
+				"name": "MARIA CECILIA CAPELLA",
+				"category": "A-5"
+			},
+			{
+				"name": "FRANCO ALEJANDRO ROSSI",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIANA SOFIA CHEQUER CHARAN",
+				"category": "A-7"
+			},
+			{
+				"name": "LEANDRO MAXIMILIANO LISSI",
+				"category": "A-8"
+			},
+			{
+				"name": "ALEJANDRO JOSE CORRADI",
+				"category": "A-2"
+			},
+			{
+				"name": "JORGE MATIAS DAMIAN CARABALLO",
+				"category": "A-8"
+			},
+			{
+				"name": "MARIA LORENA VERA",
+				"category": "A-8"
+			},
+			{
+				"name": "VICTORIA RAQUEL CABAÑAS",
+				"category": "A-12"
+			},
+			{
+				"name": "DIEGO SEBASTIAN SANCHEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "MARCELO IVAN NAZAR",
+				"category": "A-8"
+			},
+			{
+				"name": "RAUL ALEJANDRO ESPERGUIN",
+				"category": "A-10"
+			},
+			{
+				"name": "MARIA GUADALUPE PITA MONZON",
+				"category": "A-1"
+			},
+			{
+				"name": "JORGE RAFAEL PAJON",
+				"category": "A-12"
+			},
+			{
+				"name": "TANIA LUISINA SANTUCHO",
+				"category": "A-10"
+			},
+			{
+				"name": "MARIO TOMAS ULLA",
+				"category": "A-10"
+			},
+			{
+				"name": "ALTEZA TERESITA NAZER",
+				"category": "A-10"
+			},
+			{
+				"name": "VALERIA DANIELA ITATI CANAVESIO",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIO ALBERTO CORRADI",
+				"category": "A-1"
+			},
+			{
+				"name": "SEBASTIAN EZEQUIEL MONTENEGRO SAYAGO",
+				"category": "A-14"
+			},
+			{
+				"name": "VALENTINA BELEN FIGUEROA BASUALDO",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA ANGELA MARTIN",
+				"category": "A-7"
+			},
+			{
+				"name": "VANESA DEL CARMEN CHAVEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "GUSTAVO AGUSTIN COIMAN",
+				"category": "A-5"
+			},
+			{
+				"name": "NESTOR DANIEL LUNA",
+				"category": "A-12"
+			},
+			{
+				"name": "MARCELO DANIEL PLOMER",
+				"category": "A-1"
+			},
+			{
+				"name": "IVANA ELIANA PAZ",
+				"category": "A-12"
+			},
+			{
+				"name": "FEDERICO NICOLAS HERRERA",
+				"category": "A-12"
+			},
+			{
+				"name": "LIDIA MARCELA BARRAZA",
+				"category": "A-6"
+			},
+			{
+				"name": "MIRTA MAGDALENA LUNA GARCIA",
+				"category": "A-8"
+			},
+			{
+				"name": "GUSTAVO ALEJANDRO BELIZAN",
+				"category": "A-13"
+			}
+		]
+	},
+	{
+		"fullName": "NEDER, JOSÉ EMILIO",
+		"img": "image",
+		"cost": "NaN",
+		"id": "510",
+		"party": "FRENTE CÍVICO POR SANTIAGO",
+		"province": "SANTIAGO DEL ESTERO",
+		"assistants": [
+			{
+				"name": "AGUSTIN RICHARD",
+				"category": "A-6"
+			},
+			{
+				"name": "JUAN DOMINGO OJEDA",
+				"category": "A-7"
+			},
+			{
+				"name": "ENRIQUE EMILIO KOCH",
+				"category": "A-4"
+			},
+			{
+				"name": "DAMIAN ARIEL IUSEM",
+				"category": "A-6"
+			},
+			{
+				"name": "GUILLERMO TAGLIOTTI",
+				"category": "A-1"
+			},
+			{
+				"name": "JOSE FRANCISCO CAMAÑO",
+				"category": "A-6"
+			},
+			{
+				"name": "ERNESTO ROLANDO AGUIRRE",
+				"category": "M-3"
+			},
+			{
+				"name": "JOSE RAUL RODRIGUEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "MARTA VIRGINIA AMUI AZIZE",
+				"category": "A-7"
+			},
+			{
+				"name": "AZUL MATZKIN GALVAN",
+				"category": "A-12"
+			},
+			{
+				"name": "CARLOS CESAR GABRIEL MANFREDOTTI LANZARES",
+				"category": "A-2"
+			},
+			{
+				"name": "YAMILA RENEE DERVICHE",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVIA MARINA VILLALBA",
+				"category": "A-3"
+			},
+			{
+				"name": "FLORENCIA CHIPPONERE",
+				"category": "A-3"
+			},
+			{
+				"name": "JOAQUIN ALBERTO ABAL GRONCHI",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVINA MABEL RODRIGUEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "HUGO MATIAS LARRUE",
+				"category": "A-5"
+			},
+			{
+				"name": "MARISA FABIANA ZATELLI",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA VICTORIA CHIMENTI",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "OLALLA, STELLA MARIS",
+		"img": "image",
+		"cost": "13369726.98",
+		"id": "503",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "ENTRE RÍOS",
+		"assistants": [
+			{
+				"name": "AYELEN ESTELA RODRIGUEZ VAGARIA",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA EUGENIA MOLINA BORDA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA DE LAS MERCEDES VELAZQUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "DENISE VICTORIA DODARO",
+				"category": "A-4"
+			},
+			{
+				"name": "FRANCISCO LUIS MARTINEZ LOBO",
+				"category": "A-4"
+			},
+			{
+				"name": "ESTEFANIA INES SPOTTI",
+				"category": "A-4"
+			},
+			{
+				"name": "GONZALO GABRIEL FONTAO",
+				"category": "A-2"
+			},
+			{
+				"name": "VERONICA ELVIRA GIACOPPO",
+				"category": "A-5"
+			},
+			{
+				"name": "JORGE MARCELO D&#039; AGOSTINO",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN CARLOS MONTIEL",
+				"category": "A-13"
+			},
+			{
+				"name": "LUCAS LEONARDO GUALDA",
+				"category": "A-8"
+			},
+			{
+				"name": "NICOLAS AUGUSTO RIVAS",
+				"category": "A-8"
+			},
+			{
+				"name": "ADRIAN EDUARDO BULACIOS",
+				"category": "A-5"
+			},
+			{
+				"name": "CAROLINA ISA MARTINEZ GARBINO",
+				"category": "A-3"
+			},
+			{
+				"name": "CHRISTIAN RODRIGO CABRERA",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "OLIVERA LUCERO, BRUNO ANTONIO",
+		"img": "image",
+		"cost": "12690319.01",
+		"id": "563",
+		"party": "ALIANZA LA LIBERTAD AVANZA",
+		"province": "SAN JUAN",
+		"assistants": [
+			{
+				"name": "MARTIN ALEJANDRO SANCHEZ SARMIENTO",
+				"category": "A-9"
+			},
+			{
+				"name": "MAILEN ESTEFANIA NUÑEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "OSCAR ALBERTO RODRIGUEZ INFANTE",
+				"category": "A-14"
+			},
+			{
+				"name": "HERNÁN ARIEL ABALLAY",
+				"category": "A-13"
+			},
+			{
+				"name": "ARMANDO ALANIS SABAG",
+				"category": "A-11"
+			},
+			{
+				"name": "FRANCISCO J TASCHERET GRAFFIGNA",
+				"category": "A-10"
+			},
+			{
+				"name": "DARIO DAVID ISAAC PEÑA MUÑOZ",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN ALEJANDRO CUELLO",
+				"category": "A-8"
+			},
+			{
+				"name": "MARIA CRISTINA AGUERO",
+				"category": "A-7"
+			},
+			{
+				"name": "LUIS MAXIMILIANO ABALLAY",
+				"category": "A-13"
+			},
+			{
+				"name": "FACUNDO HERRERA",
+				"category": "A-1"
+			},
+			{
+				"name": "ESTEBAN EZEQUIEL CUELLO",
+				"category": "A-1"
+			},
+			{
+				"name": "JAVIER ALEJANDRO BARROS",
+				"category": "A-13"
+			},
+			{
+				"name": "MARTIN ALFREDO PEÑA MUÑOZ",
+				"category": "A-5"
+			},
+			{
+				"name": "MANUEL BONIFACIO CHAVEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "ENZO ANDRÉS JESÚS ORTIZ AGUILERA",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "PAGOTTO, JUAN CARLOS",
+		"img": "image",
+		"cost": "8396820.26",
+		"id": "557",
+		"party": "ALIANZA LA LIBERTAD AVANZA",
+		"province": "LA RIOJA",
+		"assistants": [
+			{
+				"name": "JUAN MARIA PAGOTTO",
+				"category": "A-1"
+			},
+			{
+				"name": "ENRIQUE RAUL ALIVES",
+				"category": "A-6"
+			},
+			{
+				"name": "DANIEL RICARDO BEDIA",
+				"category": "A-6"
+			},
+			{
+				"name": "LAURA JIMENA BAHAMONDE",
+				"category": "A-2"
+			},
+			{
+				"name": "CAROLA FABIANA MENEM",
+				"category": "A-6"
+			},
+			{
+				"name": "LUCAS IGNACIO FIORDELISI",
+				"category": "A-5"
+			},
+			{
+				"name": "ROSANA CARINA GRAMAJO",
+				"category": "A-5"
+			},
+			{
+				"name": "MICAELA ESTHER TELLO LENCINA",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "PAOLTRONI, FRANCISCO MANUEL",
+		"img": "image",
+		"cost": "8496997.63",
+		"id": "551",
+		"party": "ALIANZA LA LIBERTAD AVANZA",
+		"province": "FORMOSA",
+		"assistants": [
+			{
+				"name": "MILAGROS TAMARA RODRIGUEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "NELIDA ELVA SOTELO",
+				"category": "A-1"
+			},
+			{
+				"name": "ZULLY LAURA ENCINA",
+				"category": "A-13"
+			},
+			{
+				"name": "SONIA ELIZABETH BARRIONUEVO",
+				"category": "A-1"
+			},
+			{
+				"name": "MERCEDES ELIZABETH SOSA",
+				"category": "A-14"
+			},
+			{
+				"name": "CAMILA GONZALEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "ANA ROSA VASQUEZ PEREDA",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "PARRILLI, OSCAR ISIDRO",
+		"img": "image",
+		"cost": "17128946.48",
+		"id": "504",
+		"party": "FRENTE DE TODOS",
+		"province": "NEUQUÉN",
+		"assistants": [
+			{
+				"name": "NANCY ELIZABETH ESTECHE",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA SOL GOMEZ SANTORO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA GABRIELA PEREZ",
+				"category": "A-1"
+			},
+			{
+				"name": "FERNANDO CARLOS FINCK",
+				"category": "A-3"
+			},
+			{
+				"name": "AGUSTINA CARDOZO",
+				"category": "A-8"
+			},
+			{
+				"name": "SEBASTIAN JAVIER OLAECHEA",
+				"category": "A-5"
+			},
+			{
+				"name": "HECTOR ICAZURIAGA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA SABRINA GIMENEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "FERNANDO JAVIER CASTIGLIONI",
+				"category": "A-2"
+			},
+			{
+				"name": "GERARDO DAMIAN ACCIARRI",
+				"category": "A-8"
+			},
+			{
+				"name": "LUCIANA NATALIA ESCUDERO",
+				"category": "A-5"
+			},
+			{
+				"name": "ROMINA CORDOBA",
+				"category": "A-4"
+			},
+			{
+				"name": "CAROLINA  ANDREA CASAGNI WELSCH",
+				"category": "A-5"
+			},
+			{
+				"name": "JUAN PABLO FUTTEN",
+				"category": "A-2"
+			},
+			{
+				"name": "JORGE ADRIAN PADILLA",
+				"category": "A-4"
+			},
+			{
+				"name": "ANIBAL IBARRA",
+				"category": "A-2"
+			},
+			{
+				"name": "LUIS ALEJANDRO VARGAS",
+				"category": "A-8"
+			},
+			{
+				"name": "GUSTAVO GABRIEL ARELLANO",
+				"category": "A-8"
+			},
+			{
+				"name": "CLAUDIA ELIZABETH GOMEZ",
+				"category": "A-12"
+			},
+			{
+				"name": "PATRICIA MARIANA PONCE DE LEON",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "PILATTI VERGARA, MARÍA INÉS",
+		"img": "image",
+		"cost": "30265023.41",
+		"id": "435",
+		"party": "FRENTE DE TODOS",
+		"province": "CHACO",
+		"assistants": [
+			{
+				"name": "MAXIMILIANO BOGLIETTI",
+				"category": "A-3"
+			},
+			{
+				"name": "ROCIO LAILA DRABENCHE",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCIANA YAMILA DOMINGUEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "DIEGO HORACIO CALDIROLA",
+				"category": "A-11"
+			},
+			{
+				"name": "EDUARDO EMILIO KAPETINICH",
+				"category": "A-1"
+			},
+			{
+				"name": "GUILLERMO RODOLFO FERNANDO PEREZ ROISINBLIT",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA FERNANDA CHAVES",
+				"category": "A-10"
+			},
+			{
+				"name": "JULIAN CARLOTTO",
+				"category": "A-6"
+			},
+			{
+				"name": "ANTONIO MIGUEL TEMPERINI",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIA ESPERANZA COLOMBO",
+				"category": "A-7"
+			},
+			{
+				"name": "GERARDO JAVIER FITZGERALD HOFFMANN",
+				"category": "A-1"
+			},
+			{
+				"name": "EMILIO FERNANDO ROJAS",
+				"category": "A-1"
+			},
+			{
+				"name": "FABIOLA CARCAR",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN MANUEL ESPINOSA NOBILE",
+				"category": "A-4"
+			},
+			{
+				"name": "AGUSTIN ALEJANDRO KOZAK GRASSINI",
+				"category": "A-2"
+			},
+			{
+				"name": "NADIA CECILIA PAREDES",
+				"category": "A-2"
+			},
+			{
+				"name": "LEANDRO GARCIA REDONDO",
+				"category": "A-7"
+			},
+			{
+				"name": "DARIO ABEL MANTUANO",
+				"category": "A-2"
+			},
+			{
+				"name": "JUAN FACUNDO ESQUIVEL",
+				"category": "A-8"
+			},
+			{
+				"name": "MOIRA EVELIN PARED",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANA MORAGUES",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN PABLO DEMARIA",
+				"category": "A-9"
+			},
+			{
+				"name": "NAYLA DANIELA BOSCH",
+				"category": "A-7"
+			},
+			{
+				"name": "DIEGO OSCAR DORPER",
+				"category": "A-2"
+			},
+			{
+				"name": "FLAVIA VERONICA HONNORAT",
+				"category": "A-2"
+			},
+			{
+				"name": "LORENA VANINA BOCO",
+				"category": "A-1"
+			},
+			{
+				"name": "SOFIA SIRONI",
+				"category": "A-8"
+			},
+			{
+				"name": "FACUNDO CACERES",
+				"category": "A-4"
+			},
+			{
+				"name": "LAURA INES CASANELLO",
+				"category": "A-4"
+			},
+			{
+				"name": "PABLO POMERANTZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MABEL SOLEDAD CODUTTI",
+				"category": "A-5"
+			},
+			{
+				"name": "MAURO SEBASTIAN MARTELOSSI",
+				"category": "A-2"
+			},
+			{
+				"name": "JULIA RICCI CORREGIDO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA LORENA SALINAS",
+				"category": "A-13"
+			},
+			{
+				"name": "PABLO FERNANDO SUAREZ RUBIO",
+				"category": "A-6"
+			},
+			{
+				"name": "MARTIN NAHUEL TEJADA",
+				"category": "A-8"
+			},
+			{
+				"name": "JOSE MIGUEL DE FRANCISCA",
+				"category": "A-2"
+			},
+			{
+				"name": "LILIANA ELISA SOSA",
+				"category": "A-13"
+			},
+			{
+				"name": "PABLO ISMAEL SABBATINI",
+				"category": "A-1"
+			},
+			{
+				"name": "SEBASTIAN BENITEZ MOLAS",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "RECALDE, MARIANO",
+		"img": "image",
+		"cost": "NaN",
+		"id": "498",
+		"party": "FRENTE DE TODOS",
+		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "TOMÁS IGNACIO AVILA",
+				"category": "A-5"
+			},
+			{
+				"name": "MALENA GONZALEZ MAGNASCO",
+				"category": "A-3"
+			},
+			{
+				"name": "LUCIA BRACAMONTE FELLNER",
+				"category": "A-3"
+			},
+			{
+				"name": "GIULIANO IANNIELLO",
+				"category": "A-9"
+			},
+			{
+				"name": "SILVANA LORENA GIORDANO",
+				"category": "A-4"
+			},
+			{
+				"name": "TOMAS AGUSTIN RODRIGUEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCIA JERMOLI",
+				"category": "A-3"
+			},
+			{
+				"name": "MÍA BIGLIANI",
+				"category": "A-7"
+			},
+			{
+				"name": "JESSICA SOLEDAD VAZQUEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "NATALIA ROMINA RUIZ",
+				"category": "A-2"
+			},
+			{
+				"name": "CARLA FERNANDA RUCKAUF",
+				"category": "A-6"
+			},
+			{
+				"name": "MAXIMILIANO RODRIGO ARRANZ MADORRAN",
+				"category": "A-14"
+			},
+			{
+				"name": "LUCIANO NICOLAS GOMEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "ANDRES CARDENAS",
+				"category": "A-5"
+			},
+			{
+				"name": "CARINA DEL VALLE FLORES",
+				"category": "A-9"
+			},
+			{
+				"name": "MARIANA FERNANDA ALANIS",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIO MARCELO BERTACCO",
+				"category": "A-3"
+			},
+			{
+				"name": "VIOLETA GRISEL PIETRAFESA",
+				"category": "A-7"
+			},
+			{
+				"name": "PAMELA CAROLINA JESUS ARRIOLA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA FLORENCIA COLOMBO",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA VICTORIA SPINOSA",
+				"category": "A-5"
+			},
+			{
+				"name": "GABRIEL ORLANDO GRAVES",
+				"category": "A-1"
+			},
+			{
+				"name": "HERNAN REIBEL MAIER",
+				"category": "A-1"
+			},
+			{
+				"name": "SANTIAGO LORENZO MAURICIO PEFAUR",
+				"category": "M-6"
+			},
+			{
+				"name": "LUCA MATIAS MORAN",
+				"category": "A-8"
+			},
+			{
+				"name": "CAMILA FLORENCIA CORREA",
+				"category": "A-3"
+			},
+			{
+				"name": "CAMILA  AILEN RUGIERO",
+				"category": "A-14"
+			}
+		]
+	},
+	{
+		"fullName": "REJAL, JESÚS FERNANDO",
+		"img": "image",
+		"cost": "30753066.97",
+		"id": "556",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "LA RIOJA",
+		"assistants": [
+			{
+				"name": "EDGARDO GERMAN LOPEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "MIGUEL ANGEL SOSA",
+				"category": "A-2"
+			},
+			{
+				"name": "OLGA DEL VALLE BRIZUELA",
+				"category": "A-3"
+			},
+			{
+				"name": "RAMON ROSA HERNANDEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "GRACIELA NORMA RAMOS",
+				"category": "A-3"
+			},
+			{
+				"name": "LUIS CARLOS MATIAS OLGUIN",
+				"category": "A-3"
+			},
+			{
+				"name": "ROCIO SOLEDAD GARMENDIA",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRA GABRIELA PORTUGAL",
+				"category": "A-4"
+			},
+			{
+				"name": "MARTIN GONZALO FONTAN OTERO",
+				"category": "A-3"
+			},
+			{
+				"name": "LUIS MIGUEL ARGOTA",
+				"category": "A-4"
+			},
+			{
+				"name": "MONICA MARIEL PERAFAN",
+				"category": "A-1"
+			},
+			{
+				"name": "IGNACIO ILLANES ARTICO",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA CELESTE DIEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "DIEGO EMANUEL CASANOVA",
+				"category": "A-4"
+			},
+			{
+				"name": "PAOLA MARIEL CRESPI FABREGUES",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA VIRGINIA ROSALES",
+				"category": "A-4"
+			},
+			{
+				"name": "NICOLAS JOAQUIN GUERRA",
+				"category": "A-4"
+			},
+			{
+				"name": "AGOSTINA BAVASSO ALLENDE",
+				"category": "A-4"
+			},
+			{
+				"name": "VICTOR HUGO TOMATIS",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA FLORENCIA LIMA",
+				"category": "A-4"
+			},
+			{
+				"name": "ANGELA PAOLA TELLO",
+				"category": "A-7"
+			},
+			{
+				"name": "JORGE GUSTAVO PIZARRO",
+				"category": "A-8"
+			},
+			{
+				"name": "VIVIANA ALACIEL MERCADO LUNA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA INES PARDO",
+				"category": "A-4"
+			},
+			{
+				"name": "MONICA ALEJANDRA ALLENDE REYES",
+				"category": "A-1"
+			},
+			{
+				"name": "HECTOR JORGE BAVASSO",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN DOMINGO LOPEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "MATIAS FRANCISCO TRONCOSO LOTO",
+				"category": "A-6"
+			},
+			{
+				"name": "FRANCISCO ALFREDO NICOLAS LATTUCA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARCOS LEANDRO LUNA",
+				"category": "A-4"
+			},
+			{
+				"name": "RAMON ANTONIO FRANCISCO BRIZUELA Y DORIA",
+				"category": "A-2"
+			},
+			{
+				"name": "RAFAEL CARLOS AGUIRRE",
+				"category": "A-3"
+			},
+			{
+				"name": "FABIANA CAROLINA OVIEDO",
+				"category": "A-5"
+			},
+			{
+				"name": "CARLOS ANGEL SILVERA",
+				"category": "A-3"
+			},
+			{
+				"name": "CARLOS ALBERTO CHACON",
+				"category": "A-2"
+			},
+			{
+				"name": "NORBERTO RAUL LITVINOFF",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "RODAS, ANTONIO JOSÉ",
+		"img": "image",
+		"cost": "23771475.77",
+		"id": "500",
+		"party": "FRENTE DE TODOS",
+		"province": "CHACO",
+		"assistants": [
+			{
+				"name": "MIGUEL OSCAR VILLA",
+				"category": "A-6"
+			},
+			{
+				"name": "LUIS GABRIEL LOMBARDO",
+				"category": "A-1"
+			},
+			{
+				"name": "MAYRA  ALEJANDRA ZARATE",
+				"category": "A-14"
+			},
+			{
+				"name": "CARLOS ANDRES ESCUBILLA",
+				"category": "A-14"
+			},
+			{
+				"name": "PATRICIA ROXANA YÑIGUEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "CARINA SOLEDAD GAUNA",
+				"category": "A-14"
+			},
+			{
+				"name": "RAMIRO GERMAN SEREN",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIA BELEN AVALOS",
+				"category": "A-14"
+			},
+			{
+				"name": "ARTURO EDUARDO MARQUEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA AGUEDA MOLINA",
+				"category": "A-5"
+			},
+			{
+				"name": "LILIANA BEATRIZ PASTUR",
+				"category": "A-5"
+			},
+			{
+				"name": "ANA MAROTTA",
+				"category": "A-5"
+			},
+			{
+				"name": "FEDERICO MATIAS FERNANDEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "JESSICA JOANA PAOLA PONCE",
+				"category": "A-14"
+			},
+			{
+				"name": "ANTONIO ZACARIAS",
+				"category": "A-6"
+			},
+			{
+				"name": "SILVIA LORENA TJOR",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA AGUSTINA QUIROGA TARDIEU",
+				"category": "A-3"
+			},
+			{
+				"name": "ANABELLA EMMA GIORDANO",
+				"category": "A-6"
+			},
+			{
+				"name": "JAVIER FRANCOLINO",
+				"category": "A-5"
+			},
+			{
+				"name": "JOSE LUIS CERRATO",
+				"category": "A-2"
+			},
+			{
+				"name": "NICOLAS JOSE LAURNAGARAY",
+				"category": "A-6"
+			},
+			{
+				"name": "ROCIO BELEN HIPPER",
+				"category": "A-14"
+			},
+			{
+				"name": "CLAUDIA ALEJANDRA MANTARAS",
+				"category": "A-14"
+			},
+			{
+				"name": "GERMAN ARNOLDO RAMON RIVERO",
+				"category": "A-1"
+			},
+			{
+				"name": "DARIO ANDRES SUJOLUZKY",
+				"category": "A-2"
+			},
+			{
+				"name": "LUIS ANDRES RODRIGUEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "SILVIA AGUEDA RESTIVO PINI",
+				"category": "A-1"
+			},
+			{
+				"name": "ANGEL ESTEBAN PINZETTA",
+				"category": "A-6"
+			},
+			{
+				"name": "CHRISTIAN MARCELO SOLIS",
+				"category": "A-14"
+			},
+			{
+				"name": "NATALIA BELEN LAPHITZ",
+				"category": "A-6"
+			},
+			{
+				"name": "EDUARDO ABEL PUPPO",
+				"category": "A-2"
+			},
+			{
+				"name": "RAUL ALBERTO LOPEZ",
+				"category": "A-3"
+			},
+			{
+				"name": "NOEMI GRACIELA PALACIO",
+				"category": "A-1"
+			},
+			{
+				"name": "ALFREDO EMMANUEL MARTINEZ",
+				"category": "A-14"
+			},
+			{
+				"name": "ZUNILDA BEATRIZ VELAUSTEGUI",
+				"category": "A-10"
+			}
+		]
+	},
+	{
+		"fullName": "ROJAS DECUT, SONIA ELIZABETH",
+		"img": "image",
+		"cost": "13457061.10",
+		"id": "559",
+		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
+		"province": "MISIONES",
+		"assistants": [
+			{
+				"name": "ADRIAN JORGE SANCHEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "NORMAN FEDERICO ULLRICH",
+				"category": "A-5"
+			},
+			{
+				"name": "VALERIA CONSTANZA GALATA",
+				"category": "A-1"
+			},
+			{
+				"name": "IRIS ALEJANDRA MADELAIRE",
+				"category": "A-3"
+			},
+			{
+				"name": "IRENE NOEMI PALACIOS",
+				"category": "A-2"
+			},
+			{
+				"name": "PABLO SEBASTIAN GRINBERG",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA LAURA MIR",
+				"category": "A-3"
+			},
+			{
+				"name": "DIEGO JOSE SADRINAS",
+				"category": "A-2"
+			},
+			{
+				"name": "NOELIA ARIANA CASALS",
+				"category": "A-3"
+			},
+			{
+				"name": "ANIBAL ALEJANDRO LEZCANO",
+				"category": "A-1"
+			},
+			{
+				"name": "ROCIO AYELEN GOMEZ CADINI",
+				"category": "A-3"
+			},
+			{
+				"name": "MATIAS DANIEL REMAGGI",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "ROMERO, JUAN CARLOS",
+		"img": "image",
+		"cost": "21089805.03",
+		"id": "35",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "SALTA",
+		"assistants": [
+			{
+				"name": "MIRTA MARGARITA HERRERA",
+				"category": "A-3"
+			},
+			{
+				"name": "TOMAS ALBERTO GARCIA LEMA",
+				"category": "A-4"
+			},
+			{
+				"name": "GERMAN RICARDO VIVAS",
+				"category": "A-7"
+			},
+			{
+				"name": "SOFIA COSCI",
+				"category": "A-6"
+			},
+			{
+				"name": "FERNANDO JAVIER PALOPOLI",
+				"category": "A-1"
+			},
+			{
+				"name": "OMAR NICOLAS PANIQUE",
+				"category": "A-4"
+			},
+			{
+				"name": "GUILLERMO ENRIQUE QUIÑONEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "VALERIA MARCELA FONTAN",
+				"category": "A-1"
+			},
+			{
+				"name": "LAURA MARCELA ACUÑA",
+				"category": "A-2"
+			},
+			{
+				"name": "RAMIRO MARTIN SARAVIA",
+				"category": "A-5"
+			},
+			{
+				"name": "HECTOR GUILLERMO VILAR REY",
+				"category": "A-1"
+			},
+			{
+				"name": "LIONEL ROBERTO DEL VALLE",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA ELINA BRANDENBURG",
+				"category": "A-6"
+			},
+			{
+				"name": "KAREN SILVINA NADER",
+				"category": "A-6"
+			},
+			{
+				"name": "LORENA CARLA RICCHETTI",
+				"category": "A-6"
+			},
+			{
+				"name": "CESAR MIGUEL SALDAÑO",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO JULIO BASSI",
+				"category": "A-5"
+			},
+			{
+				"name": "LUIS EMILIO FAYON MEDINA",
+				"category": "A-9"
+			},
+			{
+				"name": "MARINA NATALIA JURICICH",
+				"category": "A-3"
+			},
+			{
+				"name": "EDUARDO GALLEGO",
+				"category": "A-4"
+			},
+			{
+				"name": "DAIANA KAREN DELORENZI",
+				"category": "A-5"
+			},
+			{
+				"name": "NORBERTO OSVALDO HARISLUR",
+				"category": "A-5"
+			},
+			{
+				"name": "LUCIANA HUXHAGEN",
+				"category": "A-6"
+			},
+			{
+				"name": "HECTOR ADOLFO VARG",
+				"category": "A-2"
+			},
+			{
+				"name": "YOSKO CVITANIC",
+				"category": "A-3"
+			},
+			{
+				"name": "PABLO GASTON FERNANDEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "JAVIER ALEJANDRO ZAMBRANO SUAREZ",
+				"category": "A-8"
+			}
+		]
+	},
+	{
+		"fullName": "SALINO, FERNANDO ALDO",
+		"img": "image",
+		"cost": "NaN",
+		"id": "566",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "SAN LUIS",
+		"assistants": [
+			{
+				"name": "ADRIANA ALICIA DEMICHELI",
+				"category": "A-8"
+			},
+			{
+				"name": "NICOLAS ESTEBAN GARCES",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA LAURA OJER",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA LAURA CUFFINI RODRIGUEZ SAA",
+				"category": "A-7"
+			},
+			{
+				"name": "CONSTANZA ISELLI",
+				"category": "A-3"
+			},
+			{
+				"name": "TOMAS AGUSTIN CERATTO",
+				"category": "A-7"
+			},
+			{
+				"name": "JOSE CARLOS PAULINO GOMEZ MIRANDA",
+				"category": "A-6"
+			},
+			{
+				"name": "MARIA DE LA PAZ PIEDRABUENA",
+				"category": "A-7"
+			},
+			{
+				"name": "NICOLAS LEOPOLDO RODRIGUEZ IANNELLO",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCIANA LIZET VELAZQUEZ",
+				"category": "A-13"
+			},
+			{
+				"name": "MAURO GASTON CERATTO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARCELA BEATRIZ ADAIME",
+				"category": "A-2"
+			},
+			{
+				"name": "DANIEL MOLINA CARRANZA",
+				"category": "A-2"
+			},
+			{
+				"name": "JENNY PAOLA ARAYA AGUILA",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA PAULA DI SISTO",
+				"category": "A-5"
+			},
+			{
+				"name": "FACUNDO GABRIEL RODRIGUEZ IANNELLO",
+				"category": "A-3"
+			},
+			{
+				"name": "FERNANDO ALDO SALINO",
+				"category": "W01"
+			},
+			{
+				"name": "VIRGINIA SANCHEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "MANUELA PICCOLO",
+				"category": "A-9"
+			},
+			{
+				"name": "JORGE OMAR FERNANDEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "ESTEBAN FONT GUIDO",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "SAPAG, SILVIA ESTELA ",
+		"img": "image",
+		"cost": "NaN",
+		"id": "251",
+		"party": "FRENTE DE TODOS",
+		"province": "NEUQUÉN",
+		"assistants": [
+			{
+				"name": "JORGE LUIS BARRIONUEVO",
+				"category": "A-10"
+			},
+			{
+				"name": "SILVIO ULISES MALASPINA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARTA ELIZABETH SANCHEZ",
+				"category": "M-5"
+			},
+			{
+				"name": "MAURICIO ANDRES ROJAS",
+				"category": "A-4"
+			},
+			{
+				"name": "PABLO CARNAGHI",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA DANIELA NOTARO",
+				"category": "A-3"
+			},
+			{
+				"name": "AGUSTIN SALGADO",
+				"category": "A-1"
+			},
+			{
+				"name": "FABIANA EDIT CASTILLO",
+				"category": "A-8"
+			},
+			{
+				"name": "LUCAS TOMAS REAL",
+				"category": "A-4"
+			},
+			{
+				"name": "ALEJANDRO KOGAN",
+				"category": "A-8"
+			},
+			{
+				"name": "CARLOS ARIEL AGUILERA",
+				"category": "A-8"
+			},
+			{
+				"name": "JOSEFA RAQUEL CABRERA",
+				"category": "A-9"
+			},
+			{
+				"name": "FERNANDO ADRIAN RODRIGUEZ BERNAL",
+				"category": "A-12"
+			},
+			{
+				"name": "MARIA LUZ CAPALDI",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIA ELVIRA ROLDAN",
+				"category": "A-1"
+			},
+			{
+				"name": "SERGIO HERNAN BLOGNA TISTUZZA",
+				"category": "A-2"
+			},
+			{
+				"name": "ALDO HECTOR LO RUSSO",
+				"category": "A-1"
+			},
+			{
+				"name": "LUCIANO HERNANDEZ",
+				"category": "A-9"
+			},
+			{
+				"name": "MARCELA RUTH FORTUNY",
+				"category": "A-1"
+			},
+			{
+				"name": "ESTEBAN FEDERICO DIAZ OLMOS",
+				"category": "A-1"
+			},
+			{
+				"name": "LAURA MERCEDES GABARRA",
+				"category": "A-1"
+			},
+			{
+				"name": "ANDRES EDUARDO GARGIULO",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "SILVA, MÓNICA ESTHER",
+		"img": "image",
+		"cost": "22977762.89",
+		"id": "572",
+		"party": "JUNTOS SOMOS RÍO NEGRO",
+		"province": "RÍO NEGRO",
+		"assistants": [
+			{
+				"name": "RUBEN MARCELO GUDIÑO",
+				"category": "A-1"
+			},
+			{
+				"name": "CATALINA PAROLA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES TERREN",
+				"category": "A-2"
+			},
+			{
+				"name": "ALEJANDRO HUGO BOVERIO",
+				"category": "A-4"
+			},
+			{
+				"name": "NORA LILIANA CALDERON",
+				"category": "A-5"
+			},
+			{
+				"name": "MARCELA NORA MARCACCIO",
+				"category": "A-1"
+			},
+			{
+				"name": "ALDANA TAMARA BOBADILLA",
+				"category": "A-1"
+			},
+			{
+				"name": "NATALIA BEATRIZ LAGOS",
+				"category": "A-1"
+			},
+			{
+				"name": "WENCESLAO GONZALEZ DAY",
+				"category": "A-4"
+			},
+			{
+				"name": "GIMENA NATALIA WOLDMAN",
+				"category": "A-4"
+			},
+			{
+				"name": "SILVINA MOYANO",
+				"category": "A-4"
+			},
+			{
+				"name": "KARINA SARA SABBAG",
+				"category": "A-1"
+			},
+			{
+				"name": "SOL FRANCISCO LOPEZ FEITO",
+				"category": "A-1"
+			},
+			{
+				"name": "NICOLAS GUILLERMO FERNANDEZ MIGUEL",
+				"category": "A-9"
+			},
+			{
+				"name": "ARISTIDES ALFREDO CALAMARA BUDIÑO",
+				"category": "A-4"
+			},
+			{
+				"name": "IGNACIO AGUSTIN ZUBIRIA",
+				"category": "A-9"
+			},
+			{
+				"name": "SANDRA MIRNA SILVA",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN MANUEL CALLEJA",
+				"category": "A-1"
+			},
+			{
+				"name": "MAURO JAVIER FROILAN",
+				"category": "A-1"
+			},
+			{
+				"name": "CAMILA NICOLE ULLOA ACEVEDO",
+				"category": "A-9"
+			},
+			{
+				"name": "JORGE ALBERTO ROA",
+				"category": "A-1"
+			},
+			{
+				"name": "JULIETA MERCEDES ANDREA LUTZ DIAZ",
+				"category": "A-6"
+			},
+			{
+				"name": "CARLA MARIA MO AMAVET",
+				"category": "A-5"
+			},
+			{
+				"name": "GUSTAVO ALEJANDRO ACCORONI",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "SUÁREZ, RODOLFO ALEJANDRO",
+		"img": "image",
+		"cost": "8123259.02",
+		"id": "571",
+		"party": "FRENTE CAMBIA MENDOZA",
+		"province": "MENDOZA",
+		"assistants": [
+			{
+				"name": "MARIANO FINKELSTEIN BUGALTER",
+				"category": "A-6"
+			},
+			{
+				"name": "NORA ELIZABETH VICARIO",
+				"category": "A-1"
+			},
+			{
+				"name": "CHRISTIAN GABRIEL NIETO",
+				"category": "A-1"
+			},
+			{
+				"name": "FRANCISCO GUSTAVO TARANTUVIEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "JOSE ALBERTO SOGNO",
+				"category": "A-1"
+			}
+		]
+	},
+	{
+		"fullName": "TAGLIAFERRI, GUADALUPE",
+		"img": "image",
+		"cost": "9898196.29",
+		"id": "499",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+		"assistants": [
+			{
+				"name": "MARIA EVA AUTON",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA VICTORIA MENDEZ GUERRERO",
+				"category": "A-7"
+			},
+			{
+				"name": "MICAELA YASMIN MARINI",
+				"category": "A-3"
+			},
+			{
+				"name": "PABLO GERMAN AVA",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA LAURA IBARRA",
+				"category": "A-3"
+			},
+			{
+				"name": "CONSTANZA MARIELA ARANEGA",
+				"category": "A-3"
+			},
+			{
+				"name": "MARTA GRACIELA BIANCO",
+				"category": "A-1"
+			},
+			{
+				"name": "AMADEO FERNANDO GARCIA",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "TERENZI, EDITH ELIZABETH",
+		"img": "image",
+		"cost": "16917032.88",
+		"id": "528",
+		"party": "JUNTOS POR EL CAMBIO CHUBUT",
+		"province": "CHUBUT",
+		"assistants": [
+			{
+				"name": "PABLO LUIS CRESPO",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA ALEJANDRA JOSE FAGGI",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA VIRGINIA LAGARRIGUE",
+				"category": "A-4"
+			},
+			{
+				"name": "VIVIANA LORENA BRIONES",
+				"category": "A-7"
+			},
+			{
+				"name": "ANTONIO FERNANDO PALLEIRO",
+				"category": "A-7"
+			},
+			{
+				"name": "HAYDEE SUSANA BLANCO",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA SOL LASTIRI",
+				"category": "A-2"
+			},
+			{
+				"name": "PAOLA FABIANA COSTABELLA",
+				"category": "A-2"
+			},
+			{
+				"name": "FEDERICO TOMAS VERON",
+				"category": "A-5"
+			},
+			{
+				"name": "VICTORIA DRI",
+				"category": "A-3"
+			},
+			{
+				"name": "NATALIA ANDREA FERRARI",
+				"category": "A-3"
+			},
+			{
+				"name": "ALEJANDRO JAVIER NECULQUEO",
+				"category": "A-2"
+			},
+			{
+				"name": "PAULA MELIBEA ARIAS",
+				"category": "A-2"
+			},
+			{
+				"name": "SILVIA GRACIELA PORDOMINGO",
+				"category": "A-1"
+			},
+			{
+				"name": "WALTER OMAR TELLECHEA",
+				"category": "A-3"
+			},
+			{
+				"name": "MERCEDES DEMIRJIAN",
+				"category": "A-3"
+			},
+			{
+				"name": "MAXIMILIANO CAMPOS RIOS",
+				"category": "A-2"
+			}
+		]
+	},
+	{
+		"fullName": "UÑAC, SERGIO MAURICIO",
+		"img": "image",
+		"cost": "19539624.68",
+		"id": "561",
+		"party": "ALIANZA UNIÓN POR LA PATRIA",
+		"province": "SAN JUAN",
+		"assistants": [
+			{
+				"name": "ALEJANDRO JAVIER CARDO",
+				"category": "A-3"
+			},
+			{
+				"name": "ENRIQUE CLAUDIO CACERES",
+				"category": "A-1"
+			},
+			{
+				"name": "JOSE EMILIO ABARCA",
+				"category": "A-1"
+			},
+			{
+				"name": "EMILIO ARIEL LUCERO REINOSO",
+				"category": "A-7"
+			},
+			{
+				"name": "CRISTIAN FELIPE ANDINO",
+				"category": "A-1"
+			},
+			{
+				"name": "CARLOS ROLANDO ASTUDILLO",
+				"category": "A-7"
+			},
+			{
+				"name": "EDUARDO MAURICIO IBARRA",
+				"category": "A-1"
+			},
+			{
+				"name": "YASSER ARIAN ALBORNOZ",
+				"category": "A-8"
+			},
+			{
+				"name": "TOMAS GUIDO DOMINGUEZ",
+				"category": "A-4"
+			},
+			{
+				"name": "JOSE RUBEN UÑAC",
+				"category": "A-1"
+			},
+			{
+				"name": "CLAUDIA ALICIA GRYNSZPAN",
+				"category": "A-7"
+			},
+			{
+				"name": "ALEJANDRO FRANCISCO GUEVARA OLIVERA",
+				"category": "A-7"
+			},
+			{
+				"name": "ALBERTO VALENTIN HENSEL",
+				"category": "A-7"
+			},
+			{
+				"name": "GABRIELA VANESA FERNANDEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "RODOLFO CARLOS BRITO",
+				"category": "A-2"
+			},
+			{
+				"name": "VERONICA DANIELA ALTAMIRANO",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA DE LOS ANGELES SILVA",
+				"category": "A-3"
+			},
+			{
+				"name": "TARCICIO MIGUEL GONZALEZ",
+				"category": "A-7"
+			},
+			{
+				"name": "MARCELO ALEJANDRO YORNET",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIANA ELISA DI MARTINO",
+				"category": "A-2"
+			},
+			{
+				"name": "FERNANDO RUBEN FIGUEROA",
+				"category": "A-1"
+			},
+			{
+				"name": "SILVINA MARIEL PESTARINO",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "VALENZUELA, MERCEDES GABRIELA",
+		"img": "image",
+		"cost": "23256461.44",
+		"id": "525",
+		"party": "ECO + VAMOS CORRIENTES",
+		"province": "CORRIENTES",
+		"assistants": [
+			{
+				"name": "MARIO ANTONIO CARIBAUX",
+				"category": "A-1"
+			},
+			{
+				"name": "GLORIA EDITH MIRALLES",
+				"category": "A-6"
+			},
+			{
+				"name": "RAFAEL EDUARDO ROMERO",
+				"category": "A-4"
+			},
+			{
+				"name": "JULIAN H. VALENZUELA",
+				"category": "A-1"
+			},
+			{
+				"name": "ELIZABETH ALICIA APARICIO",
+				"category": "A-4"
+			},
+			{
+				"name": "PILAR GARCIA CASARROTA",
+				"category": "A-5"
+			},
+			{
+				"name": "MARIA LUJAN LOPEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "LOHANA MARIA LAURA SPESSOT",
+				"category": "A-3"
+			},
+			{
+				"name": "MIGUEL ALBERTO FARAH",
+				"category": "A-1"
+			},
+			{
+				"name": "SEBASTIAN MIGUEL ROSSI",
+				"category": "A-4"
+			},
+			{
+				"name": "RICARDO EDMUNDO CAMUS",
+				"category": "A-1"
+			},
+			{
+				"name": "MAGDALENA GONZALEZ ROURA",
+				"category": "A-2"
+			},
+			{
+				"name": "DELIA INES SOLARI",
+				"category": "A-4"
+			},
+			{
+				"name": "HUMBERTO MARIO VAZQUEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "CECILIA EMILCE GARCIA CASARROTA",
+				"category": "A-1"
+			},
+			{
+				"name": "NATALIA LILIANA OBON",
+				"category": "A-3"
+			},
+			{
+				"name": "ELEONORA LAFOURCADE",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA EVA CHUECO RODRIGUEZ",
+				"category": "A-5"
+			},
+			{
+				"name": "NICOLAS ACASTELLO",
+				"category": "A-5"
+			},
+			{
+				"name": "HECTOR ANTONIO CASAL",
+				"category": "A-3"
+			},
+			{
+				"name": "FEDERICO LUIS GARCIA",
+				"category": "A-5"
+			},
+			{
+				"name": "ANTONELLA E. FITTIPALDI",
+				"category": "A-6"
+			},
+			{
+				"name": "MATEO A. BRUN ACEVEDO",
+				"category": "A-2"
+			},
+			{
+				"name": "MAYRA NATALY SPESSOTT",
+				"category": "A-4"
+			},
+			{
+				"name": "NICANDRO AGUSTIN QUIROZ",
+				"category": "A-9"
+			},
+			{
+				"name": "MONICA FERNANDA DOMINGUEZ",
+				"category": "A-6"
+			},
+			{
+				"name": "JOSE NICOLAS ROMERO",
+				"category": "A-4"
+			}
+		]
+	},
+	{
+		"fullName": "VIGO, ALEJANDRA MARÍA",
+		"img": "image",
+		"cost": "8833490.81",
+		"id": "523",
+		"party": "HACEMOS POR CÓRDOBA",
+		"province": "CÓRDOBA",
+		"assistants": [
+			{
+				"name": "MARIA NATALIA CABRAL",
+				"category": "A-1"
+			},
+			{
+				"name": "ALICIA VANESA DILEVA",
+				"category": "A-2"
+			},
+			{
+				"name": "AMALIA MIRANDA",
+				"category": "A-7"
+			},
+			{
+				"name": "MARIA JULIETA BORGATELLO",
+				"category": "A-3"
+			},
+			{
+				"name": "SERGIO ADRIAN ALBA",
+				"category": "A-3"
+			},
+			{
+				"name": "ALEJANDRA MARIEL LOVAT",
+				"category": "A-3"
+			},
+			{
+				"name": "FEDERICO BONABELLO",
+				"category": "A-3"
+			}
+		]
+	},
+	{
+		"fullName": "VISCHI, EDUARDO ALEJANDRO",
+		"img": "image",
+		"cost": "16200379.44",
+		"id": "524",
+		"party": "ECO + VAMOS CORRIENTES",
+		"province": "CORRIENTES",
+		"assistants": [
+			{
+				"name": "ANTONELLA DEL VALLE LEGUIZAMON DE ANGELIS",
+				"category": "A-9"
+			},
+			{
+				"name": "CANDELA BAEZ KRONEBERGER",
+				"category": "A-8"
+			},
+			{
+				"name": "MAGALI PAZ GOMEZ LOPEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "IGNACIO RODRIGO SEIJAS",
+				"category": "A-2"
+			},
+			{
+				"name": "PAULA D FERNANDEZ",
+				"category": "A-8"
+			},
+			{
+				"name": "PEDRO CARLOS FIORDA",
+				"category": "A-1"
+			},
+			{
+				"name": "GABRIEL ALEJANDRO BARTOLOME",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA GRACIELA ZARRIELLO",
+				"category": "A-2"
+			},
+			{
+				"name": "NANCY ARIELA LOPEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "JUAN JOSE MARTICORENA",
+				"category": "A-13"
+			},
+			{
+				"name": "ALEXIS H. ITURRIOZ",
+				"category": "A-8"
+			},
+			{
+				"name": "LEONARDO FRANCISCO OTARAN",
+				"category": "A-1"
+			},
+			{
+				"name": "ERNESTO S. MUTTI PASTOR",
+				"category": "A-1"
+			},
+			{
+				"name": "JOAQUIN ANDRES SCHAFFER ARTIGAS",
+				"category": "A-5"
+			},
+			{
+				"name": "LAUTARO SANTOS GADEA",
+				"category": "A-7"
+			},
+			{
+				"name": "FEDERICO GALVAN",
+				"category": "A-9"
+			},
+			{
+				"name": "ANDRES NICOLAS KALUK",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA JOSE HUERGA",
+				"category": "A-5"
+			}
+		]
+	},
+	{
+		"fullName": "ZIMMERMANN, VICTOR",
+		"img": "image",
+		"cost": "22476876.16",
+		"id": "501",
+		"party": "JUNTOS POR EL CAMBIO",
+		"province": "CHACO",
+		"assistants": [
+			{
+				"name": "MATIAS KRAUSS",
+				"category": "A-2"
+			},
+			{
+				"name": "ELBIO DANIEL HERRERA",
+				"category": "A-2"
+			},
+			{
+				"name": "MATIAS GABRIEL MILANESI",
+				"category": "A-6"
+			},
+			{
+				"name": "GABRIELA FERNANDA LOZA",
+				"category": "A-5"
+			},
+			{
+				"name": "SILVIA BEATRIZ MASSON",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA NATIVIDAD FERRARI",
+				"category": "A-2"
+			},
+			{
+				"name": "JULIA HORTENCIA OJEDA",
+				"category": "A-2"
+			},
+			{
+				"name": "RUBEN OMAR GERLI",
+				"category": "A-1"
+			},
+			{
+				"name": "HERNAN MARCELO LOPEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "LISANDRO MALDONADO",
+				"category": "A-4"
+			},
+			{
+				"name": "FATIMA ARACELI VERA",
+				"category": "A-2"
+			},
+			{
+				"name": "GUSTAVO ADRIAN PARODI",
+				"category": "A-3"
+			},
+			{
+				"name": "ARIADNA FAY",
+				"category": "A-2"
+			},
+			{
+				"name": "FRANCO BERNARDI",
+				"category": "A-3"
+			},
+			{
+				"name": "MARIANO FERNANDO DI CIONI",
+				"category": "A-3"
+			},
+			{
+				"name": "ERNESTO DELLAMEA",
+				"category": "A-3"
+			},
+			{
+				"name": "EDUARDO HERNAN VALENZUELA HERRERA",
+				"category": "A-2"
+			},
+			{
+				"name": "RODRIGO MIGUEL CABERO",
+				"category": "A-2"
+			},
+			{
+				"name": "ESTEBAN TZICAS",
+				"category": "A-3"
+			},
+			{
+				"name": "MATIAS EZEQUIEL LEBRANTE",
+				"category": "A-9"
+			},
+			{
+				"name": "ANTONELLA MARIEL LUCCA",
+				"category": "A-2"
+			},
+			{
+				"name": "MATIAS SEBASTIAN BARRIENTOS",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIANA ANDREA BERGERO",
+				"category": "A-2"
+			}
+		]
+	}
+]

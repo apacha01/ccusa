@@ -60,6 +60,7 @@ export const getSenatorFullInfo = async (
 		id: senator.ID,
 		party: senator["PARTIDO O ALIANZA"],
 		province: senator.PROVINCIA,
-		assistants
+		assistants,
+		img: senator.FOTO
 	};
 };

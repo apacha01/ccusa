@@ -2,11 +2,13 @@
 import Layout from "../layouts/Layout.astro";
 import senatorsInfo from "../senadores.json";
 import { getSenatorFullInfo } from "../utils";
+import senatorsFullInfo from "../mock.json";
+import SenatorCard from "../components/SenatorCard.astro";
 
-const senators = await Promise.all(
-	senatorsInfo.map((s) => getSenatorFullInfo(s)),
-).then((senators) => senators);
-console.log(senators);
+// const senators = await Promise.all(
+// 	senatorsInfo.map((s) => getSenatorFullInfo(s)),
+// ).then((senators) => senators);
+// console.log(senators);
 ---
 
 <Layout
@@ -19,8 +21,8 @@ console.log(senators);
 		</h1>
 		<section class="text-2xl">
 			{
-				senators.map((s) => {
-					return <p>{`${s.fullName}`}</p>;
+				senatorsFullInfo.map((s) => {
+					return <SenatorCard senator={s} />;
 				})
 			}
 		</section>

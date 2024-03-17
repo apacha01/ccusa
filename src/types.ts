@@ -25,6 +25,7 @@ export interface Senator {
 	province: string;
 	cost: string;
 	assistants: SenatorAssistant[];
+	img: string;
 }
 
 export interface SenatorAssistant { 

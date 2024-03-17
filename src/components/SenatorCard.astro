@@ -1,0 +1,11 @@
+---
+import type { Senator } from "../types";
+
+interface Props {
+	senator: Senator;
+}
+
+const { senator } = Astro.props;
+---
+
+<article id={senator.id}></article>
