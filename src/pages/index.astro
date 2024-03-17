@@ -1,21 +1,12 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import senators from "../senadores.json";
-import { getSenatorAssistantsList } from "../utils";
+import senatorsInfo from "../senadores.json";
+import { getSenatorFullInfo } from "../utils";
 
-const URL_SENATOR_BY_ID = (id: string) =>
-	`https://www.senado.gob.ar/senadores/senador/${id}`;
-
-const getSenatorCost = async (senatorId: string) => {
-	const senatorAssistants = await fetch(URL_SENATOR_BY_ID(senatorId))
-		.then((r) => r.text())
-		.then((html) => getSenatorAssistantsList(html))
-		.catch(console.error);
-
-	return senatorAssistants;
-};
-
-getSenatorCost("572").then(console.log);
+const senators = await Promise.all(
+	senatorsInfo.map((s) => getSenatorFullInfo(s)),
+).then((senators) => senators);
+console.log(senators);
 ---
 
 <Layout
@@ -29,7 +20,7 @@ getSenatorCost("572").then(console.log);
 		<section class="text-2xl">
 			{
 				senators.map((s) => {
-					return <p>{`${s.NOMBRE}, ${s.APELLIDO}`}</p>;
+					return <p>{`${s.fullName}`}</p>;
 				})
 			}
 		</section>
