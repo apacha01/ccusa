@@ -24,4 +24,10 @@ export interface Senator {
 	party: string;
 	province: string;
 	cost: string;
+	assistants: SenatorAssistant[];
+}
+
+export interface SenatorAssistant { 
+	name: string;
+	category: string; 
 }
