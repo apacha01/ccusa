@@ -1,7 +1,6 @@
 [
 	{
 		"fullName": "ABAD, MAXIMILIANO",
-		"img": "image",
 		"cost": "21839850.90",
 		"id": "546",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -103,11 +102,11 @@
 				"name": "GONZALO INCHAUSPE",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/546.gif"
 	},
 	{
 		"fullName": "ABDALA, BARTOLOMÉ ESTEBAN",
-		"img": "image",
 		"cost": "13787132.63",
 		"id": "564",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
@@ -169,11 +168,11 @@
 				"name": "MARIANA RODRIGUEZ SAA",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/564.gif"
 	},
 	{
 		"fullName": "ÁLVAREZ RIVERO, CARMEN",
-		"img": "image",
 		"cost": "8443055.97",
 		"id": "522",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -223,11 +222,11 @@
 				"name": "GLORIA KETELHOHN",
 				"category": "A-12"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/522.gif"
 	},
 	{
 		"fullName": "ANDRADA, GUILLERMO EDUARDO",
-		"img": "image",
 		"cost": "16828414.42",
 		"id": "519",
 		"party": "FRENTE DE TODOS",
@@ -313,11 +312,11 @@
 				"name": "MARCELO SANTILLAN AREVALO",
 				"category": "A-12"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/519.gif"
 	},
 	{
 		"fullName": "ARCE, CARLOS OMAR",
-		"img": "image",
 		"cost": "12012195.38",
 		"id": "558",
 		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
@@ -363,11 +362,11 @@
 				"name": "MARIA CECILIA MIR",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/558.gif"
 	},
 	{
 		"fullName": "ARRASCAETA, IVANNA MARCELA",
-		"img": "image",
 		"cost": "22673377.86",
 		"id": "565",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
@@ -461,11 +460,11 @@
 				"name": "FRANCISCO RAUL PRADO",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/565.gif"
 	},
 	{
 		"fullName": "ATAUCHE, EZEQUIEL",
-		"img": "image",
 		"cost": "16116898.33",
 		"id": "552",
 		"party": "PARTIDO RENOVADOR FEDERAL",
@@ -535,11 +534,11 @@
 				"name": "LUIS PABLO PATERNO",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/552.gif"
 	},
 	{
 		"fullName": "ÁVILA, BEATRIZ LUISA",
-		"img": "image",
 		"cost": "18185946.05",
 		"id": "541",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -641,12 +640,12 @@
 				"name": "MARIA DE LOS ANGELES LOPEZ",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/541.gif"
 	},
 	{
 		"fullName": "BEDIA, VILMA FACUNDA",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "11382876.07",
 		"id": "553",
 		"party": "PARTIDO RENOVADOR FEDERAL",
 		"province": "JUJUY",
@@ -711,11 +710,11 @@
 				"name": "MIRTA ARACELI SILISQUE",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/553.gif"
 	},
 	{
 		"fullName": "BENSUSÁN, DANIEL PABLO",
-		"img": "image",
 		"cost": "21936175.27",
 		"id": "532",
 		"party": "FRENTE DE TODOS",
@@ -829,11 +828,11 @@
 				"name": "MARIA TERESA MAYA",
 				"category": "A-7"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/532.gif"
 	},
 	{
 		"fullName": "BLANCO, PABLO DANIEL",
-		"img": "image",
 		"cost": "24919662.43",
 		"id": "511",
 		"party": "JUNTOS POR EL CAMBIO TIERRA DEL FUEGO",
@@ -951,11 +950,11 @@
 				"name": "NATALIA ESTEFANIA REGGIANI",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/511.gif"
 	},
 	{
 		"fullName": "CARAMBIA, JOSÉ MARÍA",
-		"img": "image",
 		"cost": "19530634.41",
 		"id": "567",
 		"party": "ALIANZA POR SANTA CRUZ",
@@ -1045,11 +1044,11 @@
 				"name": "ROBERTINA GONZALEZ ESPECHE",
 				"category": "A-7"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/567.gif"
 	},
 	{
 		"fullName": "CORPACCI, LUCIA BENIGNA",
-		"img": "image",
 		"cost": "16016720.96",
 		"id": "398",
 		"party": "FRENTE DE TODOS",
@@ -1123,11 +1122,11 @@
 				"name": "INES IMELDA BLAS",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/398.gif"
 	},
 	{
 		"fullName": "CREXELL, CARMEN LUCILA",
-		"img": "image",
 		"cost": "15059898.80",
 		"id": "440",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -1193,11 +1192,11 @@
 				"name": "MARIA INES MATKOVICH",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/440.gif"
 	},
 	{
 		"fullName": "CRISTINA, ANDREA MARCELA",
-		"img": "image",
 		"cost": "7653196.05",
 		"id": "570",
 		"party": "JUNTOS POR EL CAMBIO CHUBUT",
@@ -1239,11 +1238,11 @@
 				"name": "BELÉN DE LOS ANGELES LATORRE",
 				"category": "A-7"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/570.gif"
 	},
 	{
 		"fullName": "DE ANGELI, ALFREDO LUIS",
-		"img": "image",
 		"cost": "15224292.39",
 		"id": "438",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -1309,11 +1308,11 @@
 				"name": "PATRICIA BELEN AQUINO",
 				"category": "A-6"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/438.gif"
 	},
 	{
 		"fullName": "DE PEDRO, EDUARDO ENRIQUE",
-		"img": "image",
 		"cost": "10716311.38",
 		"id": "545",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -1355,11 +1354,11 @@
 				"name": "PABLO EXEQUIEL BERMUDEZ",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/545.gif"
 	},
 	{
 		"fullName": "DI TULLIO, JULIANA",
-		"img": "image",
 		"cost": "12189432.22",
 		"id": "517",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -1405,11 +1404,11 @@
 				"name": "MARIA LAURA TESTA",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/517.gif"
 	},
 	{
 		"fullName": "DOÑATE, CLAUDIO MARTÍN",
-		"img": "image",
 		"cost": "19932628.12",
 		"id": "505",
 		"party": "FRENTE DE TODOS",
@@ -1491,11 +1490,11 @@
 				"name": "MARIA SOLEDAD LALLI",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/505.gif"
 	},
 	{
 		"fullName": "DURÉ, MARÍA EUGENIA",
-		"img": "image",
 		"cost": "15767561.91",
 		"id": "512",
 		"party": "FRENTE DE TODOS",
@@ -1573,11 +1572,11 @@
 				"name": "NICOLAS MARTIN GIGENA",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/512.gif"
 	},
 	{
 		"fullName": "ESPÍNOLA, CARLOS MAURICIO",
-		"img": "image",
 		"cost": "26175732.38",
 		"id": "461",
 		"party": "FRENTE TODOS",
@@ -1711,11 +1710,11 @@
 				"name": "MARIA MERCEDES HUBER",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/461.gif"
 	},
 	{
 		"fullName": "FAMA, FLAVIO SERGIO",
-		"img": "image",
 		"cost": "18576380.86",
 		"id": "520",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -1797,11 +1796,11 @@
 				"name": "JORGE JOAQUIN CALVETTI CORTE",
 				"category": "A-6"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/520.gif"
 	},
 	{
 		"fullName": "FERNÁNDEZ SAGASTI, ANABEL",
-		"img": "image",
 		"cost": "17771109.02",
 		"id": "468",
 		"party": "FRENTE DE TODOS",
@@ -1891,11 +1890,11 @@
 				"name": "CAMILA MARIEL ROMA",
 				"category": "A-7"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/468.gif"
 	},
 	{
 		"fullName": "GADANO, NATALIA ELENA",
-		"img": "image",
 		"cost": "16845110.65",
 		"id": "568",
 		"party": "ALIANZA POR SANTA CRUZ",
@@ -1961,12 +1960,12 @@
 				"name": "MANUELA MARÍA ROCA",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/568.gif"
 	},
 	{
 		"fullName": "GALARETTO, EDUARDO HORACIO",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "14651483.43",
 		"id": "573",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "SANTA FE",
@@ -2031,11 +2030,11 @@
 				"name": "CARLOS MANUEL SIUFI",
 				"category": "A-6"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/573.gif"
 	},
 	{
 		"fullName": "GARCÍA LARRABURU, SILVINA MARCELA",
-		"img": "image",
 		"cost": "13234872.86",
 		"id": "441",
 		"party": "FRENTE DE TODOS",
@@ -2097,11 +2096,11 @@
 				"name": "PATRICIA ALBERTA BUSTOS",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/441.gif"
 	},
 	{
 		"fullName": "GIMÉNEZ, NORA DEL VALLE",
-		"img": "image",
 		"cost": "11823399.60",
 		"id": "507",
 		"party": "FRENTE DE TODOS",
@@ -2155,11 +2154,11 @@
 				"name": "MARIA VICTORIA RICHTER",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/507.gif"
 	},
 	{
 		"fullName": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
-		"img": "image",
 		"cost": "19167170.41",
 		"id": "562",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -2253,11 +2252,11 @@
 				"name": "MARIA CAROLINA AMSTUTZ",
 				"category": "A-6"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/562.gif"
 	},
 	{
 		"fullName": "GOERLING LARA, ENRIQUE MARTIN",
-		"img": "image",
 		"cost": "11105461.87",
 		"id": "560",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -2311,11 +2310,11 @@
 				"name": "CAROLINA SOLEDAD GROSS",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/560.gif"
 	},
 	{
 		"fullName": "GONZÁLEZ, MARÍA TERESA MARGARITA",
-		"img": "image",
 		"cost": "13689523.92",
 		"id": "477",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -2417,11 +2416,11 @@
 				"name": "MARIA TERESA GISELLE SILGUERO",
 				"category": "A-10"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/477.gif"
 	},
 	{
 		"fullName": "HUALA, MARÍA VICTORIA",
-		"img": "image",
 		"cost": "12308874.47",
 		"id": "531",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -2471,11 +2470,11 @@
 				"name": "PEDRO ALEJANDRO SOMS",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/531.gif"
 	},
 	{
 		"fullName": "JUEZ, LUIS ALFREDO",
-		"img": "image",
 		"cost": "18076778.38",
 		"id": "400",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -2577,11 +2576,11 @@
 				"name": "JUAN PABLO STACIUK",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/400.gif"
 	},
 	{
 		"fullName": "JURI, MARIANA",
-		"img": "image",
 		"cost": "16797590.62",
 		"id": "534",
 		"party": "FRENTE CAMBIA MENDOZA",
@@ -2655,11 +2654,11 @@
 				"name": "VICTOR ENRIQUE IBAÑEZ ROSAZ",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/534.gif"
 	},
 	{
 		"fullName": "KIRCHNER, ALICIA MARGARITA ANTONIA",
-		"img": "image",
 		"cost": "14858259.76",
 		"id": "366",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -2717,11 +2716,11 @@
 				"name": "SEBASTIAN CARLOS ENRIQUE RUIZ",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/366.gif"
 	},
 	{
 		"fullName": "KRONEBERGER, DANIEL RICARDO",
-		"img": "image",
 		"cost": "18251446.62",
 		"id": "530",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -2851,11 +2850,11 @@
 				"name": "FACUNDO ANTONIO SPINELLI GALICHO",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/530.gif"
 	},
 	{
 		"fullName": "KUEIDER, EDGARDO DARÍO",
-		"img": "image",
 		"cost": "22118549.45",
 		"id": "502",
 		"party": "FRENTE TODOS",
@@ -2961,11 +2960,11 @@
 				"name": "MAURICIO EZEQUIEL VILLALBA",
 				"category": "A-7"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/502.gif"
 	},
 	{
 		"fullName": "LEAVY, SERGIO NAPOLEÓN",
-		"img": "image",
 		"cost": "17543783.50",
 		"id": "508",
 		"party": "FRENTE DE TODOS",
@@ -3051,11 +3050,11 @@
 				"name": "ALEJANDRO GABRIEL NANTERNE",
 				"category": "A-11"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/508.gif"
 	},
 	{
 		"fullName": "LEDESMA ABDALA DE ZAMORA, CLAUDIA",
-		"img": "image",
 		"cost": "6322635.28",
 		"id": "509",
 		"party": "FRENTE CÍVICO POR SANTIAGO",
@@ -3077,11 +3076,11 @@
 				"name": "SANTIAGO MANUEL VIAÑA",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/509.gif"
 	},
 	{
 		"fullName": "LEWANDOWSKI, MARCELO NESTOR",
-		"img": "image",
 		"cost": "19601272.28",
 		"id": "538",
 		"party": "FRENTE DE TODOS",
@@ -3175,11 +3174,11 @@
 				"name": "DANIEL ALEJANDRO GONZALEZ",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/538.gif"
 	},
 	{
 		"fullName": "LINARES, CARLOS ALBERTO",
-		"img": "image",
 		"cost": "16042407.48",
 		"id": "529",
 		"party": "FRENTE DE TODOS",
@@ -3257,11 +3256,11 @@
 				"name": "AYELEN CECILIA PREVIGLIANO",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/529.gif"
 	},
 	{
 		"fullName": "LÓPEZ, CÁNDIDA CRISTINA",
-		"img": "image",
 		"cost": "20041795.76",
 		"id": "574",
 		"party": "ALIANZA FRENTE DE TODOS",
@@ -3343,11 +3342,11 @@
 				"name": "GERARD ANDRE VILLALBA",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/574.gif"
 	},
 	{
 		"fullName": "LÓPEZ, MARÍA FLORENCIA",
-		"img": "image",
 		"cost": "11154266.21",
 		"id": "555",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -3397,11 +3396,11 @@
 				"name": "FABIO HORACIO RODRIGUEZ",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/555.gif"
 	},
 	{
 		"fullName": "LOSADA, CAROLINA",
-		"img": "image",
 		"cost": "10453024.73",
 		"id": "536",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -3443,11 +3442,11 @@
 				"name": "FELIX VICENTE LONIGRO",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/536.gif"
 	},
 	{
 		"fullName": "LOUSTEAU, MARTÍN",
-		"img": "image",
 		"cost": "12289609.59",
 		"id": "497",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -3509,11 +3508,11 @@
 				"name": "MARIA FLORENCIA SAULINO",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/497.gif"
 	},
 	{
 		"fullName": "MANZUR, JUAN LUIS",
-		"img": "image",
 		"cost": "8806519.98",
 		"id": "576",
 		"party": "ALIANZA FRENTE DE TODOS",
@@ -3547,11 +3546,11 @@
 				"name": "LUIS MIGUEL HERRAEZ PRIETO",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/576.gif"
 	},
 	{
 		"fullName": "MAYANS, JOSÉ MIGUEL ÁNGEL",
-		"img": "image",
 		"cost": "20897156.27",
 		"id": "294",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -3685,11 +3684,11 @@
 				"name": "RAMON BENITEZ",
 				"category": "A-6"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/294.gif"
 	},
 	{
 		"fullName": "MENDOZA, SANDRA MARIELA",
-		"img": "image",
 		"cost": "21449416.07",
 		"id": "540",
 		"party": "FRENTE DE TODOS",
@@ -3799,11 +3798,11 @@
 				"name": "MONICA PATRICIA DAHER",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/540.gif"
 	},
 	{
 		"fullName": "MOISES, MARÍA CAROLINA",
-		"img": "image",
 		"cost": "21633074.56",
 		"id": "554",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -3961,11 +3960,11 @@
 				"name": "MAYRA TERESA NELLY JUAREZ",
 				"category": "A-10"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/554.gif"
 	},
 	{
 		"fullName": "MONTENEGRO, GERARDO ANTENOR",
-		"img": "image",
 		"cost": "24971035.37",
 		"id": "446",
 		"party": "FRENTE DE TODOS",
@@ -4147,12 +4146,12 @@
 				"name": "GUSTAVO ALEJANDRO BELIZAN",
 				"category": "A-13"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/446.gif"
 	},
 	{
 		"fullName": "NEDER, JOSÉ EMILIO",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "15912690.64",
 		"id": "510",
 		"party": "FRENTE CÍVICO POR SANTIAGO",
 		"province": "SANTIAGO DEL ESTERO",
@@ -4233,11 +4232,11 @@
 				"name": "MARIA VICTORIA CHIMENTI",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/510.gif"
 	},
 	{
 		"fullName": "OLALLA, STELLA MARIS",
-		"img": "image",
 		"cost": "13369726.98",
 		"id": "503",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -4303,11 +4302,11 @@
 				"name": "CHRISTIAN RODRIGO CABRERA",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/503.gif"
 	},
 	{
 		"fullName": "OLIVERA LUCERO, BRUNO ANTONIO",
-		"img": "image",
 		"cost": "12690319.01",
 		"id": "563",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
@@ -4377,11 +4376,11 @@
 				"name": "ENZO ANDRÉS JESÚS ORTIZ AGUILERA",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/563.gif"
 	},
 	{
 		"fullName": "PAGOTTO, JUAN CARLOS",
-		"img": "image",
 		"cost": "8396820.26",
 		"id": "557",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
@@ -4419,11 +4418,11 @@
 				"name": "MICAELA ESTHER TELLO LENCINA",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/557.gif"
 	},
 	{
 		"fullName": "PAOLTRONI, FRANCISCO MANUEL",
-		"img": "image",
 		"cost": "8496997.63",
 		"id": "551",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
@@ -4457,11 +4456,11 @@
 				"name": "ANA ROSA VASQUEZ PEREDA",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/551.gif"
 	},
 	{
 		"fullName": "PARRILLI, OSCAR ISIDRO",
-		"img": "image",
 		"cost": "17128946.48",
 		"id": "504",
 		"party": "FRENTE DE TODOS",
@@ -4547,11 +4546,11 @@
 				"name": "PATRICIA MARIANA PONCE DE LEON",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/504.gif"
 	},
 	{
 		"fullName": "PILATTI VERGARA, MARÍA INÉS",
-		"img": "image",
 		"cost": "30265023.41",
 		"id": "435",
 		"party": "FRENTE DE TODOS",
@@ -4717,12 +4716,12 @@
 				"name": "SEBASTIAN BENITEZ MOLAS",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/435.gif"
 	},
 	{
 		"fullName": "RECALDE, MARIANO",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "19257073.14",
 		"id": "498",
 		"party": "FRENTE DE TODOS",
 		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
@@ -4835,11 +4834,11 @@
 				"name": "CAMILA  AILEN RUGIERO",
 				"category": "A-14"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/498.gif"
 	},
 	{
 		"fullName": "REJAL, JESÚS FERNANDO",
-		"img": "image",
 		"cost": "30753066.97",
 		"id": "556",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -4989,11 +4988,11 @@
 				"name": "NORBERTO RAUL LITVINOFF",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/556.gif"
 	},
 	{
 		"fullName": "RODAS, ANTONIO JOSÉ",
-		"img": "image",
 		"cost": "23771475.77",
 		"id": "500",
 		"party": "FRENTE DE TODOS",
@@ -5139,11 +5138,11 @@
 				"name": "ZUNILDA BEATRIZ VELAUSTEGUI",
 				"category": "A-10"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/500.gif"
 	},
 	{
 		"fullName": "ROJAS DECUT, SONIA ELIZABETH",
-		"img": "image",
 		"cost": "13457061.10",
 		"id": "559",
 		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
@@ -5197,11 +5196,11 @@
 				"name": "MATIAS DANIEL REMAGGI",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/559.gif"
 	},
 	{
 		"fullName": "ROMERO, JUAN CARLOS",
-		"img": "image",
 		"cost": "21089805.03",
 		"id": "35",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -5315,12 +5314,12 @@
 				"name": "JAVIER ALEJANDRO ZAMBRANO SUAREZ",
 				"category": "A-8"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/35.gif"
 	},
 	{
 		"fullName": "SALINO, FERNANDO ALDO",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "15495285.01",
 		"id": "566",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "SAN LUIS",
@@ -5409,12 +5408,12 @@
 				"name": "ESTEBAN FONT GUIDO",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/566.gif"
 	},
 	{
 		"fullName": "SAPAG, SILVIA ESTELA ",
-		"img": "image",
-		"cost": "NaN",
+		"cost": "18740774.45",
 		"id": "251",
 		"party": "FRENTE DE TODOS",
 		"province": "NEUQUÉN",
@@ -5507,11 +5506,11 @@
 				"name": "ANDRES EDUARDO GARGIULO",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/251.gif"
 	},
 	{
 		"fullName": "SILVA, MÓNICA ESTHER",
-		"img": "image",
 		"cost": "22977762.89",
 		"id": "572",
 		"party": "JUNTOS SOMOS RÍO NEGRO",
@@ -5613,11 +5612,11 @@
 				"name": "GUSTAVO ALEJANDRO ACCORONI",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/572.gif"
 	},
 	{
 		"fullName": "SUÁREZ, RODOLFO ALEJANDRO",
-		"img": "image",
 		"cost": "8123259.02",
 		"id": "571",
 		"party": "FRENTE CAMBIA MENDOZA",
@@ -5643,11 +5642,11 @@
 				"name": "JOSE ALBERTO SOGNO",
 				"category": "A-1"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/571.gif"
 	},
 	{
 		"fullName": "TAGLIAFERRI, GUADALUPE",
-		"img": "image",
 		"cost": "9898196.29",
 		"id": "499",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -5685,11 +5684,11 @@
 				"name": "AMADEO FERNANDO GARCIA",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/499.gif"
 	},
 	{
 		"fullName": "TERENZI, EDITH ELIZABETH",
-		"img": "image",
 		"cost": "16917032.88",
 		"id": "528",
 		"party": "JUNTOS POR EL CAMBIO CHUBUT",
@@ -5763,11 +5762,11 @@
 				"name": "MAXIMILIANO CAMPOS RIOS",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/528.gif"
 	},
 	{
 		"fullName": "UÑAC, SERGIO MAURICIO",
-		"img": "image",
 		"cost": "19539624.68",
 		"id": "561",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
@@ -5861,11 +5860,11 @@
 				"name": "SILVINA MARIEL PESTARINO",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/561.gif"
 	},
 	{
 		"fullName": "VALENZUELA, MERCEDES GABRIELA",
-		"img": "image",
 		"cost": "23256461.44",
 		"id": "525",
 		"party": "ECO + VAMOS CORRIENTES",
@@ -5979,11 +5978,11 @@
 				"name": "JOSE NICOLAS ROMERO",
 				"category": "A-4"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/525.gif"
 	},
 	{
 		"fullName": "VIGO, ALEJANDRA MARÍA",
-		"img": "image",
 		"cost": "8833490.81",
 		"id": "523",
 		"party": "HACEMOS POR CÓRDOBA",
@@ -6017,11 +6016,11 @@
 				"name": "FEDERICO BONABELLO",
 				"category": "A-3"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/523.gif"
 	},
 	{
 		"fullName": "VISCHI, EDUARDO ALEJANDRO",
-		"img": "image",
 		"cost": "16200379.44",
 		"id": "524",
 		"party": "ECO + VAMOS CORRIENTES",
@@ -6099,11 +6098,11 @@
 				"name": "MARIA JOSE HUERGA",
 				"category": "A-5"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/524.gif"
 	},
 	{
 		"fullName": "ZIMMERMANN, VICTOR",
-		"img": "image",
 		"cost": "22476876.16",
 		"id": "501",
 		"party": "JUNTOS POR EL CAMBIO",
@@ -6201,6 +6200,7 @@
 				"name": "MARIANA ANDREA BERGERO",
 				"category": "A-2"
 			}
-		]
+		],
+		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/501.gif"
 	}
 ]
