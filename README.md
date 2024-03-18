@@ -24,7 +24,7 @@ export const SALARY_SCALE_BY_CATEGORY = {
 };
 ```
 
-Y para el salario de cada senador, el último valor que encontré es `ARS$ 3.265.941,58` (Tres millones doscientos sesenta y cinco mil novecientos cuarenta y uno con 58 centavos).
+Y para el salario de cada senador, el último valor que encontré es `ARS$ 3.265.941,58` (Tres millones doscientos sesenta y cinco mil novecientos cuarenta y uno con cincuenta y ocho centavos).
 
 ## Actualizaciones
 Ya que no cambia muy seguido hice que la página sea estática y los datos no se actualizan por sí solos. Tendría que volver a desplegar la página para que se actualicen los valores, pero la página del senado es muy lenta, asique hacer que se haga todo automática hubiese tomado mucho tiempo (porque los datos vienen de la página oficial).
