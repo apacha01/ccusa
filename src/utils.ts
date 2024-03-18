@@ -6,6 +6,7 @@ const getSenatorCost = async (senatorId: string, senatorAssistants?: SenatorAssi
 	let senatorAssistantsFetched = senatorAssistants;
 
 	if (!senatorAssistants){
+		//@ts-ignore
 		senatorAssistantsFetched = await fetch(URL_SENATOR_BY_ID(senatorId))
 			.then((r) => r.text())
 			.then((html) => getSenatorAssistantsList(html))
@@ -13,6 +14,7 @@ const getSenatorCost = async (senatorId: string, senatorAssistants?: SenatorAssi
 	}
 
 	senatorAssistantsFetched?.forEach((sa) => {
+		//@ts-ignore
 		cost += SALARY_SCALE_BY_CATEGORY[sa.category] ?? 0;
 	});
 
