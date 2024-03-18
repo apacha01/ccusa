@@ -1,54 +1,32 @@
-# Astro Starter Kit: Basics
+# ¿Cuánto Cuesta Un Senador Argentino? (de verdad)
 
-```sh
-npm create astro@latest -- --template basics
+Esta página toma los datos oficiales de la página el Honorable Senado de la Nación Argentina para calcular cuánta plata nos cuesta un senador. Básicamente toma los datos de los asesores de todos los senadores y para cada uno de ellos, de acuerdo a su categoría, suma al valor final su salario.
+
+## Datos actuales (18/03/24)
+
+Los últimos datos que encontre para el salario de los empleados por categoría está [acá](https://www.senado.gob.ar/prensa/adjunto/descargarArchivo/tipo/EscalaSalarial) pero para que se vea directamente, estos son los valores en pesos argentinos que usé:
+```javascript
+export const SALARY_SCALE_BY_CATEGORY = {
+	'A-1': 1085254.69,
+	'A-2': 919576.76,
+	'A-3': 778301.00,
+	'A-4': 679407.97,
+	'A-5': 592073.86,
+	'A-6': 516298.68,
+	'A-7': 449513.78,
+	'A-8': 393003.47,
+	'A-9': 326218.57,
+	'A-10': 287688.82,
+	'A-11': 255580.69,
+	'A-12': 226041.21,
+	'A-13': 199070.39,
+	'A-14': 177236.86,
+};
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Y para el salario de cada senador, el último valor que encontré es `ARS$ 3.265.941,58` (Tres millones doscientos sesenta y cinco mil novecientos cuarenta y uno con 58 centavos).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Actualizaciones
+Ya que no cambia muy seguido hice que la página sea estática y los datos no se actualizan por sí solos. Tendría que volver a desplegar la página para que se actualicen los valores, pero la página del senado es muy lenta, asique hacer que se haga todo automática hubiese tomado mucho tiempo (porque los datos vienen de la página oficial).
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Por lo tanto, si ven que está desactualiazdo, hagan una issue.
