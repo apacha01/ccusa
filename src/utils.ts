@@ -14,8 +14,9 @@ const getSenatorCost = async (senatorId: string, senatorAssistants?: SenatorAssi
 	}
 
 	senatorAssistantsFetched?.forEach((sa) => {
+		let cat = sa.category.trim().toUpperCase() // in case it comes in lower case or with spaces
 		//@ts-ignore
-		cost += SALARY_SCALE_BY_CATEGORY[sa.category] ?? 0;
+		cost += SALARY_SCALE_BY_CATEGORY[cat] ?? 0;
 	});
 
 	return cost;

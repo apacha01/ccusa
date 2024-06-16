@@ -9,6 +9,8 @@ import SenatorCard from "../components/SenatorCard.astro";
 // 	senatorsInfo.map((s) => getSenatorFullInfo(s)),
 // ).then((senators) => senators);
 // console.log(senators);
+
+const current_date = new Date();
 ---
 
 <Layout
@@ -43,11 +45,21 @@ import SenatorCard from "../components/SenatorCard.astro";
 				>
 					acá
 				</a>
-				para verla.
+				para verla. El salario de los senadores fue el cálculo del valor
+				de los módulos, encontrado en el previo archivo/tabla, multiplicado
+				por la cantidad de módulos que cobra un senador (se puede ver en
+				<a
+					class="text-blue-700 hover:underline"
+					href="https://www.senado.gob.ar/parlamentario/comisiones/verExp/615.24/S/PR"
+				>
+					este proyecto de resolución).
+				</a>
 			</p>
 		</div>
 		<p class="flex justify-center items-center gap-2 text-center mb-12">
-			Actualizada por última vez el 17/03/2024
+			Actualizada por última vez el {
+				`${current_date.getDay()}/${current_date.getMonth()}/${current_date.getFullYear()}`
+			}
 			<i
 				class="inline-block aspect-square w-6"
 				title="La página del senado es muy lenta, por lo que estoy obteniendo la información al momento de hacer la página en lugar de que la página obtenga al momento los datos."

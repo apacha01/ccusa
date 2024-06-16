@@ -1,7 +1,7 @@
 [
 	{
 		"fullName": "ABAD, MAXIMILIANO",
-		"cost": "21839850.90",
+		"cost": "35707129.02",
 		"id": "546",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "BUENOS AIRES",
@@ -21,6 +21,10 @@
 			{
 				"name": "AUGUSTO BIANCOTTO",
 				"category": "A-2"
+			},
+			{
+				"name": "SILVIA BEATRIZ DEL VALLE PARACHE",
+				"category": "A-3"
 			},
 			{
 				"name": "ADRIANO BIANCOTTO",
@@ -51,20 +55,8 @@
 				"category": "A-3"
 			},
 			{
-				"name": "IGNACIO ANDRES BORDOLI",
-				"category": "A-5"
-			},
-			{
 				"name": "CECILIA CAPURRO",
 				"category": "A-5"
-			},
-			{
-				"name": "PEDRO ESTEBAN WOUTERLOOD SAPAG",
-				"category": "A-4"
-			},
-			{
-				"name": "NICOLAS FABIAN DANESE",
-				"category": "A-4"
 			},
 			{
 				"name": "DAVID MAXIMILIANO BALACCO",
@@ -99,6 +91,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "GONZALO SALLABER",
+				"category": "A-3"
+			},
+			{
 				"name": "GONZALO INCHAUSPE",
 				"category": "A-3"
 			}
@@ -107,7 +103,7 @@
 	},
 	{
 		"fullName": "ABDALA, BARTOLOMÉ ESTEBAN",
-		"cost": "13787132.63",
+		"cost": "26307824.72",
 		"id": "564",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
 		"province": "SAN LUIS",
@@ -117,12 +113,12 @@
 				"category": "A-5"
 			},
 			{
-				"name": "GERMAN EZEQUIEL PAVONE",
-				"category": "A-4"
-			},
-			{
 				"name": "ISABEL DELIA ALEGRANZA",
 				"category": "A-2"
+			},
+			{
+				"name": "GONZALO SEBASTIAN BRANDANA",
+				"category": "A-5"
 			},
 			{
 				"name": "PAULA EUGENIA GALARRETA GUERRERO",
@@ -137,12 +133,20 @@
 				"category": "A-1"
 			},
 			{
-				"name": "ALFREDO FRANCISCO BARZOLA",
-				"category": "A-1"
+				"name": "SOFIA VALENTINA VILLAGRA",
+				"category": "A-12"
+			},
+			{
+				"name": "JUAN MANUEL CARRANZA",
+				"category": "A-5"
 			},
 			{
 				"name": "MIGUEL ANGEL MEDINA",
 				"category": "A-5"
+			},
+			{
+				"name": "ALEJANDRO CARLOS ACTIS",
+				"category": "A-4"
 			},
 			{
 				"name": "MARIA GABRIELA CICCARONE",
@@ -153,8 +157,16 @@
 				"category": "A-2"
 			},
 			{
+				"name": "NATALIA ANDREA GARELLO",
+				"category": "A-6"
+			},
+			{
 				"name": "ANTONIO VICTOR SALVADOR SETTE",
 				"category": "A-8"
+			},
+			{
+				"name": "MARIA GRACIELA ABDALA",
+				"category": "A-4"
 			},
 			{
 				"name": "ANDRES ALBERTO VALLONE",
@@ -173,7 +185,7 @@
 	},
 	{
 		"fullName": "ÁLVAREZ RIVERO, CARMEN",
-		"cost": "8443055.97",
+		"cost": "15828750.98",
 		"id": "522",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CÓRDOBA",
@@ -199,6 +211,10 @@
 				"category": "A-14"
 			},
 			{
+				"name": "FLORENCIA MARIA NAVARRO",
+				"category": "A-12"
+			},
+			{
 				"name": "NATALIA SILVIA GONZALEZ",
 				"category": "A-6"
 			},
@@ -217,17 +233,13 @@
 			{
 				"name": "FRANCISCO SIMON ERRECART",
 				"category": "A-13"
-			},
-			{
-				"name": "GLORIA KETELHOHN",
-				"category": "A-12"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/522.gif"
 	},
 	{
 		"fullName": "ANDRADA, GUILLERMO EDUARDO",
-		"cost": "16828414.42",
+		"cost": "28266750.65",
 		"id": "519",
 		"party": "FRENTE DE TODOS",
 		"province": "CATAMARCA",
@@ -257,10 +269,6 @@
 				"category": "A-7"
 			},
 			{
-				"name": "ANA JULIETA COLAZO",
-				"category": "A-1"
-			},
-			{
 				"name": "OCTAVIO OLAETA",
 				"category": "A-14"
 			},
@@ -286,6 +294,10 @@
 			},
 			{
 				"name": "SILVIA MONICA BARRIONUEVO",
+				"category": "A-3"
+			},
+			{
+				"name": "SILVIA MARIA ACUÑA",
 				"category": "A-3"
 			},
 			{
@@ -317,22 +329,26 @@
 	},
 	{
 		"fullName": "ARCE, CARLOS OMAR",
-		"cost": "12012195.38",
+		"cost": "19667931.15",
 		"id": "558",
 		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
 		"province": "MISIONES",
 		"assistants": [
 			{
-				"name": "FACUNDO ANDRES CENTURION",
-				"category": "A-3"
-			},
-			{
 				"name": "NOEMI RAQUEL SALVA",
 				"category": "A-4"
 			},
 			{
+				"name": "RITA ANDREA ACEVEDO",
+				"category": "A-3"
+			},
+			{
 				"name": "SERGIO RAMIRO SANDOVAL-REBAK",
 				"category": "A-2"
+			},
+			{
+				"name": "MARIA VICTORIA ANTONIOLI",
+				"category": "A-6"
 			},
 			{
 				"name": "GUSTAVO MARCELO GIORGI",
@@ -340,10 +356,6 @@
 			},
 			{
 				"name": "GALA AYELEN NAVARRO",
-				"category": "A-3"
-			},
-			{
-				"name": "MIGUEL ANDRES CHUN",
 				"category": "A-3"
 			},
 			{
@@ -357,27 +369,19 @@
 			{
 				"name": "ROMINA ARCUCCI",
 				"category": "A-1"
-			},
-			{
-				"name": "MARIA CECILIA MIR",
-				"category": "A-3"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/558.gif"
 	},
 	{
 		"fullName": "ARRASCAETA, IVANNA MARCELA",
-		"cost": "22673377.86",
+		"cost": "31814845.42",
 		"id": "565",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
 		"province": "SAN LUIS",
 		"assistants": [
 			{
 				"name": "FEDERICO AUGUSTO DANIEL ABADIE",
-				"category": "A-4"
-			},
-			{
-				"name": "DIEGO DANIEL FERNANDEZ",
 				"category": "A-4"
 			},
 			{
@@ -406,10 +410,6 @@
 			},
 			{
 				"name": "VANESA SABRINA GOLOVCA",
-				"category": "A-1"
-			},
-			{
-				"name": "LUCAS DOLDAN",
 				"category": "A-1"
 			},
 			{
@@ -449,23 +449,15 @@
 				"category": "A-1"
 			},
 			{
-				"name": "PABLO JOAQUIN MAMANI",
-				"category": "A-1"
-			},
-			{
 				"name": "AMERICO ORLANDO SPAGNUOLO",
 				"category": "A-8"
-			},
-			{
-				"name": "FRANCISCO RAUL PRADO",
-				"category": "A-2"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/565.gif"
 	},
 	{
 		"fullName": "ATAUCHE, EZEQUIEL",
-		"cost": "16116898.33",
+		"cost": "23322232.77",
 		"id": "552",
 		"party": "PARTIDO RENOVADOR FEDERAL",
 		"province": "JUJUY",
@@ -479,10 +471,6 @@
 				"category": "A-5"
 			},
 			{
-				"name": "NATALIA ALTIERI",
-				"category": "A-2"
-			},
-			{
 				"name": "MARCELO JOAQUIN ELIAS",
 				"category": "A-3"
 			},
@@ -493,10 +481,6 @@
 			{
 				"name": "MARIA PAULA COSTANTINI",
 				"category": "A-1"
-			},
-			{
-				"name": "LEONARDO SALVADOR GODOY",
-				"category": "A-2"
 			},
 			{
 				"name": "MARTIN MARIANO LOPEZ",
@@ -523,10 +507,6 @@
 				"category": "A-4"
 			},
 			{
-				"name": "LUCAS SEBASTIAN RAFFO",
-				"category": "A-2"
-			},
-			{
 				"name": "PEDRO PATRICIO ATAUCHE",
 				"category": "A-1"
 			},
@@ -539,7 +519,7 @@
 	},
 	{
 		"fullName": "ÁVILA, BEATRIZ LUISA",
-		"cost": "18185946.05",
+		"cost": "33523988.62",
 		"id": "541",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "TUCUMÁN",
@@ -547,6 +527,10 @@
 			{
 				"name": "CLAUDIO A. FINOCHIETTO",
 				"category": "A-2"
+			},
+			{
+				"name": "CARLOS ARIEL SUMMA",
+				"category": "A-13"
 			},
 			{
 				"name": "JACQUELINE TUFRO",
@@ -617,8 +601,16 @@
 				"category": "A-5"
 			},
 			{
+				"name": "ESTEBAN RICARDO AVILA",
+				"category": "A-6"
+			},
+			{
 				"name": "RICARDO ISMAEL FINOCHIETTO",
 				"category": "A-9"
+			},
+			{
+				"name": "MIGUEL ANGEL DILASCIO LOPEZ",
+				"category": "A-13"
 			},
 			{
 				"name": "AGUSTINA BELEN FERNANDEZ CUENCA",
@@ -629,7 +621,11 @@
 				"category": "A-13"
 			},
 			{
-				"name": "ESTEBAN RICARDO AVILA",
+				"name": "JORGE EDUARDO SALEME",
+				"category": "A-2"
+			},
+			{
+				"name": "PAULA MARIANA ARANDA ZOTTOLA",
 				"category": "A-2"
 			},
 			{
@@ -645,18 +641,18 @@
 	},
 	{
 		"fullName": "BEDIA, VILMA FACUNDA",
-		"cost": "11382876.07",
+		"cost": "18387548.84",
 		"id": "553",
 		"party": "PARTIDO RENOVADOR FEDERAL",
 		"province": "JUJUY",
 		"assistants": [
 			{
-				"name": "MAURO DAMIAN BLANCO",
-				"category": "A-5"
-			},
-			{
 				"name": "JUAN CARLOS SALAZAR",
 				"category": "A-12"
+			},
+			{
+				"name": "ENRIQUE RAUL ALIVES",
+				"category": "A-6"
 			},
 			{
 				"name": "DAIANA ESTER LLANES",
@@ -669,10 +665,6 @@
 			{
 				"name": "JOSE ABNER JAIR MAMANI",
 				"category": "A-1"
-			},
-			{
-				"name": "JOEL BENJAMIN MAMANI",
-				"category": "A-3"
 			},
 			{
 				"name": "DAMIAN RODRIGUEZ",
@@ -705,17 +697,13 @@
 			{
 				"name": "PATRICIA NOEMI GOROSITO",
 				"category": "A-12"
-			},
-			{
-				"name": "MIRTA ARACELI SILISQUE",
-				"category": "A-8"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/553.gif"
 	},
 	{
 		"fullName": "BENSUSÁN, DANIEL PABLO",
-		"cost": "21936175.27",
+		"cost": "36458443.98",
 		"id": "532",
 		"party": "FRENTE DE TODOS",
 		"province": "LA PAMPA",
@@ -833,7 +821,7 @@
 	},
 	{
 		"fullName": "BLANCO, PABLO DANIEL",
-		"cost": "24919662.43",
+		"cost": "39365364.19",
 		"id": "511",
 		"party": "JUNTOS POR EL CAMBIO TIERRA DEL FUEGO",
 		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
@@ -927,10 +915,6 @@
 				"category": "A-2"
 			},
 			{
-				"name": "RODRIGO MARTIN ALUSTIZA",
-				"category": "A-1"
-			},
-			{
 				"name": "PABLO FERNANDO FILIPPO",
 				"category": "A-4"
 			},
@@ -955,11 +939,15 @@
 	},
 	{
 		"fullName": "CARAMBIA, JOSÉ MARÍA",
-		"cost": "19530634.41",
+		"cost": "25037276.36",
 		"id": "567",
 		"party": "ALIANZA POR SANTA CRUZ",
 		"province": "SANTA CRUZ",
 		"assistants": [
+			{
+				"name": "MARCELA EUGENIA SCAGLIOLA",
+				"category": "A-1"
+			},
 			{
 				"name": "MARCELO MARTIN SAA",
 				"category": "A-2"
@@ -969,19 +957,11 @@
 				"category": "A-7"
 			},
 			{
-				"name": "MORA ARQUETA",
-				"category": "A-2"
-			},
-			{
 				"name": "ILEANA MARCELA TARQUEZ",
 				"category": "A-1"
 			},
 			{
 				"name": "DAMIAN EDUARDO FERNANDEZ",
-				"category": "A-3"
-			},
-			{
-				"name": "ISABEL SANDRA APARICIO CARRASCO",
 				"category": "A-3"
 			},
 			{
@@ -1009,54 +989,30 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MARIELA ALEJANDRA BRITOS",
-				"category": "A-5"
-			},
-			{
 				"name": "JUAN I. GARCIA ALBERTELLA",
 				"category": "A-6"
-			},
-			{
-				"name": "MARIA GABRIELA RAVERA",
-				"category": "A-7"
-			},
-			{
-				"name": "NATALIA DEL ROSARIO RU ORDOÑEZ",
-				"category": "A-3"
-			},
-			{
-				"name": "MARTIN GREGORIO HERMAN",
-				"category": "A-1"
 			},
 			{
 				"name": "CONSTANTINO RIZZO",
 				"category": "A-4"
 			},
 			{
-				"name": "RAMIRO GONZALEZ",
-				"category": "A-1"
-			},
-			{
 				"name": "CECILIA LAURA RITTATORE",
 				"category": "A-4"
-			},
-			{
-				"name": "ROBERTINA GONZALEZ ESPECHE",
-				"category": "A-7"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/567.gif"
 	},
 	{
 		"fullName": "CORPACCI, LUCIA BENIGNA",
-		"cost": "16016720.96",
+		"cost": "26355027.74",
 		"id": "398",
 		"party": "FRENTE DE TODOS",
 		"province": "CATAMARCA",
 		"assistants": [
 			{
 				"name": "GERMAN ALVAREZ SCOLAMIERI",
-				"category": "A-8"
+				"category": "A-3"
 			},
 			{
 				"name": "GABRIELA BEATRIZ MONLLAU GRIMA",
@@ -1091,10 +1047,6 @@
 				"category": "A-8"
 			},
 			{
-				"name": "FAVIOLA NATHALIE FRIAS",
-				"category": "A-1"
-			},
-			{
 				"name": "AGUSTIN LUIS ALBORS ESPERON",
 				"category": "A-3"
 			},
@@ -1127,7 +1079,7 @@
 	},
 	{
 		"fullName": "CREXELL, CARMEN LUCILA",
-		"cost": "15059898.80",
+		"cost": "26081643.49",
 		"id": "440",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "NEUQUÉN",
@@ -1141,10 +1093,6 @@
 				"category": "A-3"
 			},
 			{
-				"name": "AGUSTIN HOYA",
-				"category": "A-4"
-			},
-			{
 				"name": "LUCIANO ALEJANDRO PENDINO",
 				"category": "A-2"
 			},
@@ -1153,11 +1101,11 @@
 				"category": "A-13"
 			},
 			{
-				"name": "ALEJANDRO TULLIO",
-				"category": "A-3"
+				"name": "RODRIGO ADRIAN GONZALEZ",
+				"category": "A-1"
 			},
 			{
-				"name": "VALERIA JANINA CAVALIERI",
+				"name": "FRANCO THOMAS IGLESIAS",
 				"category": "A-1"
 			},
 			{
@@ -1165,12 +1113,16 @@
 				"category": "A-5"
 			},
 			{
+				"name": "ALEJANDRO RAUL DURAN LOBATO",
+				"category": "A-1"
+			},
+			{
 				"name": "DEBORA SAPAG",
 				"category": "A-3"
 			},
 			{
-				"name": "JULIAN GADANO",
-				"category": "A-2"
+				"name": "AGUSTIN HOYA",
+				"category": "A-1"
 			},
 			{
 				"name": "LUCAS NICOLAS PICCOLOMINI",
@@ -1179,10 +1131,6 @@
 			{
 				"name": "GABRIEL GUSTAVO IGLESIAS",
 				"category": "A-1"
-			},
-			{
-				"name": "ALEJANDRO RAUL DURAN LOBATO",
-				"category": "A-3"
 			},
 			{
 				"name": "CARMELA JUANA CONEJERO",
@@ -1197,11 +1145,15 @@
 	},
 	{
 		"fullName": "CRISTINA, ANDREA MARCELA",
-		"cost": "7653196.05",
+		"cost": "14145176.08",
 		"id": "570",
 		"party": "JUNTOS POR EL CAMBIO CHUBUT",
 		"province": "CHUBUT",
 		"assistants": [
+			{
+				"name": "VALERIA LOURDES METHOL",
+				"category": "A-8"
+			},
 			{
 				"name": "VIVIANA ANDREA RATMAN",
 				"category": "A-8"
@@ -1209,10 +1161,6 @@
 			{
 				"name": "ALEJANDRA DORY GOICOECHEA",
 				"category": "A-3"
-			},
-			{
-				"name": "VALERIA LOURDES METHOL",
-				"category": "A-10"
 			},
 			{
 				"name": "MARIA FLORENCIA ANDRADE",
@@ -1231,10 +1179,6 @@
 				"category": "A-13"
 			},
 			{
-				"name": "LUCIANA ANDREA OBREQUE",
-				"category": "A-8"
-			},
-			{
 				"name": "BELÉN DE LOS ANGELES LATORRE",
 				"category": "A-7"
 			}
@@ -1243,22 +1187,18 @@
 	},
 	{
 		"fullName": "DE ANGELI, ALFREDO LUIS",
-		"cost": "15224292.39",
+		"cost": "23967340.89",
 		"id": "438",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "ENTRE RÍOS",
 		"assistants": [
 			{
-				"name": "MATIAS IVAN MARTIARENA",
-				"category": "A-4"
+				"name": "LAURA VALERIA LOPEZ",
+				"category": "A-1"
 			},
 			{
 				"name": "MARIA ESPERANZA GALLI",
 				"category": "A-1"
-			},
-			{
-				"name": "KAREN CASANDRA SAYES PIMIENTA",
-				"category": "A-4"
 			},
 			{
 				"name": "CRISTIAN CARLOS ABALOS",
@@ -1267,10 +1207,6 @@
 			{
 				"name": "ALEJO LIZZI",
 				"category": "A-4"
-			},
-			{
-				"name": "MARCELA MABEL BARRIONUEVO",
-				"category": "A-9"
 			},
 			{
 				"name": "CAROLINA HELYN GIMENEZ JAIME",
@@ -1285,8 +1221,8 @@
 				"category": "A-6"
 			},
 			{
-				"name": "JORGE RAUL MARCHETTI",
-				"category": "A-1"
+				"name": "KAREN CASANDRA SAYES PIMIENTA",
+				"category": "A-2"
 			},
 			{
 				"name": "ANGEL MATIAS SURT",
@@ -1301,10 +1237,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MARIA FLORENCIA SALATINO",
-				"category": "A-4"
-			},
-			{
 				"name": "PATRICIA BELEN AQUINO",
 				"category": "A-6"
 			}
@@ -1313,11 +1245,19 @@
 	},
 	{
 		"fullName": "DE PEDRO, EDUARDO ENRIQUE",
-		"cost": "10716311.38",
+		"cost": "25570277.31",
 		"id": "545",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "BUENOS AIRES",
 		"assistants": [
+			{
+				"name": "SANTIAGO JUAN RODRIGUEZ",
+				"category": "A-2"
+			},
+			{
+				"name": "MARIA VALERIA DI CROCE",
+				"category": "A-3"
+			},
 			{
 				"name": "PEDRO JULIAN CARESSI",
 				"category": "A-3"
@@ -1339,11 +1279,27 @@
 				"category": "A-3"
 			},
 			{
+				"name": "EDUARDO FACUNDO CODEGA",
+				"category": "A-5"
+			},
+			{
 				"name": "DIEGO FERNANDO FELGUEROSO",
 				"category": "A-2"
 			},
 			{
 				"name": "SEBASTIAN RAUL MARIO ALONSO LAFONTAINE",
+				"category": "A-5"
+			},
+			{
+				"name": "LAUTARO GOROSITO",
+				"category": "A-7"
+			},
+			{
+				"name": "MARCIO ALBERTO FRIGEIRO",
+				"category": "A-3"
+			},
+			{
+				"name": "JESICA ELENA ROZEN",
 				"category": "A-5"
 			},
 			{
@@ -1359,7 +1315,7 @@
 	},
 	{
 		"fullName": "DI TULLIO, JULIANA",
-		"cost": "12189432.22",
+		"cost": "19066092.45",
 		"id": "517",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "BUENOS AIRES",
@@ -1377,8 +1333,8 @@
 				"category": "A-5"
 			},
 			{
-				"name": "JULIO CESAR VERGARA",
-				"category": "A-1"
+				"name": "MARTIN BARBAS",
+				"category": "A-6"
 			},
 			{
 				"name": "AMANDA SUSANA GENEM",
@@ -1389,27 +1345,19 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MARTIN BARBAS",
-				"category": "A-7"
-			},
-			{
 				"name": "SANDRA MONICA BARRIENTOS",
 				"category": "A-1"
 			},
 			{
 				"name": "BIANCA CHARRA",
 				"category": "A-1"
-			},
-			{
-				"name": "MARIA LAURA TESTA",
-				"category": "A-5"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/517.gif"
 	},
 	{
 		"fullName": "DOÑATE, CLAUDIO MARTÍN",
-		"cost": "19932628.12",
+		"cost": "32633031.35",
 		"id": "505",
 		"party": "FRENTE DE TODOS",
 		"province": "RÍO NEGRO",
@@ -1420,10 +1368,6 @@
 			},
 			{
 				"name": "CAROLINA LANDE",
-				"category": "A-1"
-			},
-			{
-				"name": "JUAN MARTIN OHARRIZ",
 				"category": "A-1"
 			},
 			{
@@ -1471,10 +1415,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "RUBEN ALEJANDRO GOYA VILLAGRAN",
-				"category": "A-11"
-			},
-			{
 				"name": "YAMILA DENISE VIOLA",
 				"category": "A-4"
 			},
@@ -1483,8 +1423,16 @@
 				"category": "A-5"
 			},
 			{
-				"name": "HECTOR HORACIO GIL",
-				"category": "A-3"
+				"name": "JORGE NICOLAS PORRINO",
+				"category": "A-6"
+			},
+			{
+				"name": "PABLO FEDERICO CAMAÑO BRITOS",
+				"category": "A-5"
+			},
+			{
+				"name": "ORNELLA LUCIANA MAGLIONE",
+				"category": "A-6"
 			},
 			{
 				"name": "MARIA SOLEDAD LALLI",
@@ -1495,11 +1443,15 @@
 	},
 	{
 		"fullName": "DURÉ, MARÍA EUGENIA",
-		"cost": "15767561.91",
+		"cost": "28837120.66",
 		"id": "512",
 		"party": "FRENTE DE TODOS",
 		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
 		"assistants": [
+			{
+				"name": "SOFIA SORDO",
+				"category": "A-8"
+			},
 			{
 				"name": "SOFIA NATALIA PONCE DE LEON",
 				"category": "A-2"
@@ -1517,6 +1469,10 @@
 				"category": "A-2"
 			},
 			{
+				"name": "ALEJANDRO FABIAN MARMONI",
+				"category": "A-5"
+			},
+			{
 				"name": "LEON LEODAN JUARES",
 				"category": "A-7"
 			},
@@ -1525,8 +1481,12 @@
 				"category": "A-2"
 			},
 			{
-				"name": "GASTON EDUARDO MARANESI",
-				"category": "A-1"
+				"name": "GABRIELA BEATRIZ PATAGUA",
+				"category": "A-9"
+			},
+			{
+				"name": "NORMA ALICIA AGUIRRE",
+				"category": "A-6"
 			},
 			{
 				"name": "ELI EMMANUEL GOMEZ",
@@ -1535,6 +1495,10 @@
 			{
 				"name": "FRANCO ALEJANDRO ETCHEBER",
 				"category": "A-4"
+			},
+			{
+				"name": "NADIA PAOLA VILTE",
+				"category": "A-7"
 			},
 			{
 				"name": "CARLOS GABRIEL MUCCI",
@@ -1577,15 +1541,11 @@
 	},
 	{
 		"fullName": "ESPÍNOLA, CARLOS MAURICIO",
-		"cost": "26175732.38",
+		"cost": "32477654.72",
 		"id": "461",
 		"party": "FRENTE TODOS",
 		"province": "CORRIENTES",
 		"assistants": [
-			{
-				"name": "ROQUE EUGENIO PINZETTA",
-				"category": "A-1"
-			},
 			{
 				"name": "JACQUELINE YOUNG",
 				"category": "A-7"
@@ -1597,6 +1557,10 @@
 			{
 				"name": "DAVID HECTOR RENOVALES",
 				"category": "A-4"
+			},
+			{
+				"name": "FACUNDO DARIO KUEIDER",
+				"category": "A-3"
 			},
 			{
 				"name": "CARLOS MATIAS PELOZO",
@@ -1611,20 +1575,8 @@
 				"category": "A-2"
 			},
 			{
-				"name": "FERNANDO ARIEL MAZZOLENI",
-				"category": "A-1"
-			},
-			{
-				"name": "PABLO SEBASTIAN GARCIA PEDANO",
-				"category": "A-3"
-			},
-			{
 				"name": "HORACIO ALEJANDRO MIGUEL",
 				"category": "A-2"
-			},
-			{
-				"name": "EDUARDO IGNACIO DEMATEO",
-				"category": "A-4"
 			},
 			{
 				"name": "VALERIA SOLEDAD GANE",
@@ -1639,20 +1591,12 @@
 				"category": "A-3"
 			},
 			{
-				"name": "MARIA EUGENIA GARCIA",
-				"category": "A-3"
-			},
-			{
 				"name": "MARIA GUILLERMINA FLAGEAT",
 				"category": "A-6"
 			},
 			{
 				"name": "LUIS SERVANDO DIAZ",
 				"category": "A-3"
-			},
-			{
-				"name": "SUSANA RAQUEL IBARRA",
-				"category": "A-1"
 			},
 			{
 				"name": "FEDERICO TORRANDELL",
@@ -1663,8 +1607,8 @@
 				"category": "A-11"
 			},
 			{
-				"name": "WALTER ADRIAN RODRIGUEZ",
-				"category": "A-7"
+				"name": "MARIA SOL FERRARO",
+				"category": "A-3"
 			},
 			{
 				"name": "JOSE IGNACIO DIAZ NARGANES",
@@ -1691,42 +1635,34 @@
 				"category": "A-10"
 			},
 			{
-				"name": "FERNANDO SEBASTIAN SAADE",
-				"category": "A-3"
-			},
-			{
 				"name": "TITO ANTONIO CHEME",
-				"category": "A-3"
-			},
-			{
-				"name": "CECILIA ELVIRA SOLIS",
 				"category": "A-3"
 			},
 			{
 				"name": "LUCIA SANSO",
 				"category": "A-4"
-			},
-			{
-				"name": "MARIA MERCEDES HUBER",
-				"category": "A-2"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/461.gif"
 	},
 	{
 		"fullName": "FAMA, FLAVIO SERGIO",
-		"cost": "18576380.86",
+		"cost": "31728306.51",
 		"id": "520",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CATAMARCA",
 		"assistants": [
 			{
-				"name": "BRUNO ELIO LATRONICO",
-				"category": "A-2"
+				"name": "JULIAN H. VALENZUELA",
+				"category": "A-1"
 			},
 			{
 				"name": "GUIDO WALTER MORALES",
 				"category": "A-1"
+			},
+			{
+				"name": "LAUTARO AGUSTIN CIPRIANO CASTRO",
+				"category": "A-8"
 			},
 			{
 				"name": "MARIA PAULA BIAGI",
@@ -1785,10 +1721,6 @@
 				"category": "A-3"
 			},
 			{
-				"name": "LAUTARO AGUSTIN CIPRIANO CASTRO",
-				"category": "A-10"
-			},
-			{
 				"name": "SILVIA MABEL MON",
 				"category": "A-2"
 			},
@@ -1801,7 +1733,7 @@
 	},
 	{
 		"fullName": "FERNÁNDEZ SAGASTI, ANABEL",
-		"cost": "17771109.02",
+		"cost": "30835382.44",
 		"id": "468",
 		"party": "FRENTE DE TODOS",
 		"province": "MENDOZA",
@@ -1867,6 +1799,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "HELIANA MAGALI GUALTIERI",
+				"category": "A-1"
+			},
+			{
 				"name": "FEDERICO MIGUEL ACCARDI",
 				"category": "A-7"
 			},
@@ -1883,10 +1819,6 @@
 				"category": "A-8"
 			},
 			{
-				"name": "OSCAR ALFREDO BARRAZA",
-				"category": "A-5"
-			},
-			{
 				"name": "CAMILA MARIEL ROMA",
 				"category": "A-7"
 			}
@@ -1895,7 +1827,7 @@
 	},
 	{
 		"fullName": "GADANO, NATALIA ELENA",
-		"cost": "16845110.65",
+		"cost": "23778528.76",
 		"id": "568",
 		"party": "ALIANZA POR SANTA CRUZ",
 		"province": "SANTA CRUZ",
@@ -1910,7 +1842,7 @@
 			},
 			{
 				"name": "AGUSTIN SANCHEZ",
-				"category": "A-7"
+				"category": "A-6"
 			},
 			{
 				"name": "ESTEBAN MARIA CRAVERO",
@@ -1929,10 +1861,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "JOSÉ FRANCISCO ETCHART MANDON",
-				"category": "A-1"
-			},
-			{
 				"name": "JUAN IGNACIO GARCIA MAIZTEGUI",
 				"category": "A-1"
 			},
@@ -1942,14 +1870,6 @@
 			},
 			{
 				"name": "MARIA LAURA NINKOVIC DEL VALLE",
-				"category": "A-1"
-			},
-			{
-				"name": "PABLO HERNAN ZAVIDOWSKI",
-				"category": "A-1"
-			},
-			{
-				"name": "VALENTIN ALEJANDRO RAMOS GADANO",
 				"category": "A-1"
 			},
 			{
@@ -1965,7 +1885,7 @@
 	},
 	{
 		"fullName": "GALARETTO, EDUARDO HORACIO",
-		"cost": "14651483.43",
+		"cost": "25302793.43",
 		"id": "573",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "SANTA FE",
@@ -2035,13 +1955,17 @@
 	},
 	{
 		"fullName": "GARCÍA LARRABURU, SILVINA MARCELA",
-		"cost": "13234872.86",
+		"cost": "24992040.11",
 		"id": "441",
 		"party": "FRENTE DE TODOS",
 		"province": "RÍO NEGRO",
 		"assistants": [
 			{
 				"name": "BRENDA ANTONELLA DE LAS NIEVES BEVACQUA",
+				"category": "A-4"
+			},
+			{
+				"name": "CAROLINA LEBERMANN",
 				"category": "A-4"
 			},
 			{
@@ -2053,12 +1977,12 @@
 				"category": "A-3"
 			},
 			{
-				"name": "OSCAR EDUARDO CASSIBBA",
-				"category": "A-4"
+				"name": "FERNANDO ANIBAL NUÑEZ",
+				"category": "A-6"
 			},
 			{
-				"name": "JULIO JAVIER PAINEMIL",
-				"category": "A-7"
+				"name": "OSCAR EDUARDO CASSIBBA",
+				"category": "A-4"
 			},
 			{
 				"name": "DANIELA ELIZABETH NUÑEZ",
@@ -2077,8 +2001,12 @@
 				"category": "A-2"
 			},
 			{
+				"name": "JULIO JAVIER PAINEMIL",
+				"category": "A-9"
+			},
+			{
 				"name": "MARIA LAURA MAJADAS",
-				"category": "A-3"
+				"category": "A-2"
 			},
 			{
 				"name": "ZULMA LUCRECIA SAN MARTIN",
@@ -2101,7 +2029,7 @@
 	},
 	{
 		"fullName": "GIMÉNEZ, NORA DEL VALLE",
-		"cost": "11823399.60",
+		"cost": "21339705.31",
 		"id": "507",
 		"party": "FRENTE DE TODOS",
 		"province": "SALTA",
@@ -2115,16 +2043,16 @@
 				"category": "A-5"
 			},
 			{
-				"name": "LAURA MARCELA HEIT",
-				"category": "A-4"
-			},
-			{
 				"name": "EMILIANO PANIZZI",
 				"category": "A-3"
 			},
 			{
 				"name": "HERNAN FEDERICO OLMEDO",
 				"category": "A-4"
+			},
+			{
+				"name": "AMANDA SOLEDAD ALVAREZ",
+				"category": "A-2"
 			},
 			{
 				"name": "CAMILA LEMOS",
@@ -2139,10 +2067,6 @@
 				"category": "A-7"
 			},
 			{
-				"name": "MATIAS REVORA",
-				"category": "A-5"
-			},
-			{
 				"name": "VALERIA ISABEL FERNANDEZ SOLER",
 				"category": "A-5"
 			},
@@ -2153,13 +2077,17 @@
 			{
 				"name": "MARIA VICTORIA RICHTER",
 				"category": "A-2"
+			},
+			{
+				"name": "MARIA DE LOS MILAGROS MALAMUD",
+				"category": "A-5"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/507.gif"
 	},
 	{
 		"fullName": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
-		"cost": "19167170.41",
+		"cost": "33258471.58",
 		"id": "562",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "SAN JUAN",
@@ -2175,6 +2103,10 @@
 			{
 				"name": "NESTOR GABRIEL MOCCIA",
 				"category": "A-2"
+			},
+			{
+				"name": "CESAR HUMBERTO ARIAS",
+				"category": "A-4"
 			},
 			{
 				"name": "MARIA CAROLINA MANRIQUE",
@@ -2257,7 +2189,7 @@
 	},
 	{
 		"fullName": "GOERLING LARA, ENRIQUE MARTIN",
-		"cost": "11105461.87",
+		"cost": "19872477.65",
 		"id": "560",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "MISIONES",
@@ -2315,11 +2247,15 @@
 	},
 	{
 		"fullName": "GONZÁLEZ, MARÍA TERESA MARGARITA",
-		"cost": "13689523.92",
+		"cost": "23929971.83",
 		"id": "477",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "FORMOSA",
 		"assistants": [
+			{
+				"name": "GONZALO ARIEL MAZZA",
+				"category": "A-5"
+			},
 			{
 				"name": "CAMILA MILENA LUCENA",
 				"category": "A-7"
@@ -2335,10 +2271,6 @@
 			{
 				"name": "SEBASTIAN EMILIO NIELSEN",
 				"category": "A-8"
-			},
-			{
-				"name": "LEANDRO LANDUCCI",
-				"category": "A-5"
 			},
 			{
 				"name": "ANABELLA YESICA ASCONA",
@@ -2421,7 +2353,7 @@
 	},
 	{
 		"fullName": "HUALA, MARÍA VICTORIA",
-		"cost": "12308874.47",
+		"cost": "23377302.96",
 		"id": "531",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "LA PAMPA",
@@ -2451,6 +2383,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "PABLO HERNAN ZAVIDOWSKI",
+				"category": "A-1"
+			},
+			{
 				"name": "ESPARTACO MASSUCCO GUARROCHENA",
 				"category": "A-3"
 			},
@@ -2475,7 +2411,7 @@
 	},
 	{
 		"fullName": "JUEZ, LUIS ALFREDO",
-		"cost": "18076778.38",
+		"cost": "26150481.22",
 		"id": "400",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CÓRDOBA",
@@ -2487,10 +2423,6 @@
 			{
 				"name": "PAMELA HUMILDAD D&#039;FELICE",
 				"category": "A-1"
-			},
-			{
-				"name": "SANTIAGO EMILIO VIGIL SISTERNA",
-				"category": "A-2"
 			},
 			{
 				"name": "EUGENIO YAMIL FORNARI",
@@ -2509,7 +2441,7 @@
 				"category": "A-14"
 			},
 			{
-				"name": "RICARDO HECTOR AIZPEOLEA",
+				"name": "LEONEL HERNAN FRASSETTI",
 				"category": "A-2"
 			},
 			{
@@ -2541,16 +2473,8 @@
 				"category": "A-3"
 			},
 			{
-				"name": "ARIEL LEANDRO FRASSETTI",
-				"category": "A-1"
-			},
-			{
 				"name": "MARIA AGUSTINA AHUMADA",
 				"category": "A-14"
-			},
-			{
-				"name": "SERGIO EDUARDO LUDUEÑA",
-				"category": "A-1"
 			},
 			{
 				"name": "RICARDO ARIEL PALAVECINO",
@@ -2581,15 +2505,11 @@
 	},
 	{
 		"fullName": "JURI, MARIANA",
-		"cost": "16797590.62",
+		"cost": "26170149.18",
 		"id": "534",
 		"party": "FRENTE CAMBIA MENDOZA",
 		"province": "MENDOZA",
 		"assistants": [
-			{
-				"name": "PABLO RAFAEL GOMEZ",
-				"category": "A-1"
-			},
 			{
 				"name": "NELSON WILLIAM REYNOSO",
 				"category": "A-1"
@@ -2605,10 +2525,6 @@
 			{
 				"name": "GUSTAVO DAVID SILNIK",
 				"category": "A-14"
-			},
-			{
-				"name": "ROBERTO EDUARDO VIDELA",
-				"category": "A-6"
 			},
 			{
 				"name": "MATIAS JOSE ARZALLUZ",
@@ -2659,7 +2575,7 @@
 	},
 	{
 		"fullName": "KIRCHNER, ALICIA MARGARITA ANTONIA",
-		"cost": "14858259.76",
+		"cost": "31795177.49",
 		"id": "366",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "SANTA CRUZ",
@@ -2671,6 +2587,10 @@
 			{
 				"name": "MARGARITA DEL VALLE ZELAYA",
 				"category": "A-2"
+			},
+			{
+				"name": "LILIANA AMELIA ZUCCOTTI",
+				"category": "A-5"
 			},
 			{
 				"name": "MARCELA PAOLA VESSVESSIAN",
@@ -2689,6 +2609,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "MARIA GABRIELA SCURI",
+				"category": "A-2"
+			},
+			{
 				"name": "GABRIELA MENGARELLI",
 				"category": "A-1"
 			},
@@ -2701,6 +2625,18 @@
 				"category": "A-2"
 			},
 			{
+				"name": "CAROLINA CURRAIS",
+				"category": "A-1"
+			},
+			{
+				"name": "MARIA ROCIO CAMPOS ALVAREZ",
+				"category": "A-7"
+			},
+			{
+				"name": "LUCAS EMANUEL RIQUELME",
+				"category": "A-2"
+			},
+			{
 				"name": "ALEJANDRA ANDREA RIFON",
 				"category": "A-4"
 			},
@@ -2710,7 +2646,7 @@
 			},
 			{
 				"name": "VERONICA ALEJANDRA SHANAHAN",
-				"category": "A-7"
+				"category": "A-6"
 			},
 			{
 				"name": "SEBASTIAN CARLOS ENRIQUE RUIZ",
@@ -2721,7 +2657,7 @@
 	},
 	{
 		"fullName": "KRONEBERGER, DANIEL RICARDO",
-		"cost": "18251446.62",
+		"cost": "28429994.44",
 		"id": "530",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "LA PAMPA",
@@ -2735,14 +2671,6 @@
 				"category": "A-6"
 			},
 			{
-				"name": "JULIANA TUÑON",
-				"category": "A-4"
-			},
-			{
-				"name": "LUCIANA MARIA VIOZZI",
-				"category": "A-4"
-			},
-			{
 				"name": "C ARLOS DANIEL LAYOY",
 				"category": "A-13"
 			},
@@ -2751,23 +2679,19 @@
 				"category": "A-8"
 			},
 			{
-				"name": "ROSA ANGELICA FLORES",
-				"category": "A-10"
-			},
-			{
 				"name": "LAURA NOELIA DELGADO",
 				"category": "A-1"
 			},
 			{
-				"name": "GUILLERMINA KENNY",
-				"category": "A-2"
+				"name": "LEANDRO SALLABERRY MARTINEZ",
+				"category": "A-1"
+			},
+			{
+				"name": "JULIANA TUÑON",
+				"category": "A-1"
 			},
 			{
 				"name": "ALEJANDRA MARIEL WIGGENHAUSER",
-				"category": "A-2"
-			},
-			{
-				"name": "GUILLERMO ANGEL ETCHEVERRY",
 				"category": "A-2"
 			},
 			{
@@ -2791,6 +2715,10 @@
 				"category": "A-7"
 			},
 			{
+				"name": "RUBEN DARIO PRIETO",
+				"category": "A-5"
+			},
+			{
 				"name": "ALAN RODRIGO RAUL FERNANDEZ",
 				"category": "A-7"
 			},
@@ -2799,32 +2727,8 @@
 				"category": "A-7"
 			},
 			{
-				"name": "MATIAS JESUS EMMANUEL CARRIZO",
-				"category": "A-8"
-			},
-			{
 				"name": "CAYETANO ROBERTO CAMPISI",
 				"category": "A-14"
-			},
-			{
-				"name": "ANTONELLA FIORAVANTTI",
-				"category": "A-5"
-			},
-			{
-				"name": "LEANDRO SALLABERRY MARTINEZ",
-				"category": "A-3"
-			},
-			{
-				"name": "RUBEN DARIO PRIETO",
-				"category": "A-6"
-			},
-			{
-				"name": "DORA BEATRIZ BERNIS",
-				"category": "A-13"
-			},
-			{
-				"name": "YANINA E. BROLLO",
-				"category": "A-13"
 			},
 			{
 				"name": "MIGUEL ANGEL BAYARSKY",
@@ -2847,15 +2751,19 @@
 				"category": "A-9"
 			},
 			{
-				"name": "FACUNDO ANTONIO SPINELLI GALICHO",
-				"category": "A-8"
+				"name": "LUCIANA MARIA VIOZZI",
+				"category": "A-1"
+			},
+			{
+				"name": "GUILLERMO ANGEL ETCHEVERRY",
+				"category": "A-1"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/530.gif"
 	},
 	{
 		"fullName": "KUEIDER, EDGARDO DARÍO",
-		"cost": "22118549.45",
+		"cost": "31547361.58",
 		"id": "502",
 		"party": "FRENTE TODOS",
 		"province": "ENTRE RÍOS",
@@ -2869,28 +2777,12 @@
 				"category": "A-2"
 			},
 			{
-				"name": "JUAN JOSE CERNUSCO CORNEJO",
-				"category": "A-7"
-			},
-			{
-				"name": "MARTIN ERNESTO REYNOSO",
-				"category": "A-5"
-			},
-			{
 				"name": "SANDRA MARISA SCHMITZ",
 				"category": "A-1"
 			},
 			{
 				"name": "IRENEO GUASTAVINO",
 				"category": "A-3"
-			},
-			{
-				"name": "FERNANDO ENRIQUE BOGADO",
-				"category": "A-7"
-			},
-			{
-				"name": "JOSE FELIPE JAIMES",
-				"category": "A-1"
 			},
 			{
 				"name": "GISELA SOSA",
@@ -2909,10 +2801,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "SOLANGE AILEN SUAREZ",
-				"category": "A-14"
-			},
-			{
 				"name": "MARIANA SOMASCHINI",
 				"category": "A-4"
 			},
@@ -2929,11 +2817,11 @@
 				"category": "A-2"
 			},
 			{
-				"name": "ELIANA GABRIELA LOBO",
-				"category": "A-3"
+				"name": "LUCIANO FERREIRA",
+				"category": "A-5"
 			},
 			{
-				"name": "LUCIANO FERREIRA",
+				"name": "VIVIANA FLORENCIA ALIAGA LANG",
 				"category": "A-5"
 			},
 			{
@@ -2955,17 +2843,13 @@
 			{
 				"name": "EUGENIA ORMACHE",
 				"category": "A-4"
-			},
-			{
-				"name": "MAURICIO EZEQUIEL VILLALBA",
-				"category": "A-7"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/502.gif"
 	},
 	{
 		"fullName": "LEAVY, SERGIO NAPOLEÓN",
-		"cost": "17543783.50",
+		"cost": "31226774.27",
 		"id": "508",
 		"party": "FRENTE DE TODOS",
 		"province": "SALTA",
@@ -2975,16 +2859,20 @@
 				"category": "A-7"
 			},
 			{
+				"name": "BRISA FLORES OVIEDO",
+				"category": "A-14"
+			},
+			{
 				"name": "PAOLA ALEJANDRA TENUTTA",
 				"category": "A-1"
 			},
 			{
-				"name": "BRISA FLORES OVIEDO",
-				"category": "A-8"
-			},
-			{
 				"name": "TOMAS ALBARRACIN",
 				"category": "A-14"
+			},
+			{
+				"name": "JORGELINA SILVANA JUAREZ",
+				"category": "A-6"
 			},
 			{
 				"name": "ALEJANDRO NESTOR SANSONE",
@@ -3015,6 +2903,10 @@
 				"category": "A-2"
 			},
 			{
+				"name": "FRANCO HECTOR MESSINA",
+				"category": "A-2"
+			},
+			{
 				"name": "JOSE AUGUSTO ALZOGARAY",
 				"category": "A-2"
 			},
@@ -3035,10 +2927,6 @@
 				"category": "A-8"
 			},
 			{
-				"name": "JORGELINA SILVANA JUAREZ",
-				"category": "A-10"
-			},
-			{
 				"name": "MABEL ISABEL PEREZ",
 				"category": "A-3"
 			},
@@ -3055,7 +2943,7 @@
 	},
 	{
 		"fullName": "LEDESMA ABDALA DE ZAMORA, CLAUDIA",
-		"cost": "6322635.28",
+		"cost": "12548140.08",
 		"id": "509",
 		"party": "FRENTE CÍVICO POR SANTIAGO",
 		"province": "SANTIAGO DEL ESTERO",
@@ -3081,7 +2969,7 @@
 	},
 	{
 		"fullName": "LEWANDOWSKI, MARCELO NESTOR",
-		"cost": "19601272.28",
+		"cost": "31842380.54",
 		"id": "538",
 		"party": "FRENTE DE TODOS",
 		"province": "SANTA FE",
@@ -3097,10 +2985,6 @@
 			{
 				"name": "MARCELO FABIAN MULLER",
 				"category": "A-3"
-			},
-			{
-				"name": "MARIA EUGENIA BOZZO",
-				"category": "A-4"
 			},
 			{
 				"name": "JOSE MARIA VERNET",
@@ -3179,7 +3063,7 @@
 	},
 	{
 		"fullName": "LINARES, CARLOS ALBERTO",
-		"cost": "16042407.48",
+		"cost": "27432830.38",
 		"id": "529",
 		"party": "FRENTE DE TODOS",
 		"province": "CHUBUT",
@@ -3261,7 +3145,7 @@
 	},
 	{
 		"fullName": "LÓPEZ, CÁNDIDA CRISTINA",
-		"cost": "20041795.76",
+		"cost": "37148788.34",
 		"id": "574",
 		"party": "ALIANZA FRENTE DE TODOS",
 		"province": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
@@ -3271,12 +3155,12 @@
 				"category": "A-3"
 			},
 			{
-				"name": "MARCELO RUBEN FINIELLO",
-				"category": "A-1"
+				"name": "MARCELO ARIEL MARTIN",
+				"category": "A-4"
 			},
 			{
-				"name": "CLAUDIA ANDREA GOMEZ",
-				"category": "A-4"
+				"name": "MARCELO RUBEN FINIELLO",
+				"category": "A-1"
 			},
 			{
 				"name": "MELISA AYELEN QUINTANA",
@@ -3287,8 +3171,8 @@
 				"category": "A-1"
 			},
 			{
-				"name": "PABLO JUAN CHIESA",
-				"category": "A-3"
+				"name": "ANA JULIETA COLAZO",
+				"category": "A-1"
 			},
 			{
 				"name": "ALDANA AGUSTINA ARRENDAL",
@@ -3307,6 +3191,14 @@
 				"category": "A-9"
 			},
 			{
+				"name": "MARTIN ADOLFO CORRAL ALONSO MAZZONI",
+				"category": "A-4"
+			},
+			{
+				"name": "MARIA SOL MENDOZA ZUCCOTTI",
+				"category": "A-4"
+			},
+			{
 				"name": "YESICA  ELISABET FERNANDEZ",
 				"category": "A-2"
 			},
@@ -3315,12 +3207,12 @@
 				"category": "A-1"
 			},
 			{
-				"name": "ALEJANDRA DAROUICHE",
-				"category": "A-1"
-			},
-			{
 				"name": "FRANCISCO MANUEL MARTIN",
 				"category": "A-8"
+			},
+			{
+				"name": "NORBERTO JOSE CLAPS",
+				"category": "A-4"
 			},
 			{
 				"name": "ALEJANDRO DAROUICHE",
@@ -3329,6 +3221,10 @@
 			{
 				"name": "MARIA JOSE NIBORSKI",
 				"category": "A-2"
+			},
+			{
+				"name": "ANGEL PUCCIANO",
+				"category": "A-1"
 			},
 			{
 				"name": "GERARDO LUIS PALACIOS",
@@ -3347,7 +3243,7 @@
 	},
 	{
 		"fullName": "LÓPEZ, MARÍA FLORENCIA",
-		"cost": "11154266.21",
+		"cost": "23890635.97",
 		"id": "555",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "LA RIOJA",
@@ -3359,6 +3255,10 @@
 			{
 				"name": "SILVANA RITA PALETTA",
 				"category": "A-6"
+			},
+			{
+				"name": "MARIA EVA BARRIONUEVO",
+				"category": "A-2"
 			},
 			{
 				"name": "CARLA MARIA ALESSANDRINI",
@@ -3395,23 +3295,31 @@
 			{
 				"name": "FABIO HORACIO RODRIGUEZ",
 				"category": "A-1"
+			},
+			{
+				"name": "SANTIAGO EMMANUEL PERALTA",
+				"category": "A-5"
+			},
+			{
+				"name": "IKER SELEMIAS NIEVAS",
+				"category": "A-7"
+			},
+			{
+				"name": "OSCAR ALFREDO BARRAZA",
+				"category": "A-5"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/555.gif"
 	},
 	{
 		"fullName": "LOSADA, CAROLINA",
-		"cost": "10453024.73",
+		"cost": "16993092.51",
 		"id": "536",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "SANTA FE",
 		"assistants": [
 			{
 				"name": "MARCOS ADRIAN MARTINEZ",
-				"category": "A-3"
-			},
-			{
-				"name": "MARIA FABIANA ROSA LEON",
 				"category": "A-3"
 			},
 			{
@@ -3435,10 +3343,6 @@
 				"category": "A-2"
 			},
 			{
-				"name": "HORACIO GABRIEL MOYANO",
-				"category": "A-7"
-			},
-			{
 				"name": "FELIX VICENTE LONIGRO",
 				"category": "A-3"
 			}
@@ -3447,7 +3351,7 @@
 	},
 	{
 		"fullName": "LOUSTEAU, MARTÍN",
-		"cost": "12289609.59",
+		"cost": "20104559.23",
 		"id": "497",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
@@ -3465,10 +3369,6 @@
 				"category": "A-8"
 			},
 			{
-				"name": "MATIAS MANUEL CIMADEVILLA",
-				"category": "A-6"
-			},
-			{
 				"name": "MATIAS ALEJANDRO MENDEZ",
 				"category": "A-1"
 			},
@@ -3483,10 +3383,6 @@
 			{
 				"name": "FLORENCIA PRIMAVERA",
 				"category": "A-3"
-			},
-			{
-				"name": "SERGIO EMILIO GARCIA CASARROTA",
-				"category": "A-6"
 			},
 			{
 				"name": "GERMAN GABRIEL ROJO",
@@ -3513,7 +3409,7 @@
 	},
 	{
 		"fullName": "MANZUR, JUAN LUIS",
-		"cost": "8806519.98",
+		"cost": "17260576.38",
 		"id": "576",
 		"party": "ALIANZA FRENTE DE TODOS",
 		"province": "TUCUMÁN",
@@ -3525,10 +3421,6 @@
 			{
 				"name": "HERNAN DI BELLO",
 				"category": "A-2"
-			},
-			{
-				"name": "MICAELA RODRIGUEZ",
-				"category": "A-9"
 			},
 			{
 				"name": "JUAN PABLO LICHTMAJER",
@@ -3545,13 +3437,17 @@
 			{
 				"name": "LUIS MIGUEL HERRAEZ PRIETO",
 				"category": "A-2"
+			},
+			{
+				"name": "ADAN SAUL PEROZA",
+				"category": "A-2"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/576.gif"
 	},
 	{
 		"fullName": "MAYANS, JOSÉ MIGUEL ÁNGEL",
-		"cost": "20897156.27",
+		"cost": "33996019.00",
 		"id": "294",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "FORMOSA",
@@ -3581,6 +3477,10 @@
 				"category": "A-7"
 			},
 			{
+				"name": "ROMINA ELIZABETH ZORRILLA",
+				"category": "A-6"
+			},
+			{
 				"name": "JUAN CARLOS AREVALO",
 				"category": "A-7"
 			},
@@ -3603,10 +3503,6 @@
 			{
 				"name": "SILVIO LEONARDO DLUGOSZEWSKI",
 				"category": "A-3"
-			},
-			{
-				"name": "JORGE ANIBAL AGUIRRE",
-				"category": "A-1"
 			},
 			{
 				"name": "NATALIA BELEN LEON",
@@ -3689,7 +3585,7 @@
 	},
 	{
 		"fullName": "MENDOZA, SANDRA MARIELA",
-		"cost": "21449416.07",
+		"cost": "37435940.15",
 		"id": "540",
 		"party": "FRENTE DE TODOS",
 		"province": "TUCUMÁN",
@@ -3707,6 +3603,14 @@
 				"category": "A-6"
 			},
 			{
+				"name": "PAOLA DEL VALLE BARON",
+				"category": "A-12"
+			},
+			{
+				"name": "SILVIA MABEL MENDEZ",
+				"category": "A-7"
+			},
+			{
 				"name": "MARIANA ISABEL BAUDINO",
 				"category": "A-1"
 			},
@@ -3717,6 +3621,10 @@
 			{
 				"name": "ELEANA PAOLA MARTINEZ",
 				"category": "A-4"
+			},
+			{
+				"name": "NANCY PATRICIA CORVALAN",
+				"category": "A-7"
 			},
 			{
 				"name": "VICTOR EDUARDO ZURITA",
@@ -3803,7 +3711,7 @@
 	},
 	{
 		"fullName": "MOISES, MARÍA CAROLINA",
-		"cost": "21633074.56",
+		"cost": "36871470.51",
 		"id": "554",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "JUJUY",
@@ -3901,12 +3809,20 @@
 				"category": "A-3"
 			},
 			{
+				"name": "PAMELA JIMENA URZAGASTE",
+				"category": "A-14"
+			},
+			{
 				"name": "OCTAVIO CARLOS MOSCATELLI",
 				"category": "A-2"
 			},
 			{
 				"name": "ERIKA FERNANDA GAISER",
 				"category": "A-3"
+			},
+			{
+				"name": "GABRIELA NOEMI RIVERA",
+				"category": "A-14"
 			},
 			{
 				"name": "NANCI ADRIANA FRUYANO",
@@ -3965,7 +3881,7 @@
 	},
 	{
 		"fullName": "MONTENEGRO, GERARDO ANTENOR",
-		"cost": "24971035.37",
+		"cost": "37835199.14",
 		"id": "446",
 		"party": "FRENTE DE TODOS",
 		"province": "SANTIAGO DEL ESTERO",
@@ -3987,16 +3903,16 @@
 				"category": "A-12"
 			},
 			{
+				"name": "RAUL ALEJANDRO ESPERGUIN",
+				"category": "A-6"
+			},
+			{
 				"name": "CARLOS ALBERTO VIZCAY",
 				"category": "A-4"
 			},
 			{
-				"name": "SANDRA ELIZABETH SALTAMARTINI",
-				"category": "A-1"
-			},
-			{
-				"name": "CARLA BELEN IBARRA",
-				"category": "A-9"
+				"name": "MARIO TOMAS ULLA",
+				"category": "A-8"
 			},
 			{
 				"name": "PATRICIA ANGELICA URQUIZA",
@@ -4011,16 +3927,8 @@
 				"category": "A-12"
 			},
 			{
-				"name": "KAREN NOELIA MALDONADO",
-				"category": "A-12"
-			},
-			{
 				"name": "DANIEL EDUARDO CHEQUER CHARAN",
 				"category": "A-1"
-			},
-			{
-				"name": "RAMON ARIEL ALEJANDRO CORONEL",
-				"category": "A-12"
 			},
 			{
 				"name": "EVA CAROLINA GOMEZ",
@@ -4029,10 +3937,6 @@
 			{
 				"name": "MARIA CECILIA CAPELLA",
 				"category": "A-5"
-			},
-			{
-				"name": "FRANCO ALEJANDRO ROSSI",
-				"category": "A-7"
 			},
 			{
 				"name": "MARIANA SOFIA CHEQUER CHARAN",
@@ -4047,18 +3951,6 @@
 				"category": "A-2"
 			},
 			{
-				"name": "JORGE MATIAS DAMIAN CARABALLO",
-				"category": "A-8"
-			},
-			{
-				"name": "MARIA LORENA VERA",
-				"category": "A-8"
-			},
-			{
-				"name": "VICTORIA RAQUEL CABAÑAS",
-				"category": "A-12"
-			},
-			{
 				"name": "DIEGO SEBASTIAN SANCHEZ",
 				"category": "A-8"
 			},
@@ -4067,44 +3959,32 @@
 				"category": "A-8"
 			},
 			{
-				"name": "RAUL ALEJANDRO ESPERGUIN",
-				"category": "A-10"
-			},
-			{
 				"name": "MARIA GUADALUPE PITA MONZON",
 				"category": "A-1"
 			},
 			{
-				"name": "JORGE RAFAEL PAJON",
-				"category": "A-12"
-			},
-			{
-				"name": "TANIA LUISINA SANTUCHO",
-				"category": "A-10"
-			},
-			{
-				"name": "MARIO TOMAS ULLA",
-				"category": "A-10"
+				"name": "CARLA BELEN IBARRA",
+				"category": "A-7"
 			},
 			{
 				"name": "ALTEZA TERESITA NAZER",
 				"category": "A-10"
 			},
 			{
-				"name": "VALERIA DANIELA ITATI CANAVESIO",
-				"category": "A-9"
+				"name": "JORGE MATIAS DAMIAN CARABALLO",
+				"category": "A-7"
 			},
 			{
 				"name": "MARIO ALBERTO CORRADI",
 				"category": "A-1"
 			},
 			{
-				"name": "SEBASTIAN EZEQUIEL MONTENEGRO SAYAGO",
-				"category": "A-14"
-			},
-			{
 				"name": "VALENTINA BELEN FIGUEROA BASUALDO",
 				"category": "A-3"
+			},
+			{
+				"name": "FRANCO ALEJANDRO ROSSI",
+				"category": "A-6"
 			},
 			{
 				"name": "MARIA ANGELA MARTIN",
@@ -4115,20 +3995,20 @@
 				"category": "A-8"
 			},
 			{
+				"name": "VALERIA DANIELA ITATI CANAVESIO",
+				"category": "A-5"
+			},
+			{
 				"name": "GUSTAVO AGUSTIN COIMAN",
 				"category": "A-5"
 			},
 			{
-				"name": "NESTOR DANIEL LUNA",
-				"category": "A-12"
+				"name": "GUSTAVO ALEJANDRO BELIZAN",
+				"category": "A-6"
 			},
 			{
 				"name": "MARCELO DANIEL PLOMER",
 				"category": "A-1"
-			},
-			{
-				"name": "IVANA ELIANA PAZ",
-				"category": "A-12"
 			},
 			{
 				"name": "FEDERICO NICOLAS HERRERA",
@@ -4141,17 +4021,13 @@
 			{
 				"name": "MIRTA MAGDALENA LUNA GARCIA",
 				"category": "A-8"
-			},
-			{
-				"name": "GUSTAVO ALEJANDRO BELIZAN",
-				"category": "A-13"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/446.gif"
 	},
 	{
 		"fullName": "NEDER, JOSÉ EMILIO",
-		"cost": "15912690.64",
+		"cost": "27234184.27",
 		"id": "510",
 		"party": "FRENTE CÍVICO POR SANTIAGO",
 		"province": "SANTIAGO DEL ESTERO",
@@ -4189,6 +4065,10 @@
 				"category": "A-4"
 			},
 			{
+				"name": "HUGO ROLANDO ZAVALETA",
+				"category": "A-5"
+			},
+			{
 				"name": "MARTA VIRGINIA AMUI AZIZE",
 				"category": "A-7"
 			},
@@ -4217,10 +4097,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "SILVINA MABEL RODRIGUEZ",
-				"category": "A-5"
-			},
-			{
 				"name": "HUGO MATIAS LARRUE",
 				"category": "A-5"
 			},
@@ -4237,7 +4113,7 @@
 	},
 	{
 		"fullName": "OLALLA, STELLA MARIS",
-		"cost": "13369726.98",
+		"cost": "23035080.97",
 		"id": "503",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "ENTRE RÍOS",
@@ -4279,10 +4155,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "JUAN CARLOS MONTIEL",
-				"category": "A-13"
-			},
-			{
 				"name": "LUCAS LEONARDO GUALDA",
 				"category": "A-8"
 			},
@@ -4307,7 +4179,7 @@
 	},
 	{
 		"fullName": "OLIVERA LUCERO, BRUNO ANTONIO",
-		"cost": "12690319.01",
+		"cost": "22332935.80",
 		"id": "563",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
 		"province": "SAN JUAN",
@@ -4381,7 +4253,7 @@
 	},
 	{
 		"fullName": "PAGOTTO, JUAN CARLOS",
-		"cost": "8396820.26",
+		"cost": "15183642.85",
 		"id": "557",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
 		"province": "LA RIOJA",
@@ -4389,14 +4261,6 @@
 			{
 				"name": "JUAN MARIA PAGOTTO",
 				"category": "A-1"
-			},
-			{
-				"name": "ENRIQUE RAUL ALIVES",
-				"category": "A-6"
-			},
-			{
-				"name": "DANIEL RICARDO BEDIA",
-				"category": "A-6"
 			},
 			{
 				"name": "LAURA JIMENA BAHAMONDE",
@@ -4417,13 +4281,17 @@
 			{
 				"name": "MICAELA ESTHER TELLO LENCINA",
 				"category": "A-8"
+			},
+			{
+				"name": "MARIA FLORENCIA SALATINO",
+				"category": "A-4"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/557.gif"
 	},
 	{
 		"fullName": "PAOLTRONI, FRANCISCO MANUEL",
-		"cost": "8496997.63",
+		"cost": "15911356.29",
 		"id": "551",
 		"party": "ALIANZA LA LIBERTAD AVANZA",
 		"province": "FORMOSA",
@@ -4461,11 +4329,15 @@
 	},
 	{
 		"fullName": "PARRILLI, OSCAR ISIDRO",
-		"cost": "17128946.48",
+		"cost": "30089967.88",
 		"id": "504",
 		"party": "FRENTE DE TODOS",
 		"province": "NEUQUÉN",
 		"assistants": [
+			{
+				"name": "MAURO GABRIEL URRIBARRI",
+				"category": "A-5"
+			},
 			{
 				"name": "NANCY ELIZABETH ESTECHE",
 				"category": "A-3"
@@ -4491,12 +4363,16 @@
 				"category": "A-5"
 			},
 			{
-				"name": "HECTOR ICAZURIAGA",
-				"category": "A-4"
-			},
-			{
 				"name": "MARIA SABRINA GIMENEZ",
 				"category": "A-1"
+			},
+			{
+				"name": "GUSTAVO GABRIEL ARELLANO",
+				"category": "A-12"
+			},
+			{
+				"name": "AGUSTINA SOL SANCHEZ",
+				"category": "A-4"
 			},
 			{
 				"name": "FERNANDO JAVIER CASTIGLIONI",
@@ -4535,12 +4411,8 @@
 				"category": "A-8"
 			},
 			{
-				"name": "GUSTAVO GABRIEL ARELLANO",
-				"category": "A-8"
-			},
-			{
-				"name": "CLAUDIA ELIZABETH GOMEZ",
-				"category": "A-12"
+				"name": "JUAN DOMINGO LINARES",
+				"category": "A-7"
 			},
 			{
 				"name": "PATRICIA MARIANA PONCE DE LEON",
@@ -4551,7 +4423,7 @@
 	},
 	{
 		"fullName": "PILATTI VERGARA, MARÍA INÉS",
-		"cost": "30265023.41",
+		"cost": "44636369.73",
 		"id": "435",
 		"party": "FRENTE DE TODOS",
 		"province": "CHACO",
@@ -4573,10 +4445,6 @@
 				"category": "A-11"
 			},
 			{
-				"name": "EDUARDO EMILIO KAPETINICH",
-				"category": "A-1"
-			},
-			{
 				"name": "GUILLERMO RODOLFO FERNANDO PEREZ ROISINBLIT",
 				"category": "A-5"
 			},
@@ -4587,10 +4455,6 @@
 			{
 				"name": "JULIAN CARLOTTO",
 				"category": "A-6"
-			},
-			{
-				"name": "ANTONIO MIGUEL TEMPERINI",
-				"category": "A-9"
 			},
 			{
 				"name": "MARIA ESPERANZA COLOMBO",
@@ -4627,10 +4491,6 @@
 			{
 				"name": "DARIO ABEL MANTUANO",
 				"category": "A-2"
-			},
-			{
-				"name": "JUAN FACUNDO ESQUIVEL",
-				"category": "A-8"
 			},
 			{
 				"name": "MOIRA EVELIN PARED",
@@ -4677,10 +4537,6 @@
 				"category": "A-3"
 			},
 			{
-				"name": "MABEL SOLEDAD CODUTTI",
-				"category": "A-5"
-			},
-			{
 				"name": "MAURO SEBASTIAN MARTELOSSI",
 				"category": "A-2"
 			},
@@ -4689,16 +4545,8 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MARIA LORENA SALINAS",
-				"category": "A-13"
-			},
-			{
 				"name": "PABLO FERNANDO SUAREZ RUBIO",
 				"category": "A-6"
-			},
-			{
-				"name": "MARTIN NAHUEL TEJADA",
-				"category": "A-8"
 			},
 			{
 				"name": "JOSE MIGUEL DE FRANCISCA",
@@ -4721,7 +4569,7 @@
 	},
 	{
 		"fullName": "RECALDE, MARIANO",
-		"cost": "19257073.14",
+		"cost": "32422584.50",
 		"id": "498",
 		"party": "FRENTE DE TODOS",
 		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
@@ -4839,15 +4687,11 @@
 	},
 	{
 		"fullName": "REJAL, JESÚS FERNANDO",
-		"cost": "30753066.97",
+		"cost": "48768602.11",
 		"id": "556",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "LA RIOJA",
 		"assistants": [
-			{
-				"name": "EDGARDO GERMAN LOPEZ",
-				"category": "A-3"
-			},
 			{
 				"name": "MIGUEL ANGEL SOSA",
 				"category": "A-2"
@@ -4993,7 +4837,7 @@
 	},
 	{
 		"fullName": "RODAS, ANTONIO JOSÉ",
-		"cost": "23771475.77",
+		"cost": "41420662.96",
 		"id": "500",
 		"party": "FRENTE DE TODOS",
 		"province": "CHACO",
@@ -5027,6 +4871,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "JOSE GIAMPA",
+				"category": "A-6"
+			},
+			{
 				"name": "LUCIA BELEN AVALOS",
 				"category": "A-14"
 			},
@@ -5040,10 +4888,6 @@
 			},
 			{
 				"name": "LILIANA BEATRIZ PASTUR",
-				"category": "A-5"
-			},
-			{
-				"name": "ANA MAROTTA",
 				"category": "A-5"
 			},
 			{
@@ -5131,19 +4975,27 @@
 				"category": "A-1"
 			},
 			{
+				"name": "OSCAR EDUARDO LEIVA",
+				"category": "A-14"
+			},
+			{
 				"name": "ALFREDO EMMANUEL MARTINEZ",
 				"category": "A-14"
 			},
 			{
 				"name": "ZUNILDA BEATRIZ VELAUSTEGUI",
 				"category": "A-10"
+			},
+			{
+				"name": "GUSTAVO CARLOS VELEZ",
+				"category": "A-1"
 			}
 		],
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/500.gif"
 	},
 	{
 		"fullName": "ROJAS DECUT, SONIA ELIZABETH",
-		"cost": "13457061.10",
+		"cost": "19205734.77",
 		"id": "559",
 		"party": "FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL",
 		"province": "MISIONES",
@@ -5161,10 +5013,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "IRIS ALEJANDRA MADELAIRE",
-				"category": "A-3"
-			},
-			{
 				"name": "IRENE NOEMI PALACIOS",
 				"category": "A-2"
 			},
@@ -5173,27 +5021,19 @@
 				"category": "A-3"
 			},
 			{
-				"name": "MARIA LAURA MIR",
-				"category": "A-3"
-			},
-			{
 				"name": "DIEGO JOSE SADRINAS",
 				"category": "A-2"
-			},
-			{
-				"name": "NOELIA ARIANA CASALS",
-				"category": "A-3"
 			},
 			{
 				"name": "ANIBAL ALEJANDRO LEZCANO",
 				"category": "A-1"
 			},
 			{
-				"name": "ROCIO AYELEN GOMEZ CADINI",
-				"category": "A-3"
+				"name": "NESTOR IVAN CARVALLO",
+				"category": "A-9"
 			},
 			{
-				"name": "MATIAS DANIEL REMAGGI",
+				"name": "VALENTINA GIORGI PLANO",
 				"category": "A-3"
 			}
 		],
@@ -5201,7 +5041,7 @@
 	},
 	{
 		"fullName": "ROMERO, JUAN CARLOS",
-		"cost": "21089805.03",
+		"cost": "33254538.00",
 		"id": "35",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "SALTA",
@@ -5239,10 +5079,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "LAURA MARCELA ACUÑA",
-				"category": "A-2"
-			},
-			{
 				"name": "RAMIRO MARTIN SARAVIA",
 				"category": "A-5"
 			},
@@ -5273,10 +5109,6 @@
 			{
 				"name": "ALEJANDRO JULIO BASSI",
 				"category": "A-5"
-			},
-			{
-				"name": "LUIS EMILIO FAYON MEDINA",
-				"category": "A-9"
 			},
 			{
 				"name": "MARINA NATALIA JURICICH",
@@ -5319,7 +5151,7 @@
 	},
 	{
 		"fullName": "SALINO, FERNANDO ALDO",
-		"cost": "15495285.01",
+		"cost": "26594976.50",
 		"id": "566",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "SAN LUIS",
@@ -5389,10 +5221,6 @@
 				"category": "A-3"
 			},
 			{
-				"name": "FERNANDO ALDO SALINO",
-				"category": "W01"
-			},
-			{
 				"name": "VIRGINIA SANCHEZ",
 				"category": "A-7"
 			},
@@ -5412,16 +5240,12 @@
 		"img": "https://www.senado.gob.ar/bundles/senadosenadores/images/fsena/566.gif"
 	},
 	{
-		"fullName": "SAPAG, SILVIA ESTELA ",
-		"cost": "18740774.45",
+		"fullName": "SAPAG, SILVIA ESTELA",
+		"cost": "33227002.87",
 		"id": "251",
 		"party": "FRENTE DE TODOS",
 		"province": "NEUQUÉN",
 		"assistants": [
-			{
-				"name": "JORGE LUIS BARRIONUEVO",
-				"category": "A-10"
-			},
 			{
 				"name": "SILVIO ULISES MALASPINA",
 				"category": "A-3"
@@ -5429,6 +5253,10 @@
 			{
 				"name": "MARTA ELIZABETH SANCHEZ",
 				"category": "M-5"
+			},
+			{
+				"name": "PABLO ALEJANDRO MORELLI",
+				"category": "A-10"
 			},
 			{
 				"name": "MAURICIO ANDRES ROJAS",
@@ -5499,6 +5327,10 @@
 				"category": "A-1"
 			},
 			{
+				"name": "NAHUEL PICCOLI",
+				"category": "A-1"
+			},
+			{
 				"name": "LAURA MERCEDES GABARRA",
 				"category": "A-1"
 			},
@@ -5511,7 +5343,7 @@
 	},
 	{
 		"fullName": "SILVA, MÓNICA ESTHER",
-		"cost": "22977762.89",
+		"cost": "30951423.24",
 		"id": "572",
 		"party": "JUNTOS SOMOS RÍO NEGRO",
 		"province": "RÍO NEGRO",
@@ -5537,10 +5369,6 @@
 				"category": "A-5"
 			},
 			{
-				"name": "MARCELA NORA MARCACCIO",
-				"category": "A-1"
-			},
-			{
 				"name": "ALDANA TAMARA BOBADILLA",
 				"category": "A-1"
 			},
@@ -5553,16 +5381,8 @@
 				"category": "A-4"
 			},
 			{
-				"name": "GIMENA NATALIA WOLDMAN",
-				"category": "A-4"
-			},
-			{
 				"name": "SILVINA MOYANO",
 				"category": "A-4"
-			},
-			{
-				"name": "KARINA SARA SABBAG",
-				"category": "A-1"
 			},
 			{
 				"name": "SOL FRANCISCO LOPEZ FEITO",
@@ -5573,15 +5393,11 @@
 				"category": "A-9"
 			},
 			{
-				"name": "ARISTIDES ALFREDO CALAMARA BUDIÑO",
-				"category": "A-4"
-			},
-			{
 				"name": "IGNACIO AGUSTIN ZUBIRIA",
 				"category": "A-9"
 			},
 			{
-				"name": "SANDRA MIRNA SILVA",
+				"name": "FAVIOLA NATHALIE FRIAS",
 				"category": "A-1"
 			},
 			{
@@ -5601,14 +5417,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "JULIETA MERCEDES ANDREA LUTZ DIAZ",
-				"category": "A-6"
-			},
-			{
-				"name": "CARLA MARIA MO AMAVET",
-				"category": "A-5"
-			},
-			{
 				"name": "GUSTAVO ALEJANDRO ACCORONI",
 				"category": "A-3"
 			}
@@ -5617,7 +5425,7 @@
 	},
 	{
 		"fullName": "SUÁREZ, RODOLFO ALEJANDRO",
-		"cost": "8123259.02",
+		"cost": "16967524.19",
 		"id": "571",
 		"party": "FRENTE CAMBIA MENDOZA",
 		"province": "MENDOZA",
@@ -5625,6 +5433,10 @@
 			{
 				"name": "MARIANO FINKELSTEIN BUGALTER",
 				"category": "A-6"
+			},
+			{
+				"name": "HECTOR OSVALDO SMUD",
+				"category": "A-1"
 			},
 			{
 				"name": "NORA ELIZABETH VICARIO",
@@ -5647,11 +5459,15 @@
 	},
 	{
 		"fullName": "TAGLIAFERRI, GUADALUPE",
-		"cost": "9898196.29",
+		"cost": "14916158.99",
 		"id": "499",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
 		"assistants": [
+			{
+				"name": "JOSE LUIS GAZZE BUENO",
+				"category": "A-2"
+			},
 			{
 				"name": "MARIA EVA AUTON",
 				"category": "A-1"
@@ -5659,14 +5475,6 @@
 			{
 				"name": "MARIA VICTORIA MENDEZ GUERRERO",
 				"category": "A-7"
-			},
-			{
-				"name": "MICAELA YASMIN MARINI",
-				"category": "A-3"
-			},
-			{
-				"name": "PABLO GERMAN AVA",
-				"category": "A-1"
 			},
 			{
 				"name": "MARIA LAURA IBARRA",
@@ -5677,10 +5485,6 @@
 				"category": "A-3"
 			},
 			{
-				"name": "MARTA GRACIELA BIANCO",
-				"category": "A-1"
-			},
-			{
 				"name": "AMADEO FERNANDO GARCIA",
 				"category": "A-5"
 			}
@@ -5689,7 +5493,7 @@
 	},
 	{
 		"fullName": "TERENZI, EDITH ELIZABETH",
-		"cost": "16917032.88",
+		"cost": "27580339.86",
 		"id": "528",
 		"party": "JUNTOS POR EL CAMBIO CHUBUT",
 		"province": "CHUBUT",
@@ -5751,10 +5555,6 @@
 				"category": "A-1"
 			},
 			{
-				"name": "WALTER OMAR TELLECHEA",
-				"category": "A-3"
-			},
-			{
 				"name": "MERCEDES DEMIRJIAN",
 				"category": "A-3"
 			},
@@ -5767,7 +5567,7 @@
 	},
 	{
 		"fullName": "UÑAC, SERGIO MAURICIO",
-		"cost": "19539624.68",
+		"cost": "33695099.64",
 		"id": "561",
 		"party": "ALIANZA UNIÓN POR LA PATRIA",
 		"province": "SAN JUAN",
@@ -5791,10 +5591,6 @@
 			{
 				"name": "CRISTIAN FELIPE ANDINO",
 				"category": "A-1"
-			},
-			{
-				"name": "CARLOS ROLANDO ASTUDILLO",
-				"category": "A-7"
 			},
 			{
 				"name": "EDUARDO MAURICIO IBARRA",
@@ -5829,12 +5625,20 @@
 				"category": "A-7"
 			},
 			{
+				"name": "EMILIANO ALEXANDER PARADISO POLITO",
+				"category": "A-7"
+			},
+			{
 				"name": "RODOLFO CARLOS BRITO",
 				"category": "A-2"
 			},
 			{
 				"name": "VERONICA DANIELA ALTAMIRANO",
 				"category": "A-2"
+			},
+			{
+				"name": "CRISTIAN OSCAR GUIÑAZU",
+				"category": "A-5"
 			},
 			{
 				"name": "MARIA DE LOS ANGELES SILVA",
@@ -5865,15 +5669,11 @@
 	},
 	{
 		"fullName": "VALENZUELA, MERCEDES GABRIELA",
-		"cost": "23256461.44",
+		"cost": "32239672.76",
 		"id": "525",
 		"party": "ECO + VAMOS CORRIENTES",
 		"province": "CORRIENTES",
 		"assistants": [
-			{
-				"name": "MARIO ANTONIO CARIBAUX",
-				"category": "A-1"
-			},
 			{
 				"name": "GLORIA EDITH MIRALLES",
 				"category": "A-6"
@@ -5881,10 +5681,6 @@
 			{
 				"name": "RAFAEL EDUARDO ROMERO",
 				"category": "A-4"
-			},
-			{
-				"name": "JULIAN H. VALENZUELA",
-				"category": "A-1"
 			},
 			{
 				"name": "ELIZABETH ALICIA APARICIO",
@@ -5915,20 +5711,8 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MAGDALENA GONZALEZ ROURA",
-				"category": "A-2"
-			},
-			{
 				"name": "DELIA INES SOLARI",
 				"category": "A-4"
-			},
-			{
-				"name": "HUMBERTO MARIO VAZQUEZ",
-				"category": "A-8"
-			},
-			{
-				"name": "CECILIA EMILCE GARCIA CASARROTA",
-				"category": "A-1"
 			},
 			{
 				"name": "NATALIA LILIANA OBON",
@@ -5939,16 +5723,16 @@
 				"category": "A-1"
 			},
 			{
-				"name": "MARIA EVA CHUECO RODRIGUEZ",
-				"category": "A-5"
-			},
-			{
 				"name": "NICOLAS ACASTELLO",
 				"category": "A-5"
 			},
 			{
 				"name": "HECTOR ANTONIO CASAL",
 				"category": "A-3"
+			},
+			{
+				"name": "BRUNO ELIO LATRONICO",
+				"category": "A-1"
 			},
 			{
 				"name": "FEDERICO LUIS GARCIA",
@@ -5983,7 +5767,7 @@
 	},
 	{
 		"fullName": "VIGO, ALEJANDRA MARÍA",
-		"cost": "8833490.81",
+		"cost": "16393220.62",
 		"id": "523",
 		"party": "HACEMOS POR CÓRDOBA",
 		"province": "CÓRDOBA",
@@ -6021,7 +5805,7 @@
 	},
 	{
 		"fullName": "VISCHI, EDUARDO ALEJANDRO",
-		"cost": "16200379.44",
+		"cost": "18879247.10",
 		"id": "524",
 		"party": "ECO + VAMOS CORRIENTES",
 		"province": "CORRIENTES",
@@ -6031,7 +5815,7 @@
 				"category": "A-9"
 			},
 			{
-				"name": "CANDELA BAEZ KRONEBERGER",
+				"name": "BERNARDO FELIX CAMINO",
 				"category": "A-8"
 			},
 			{
@@ -6039,19 +5823,11 @@
 				"category": "A-1"
 			},
 			{
-				"name": "IGNACIO RODRIGO SEIJAS",
-				"category": "A-2"
-			},
-			{
 				"name": "PAULA D FERNANDEZ",
 				"category": "A-8"
 			},
 			{
 				"name": "PEDRO CARLOS FIORDA",
-				"category": "A-1"
-			},
-			{
-				"name": "GABRIEL ALEJANDRO BARTOLOME",
 				"category": "A-1"
 			},
 			{
@@ -6063,36 +5839,16 @@
 				"category": "A-1"
 			},
 			{
-				"name": "JUAN JOSE MARTICORENA",
-				"category": "A-13"
-			},
-			{
 				"name": "ALEXIS H. ITURRIOZ",
 				"category": "A-8"
-			},
-			{
-				"name": "LEONARDO FRANCISCO OTARAN",
-				"category": "A-1"
-			},
-			{
-				"name": "ERNESTO S. MUTTI PASTOR",
-				"category": "A-1"
 			},
 			{
 				"name": "JOAQUIN ANDRES SCHAFFER ARTIGAS",
 				"category": "A-5"
 			},
 			{
-				"name": "LAUTARO SANTOS GADEA",
-				"category": "A-7"
-			},
-			{
 				"name": "FEDERICO GALVAN",
 				"category": "A-9"
-			},
-			{
-				"name": "ANDRES NICOLAS KALUK",
-				"category": "A-2"
 			},
 			{
 				"name": "MARIA JOSE HUERGA",
@@ -6103,7 +5859,7 @@
 	},
 	{
 		"fullName": "ZIMMERMANN, VICTOR",
-		"cost": "22476876.16",
+		"cost": "37286463.88",
 		"id": "501",
 		"party": "JUNTOS POR EL CAMBIO",
 		"province": "CHACO",
